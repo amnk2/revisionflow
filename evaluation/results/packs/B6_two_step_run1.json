@@ -1,0 +1,145 @@
+{
+  "bundle": "B6",
+  "mode": "two_step",
+  "run": 1,
+  "sources": {
+    "text notes": "Working memory\n- Limited-capacity system that holds information temporarily.\n- Important for reasoning, decision-making and behaviour.\n- Sometimes treated as the same as short-term memory, but working memory also manipulates information.\n- Central idea in cognitive psychology and neuroscience.",
+    "audio transcript": "The most influential account of working memory is the multi-component model proposed by Badly and Hitch in 1974. They suggested that working memory has a central executive, which directs attention and co-ordinates two slave systems. The first is the phonological loop, which stores sound and speech-based information, and which we keep active by rehearsing it silently. The second is the Bessua Spatial Sketchpad, which holds visual and spatial information, for example when you picture a root. In 2000, Badly added a fourth part, the episodic buffer, which links information across the other components and connects working memory to long-term memory.",
+    "slide text": "Capacity of working memory\n* Capacity is limited: only a few items can be held at once\n\u00a2 Miller (1956): the magical number seven, plus or minus two\n\u00ab Later estimates are lower: about four chunks (Cowan, 2001)\n\u00a2 Chunking groups items into larger meaningful units\n* Capacity differs between individuals\n\u00a2 Itis linked to reading comprehension and reasoning\n\u00ab Measured with complex span tasks, such as reading span\n* Capacity develops through childhood\n* Capacity tends to decline in older age",
+    "image caption": "capacity of working memory capacity is limited, often a few few at one time"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Working memory is a limited-capacity system that holds information temporarily, important for reasoning, decision-making, and behavior. It is treated as a separate entity from short-term memory, which manipulates information. The multi-component model proposed by Badly and Hitch in 1974 suggests that working memory has a central executive, phonological loop, spatial sketchpad, and episodic buffer. Capacity is limited, with estimates ranging from 4 to 7 chunks, and develops through childhood, but declines in older age.",
+    "key_concepts": [
+      {
+        "concept": "Working memory is a limited-capacity system",
+        "explanation": "A limited-capacity system that holds information temporarily",
+        "source": "text notes"
+      },
+      {
+        "concept": "Central executive is a key component of working memory",
+        "explanation": "A component that directs attention and coordinates two slave systems",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Capacity is limited, with estimates ranging from 4 to 7 chunks",
+        "explanation": "Estimated to be between 4 to 7 chunks",
+        "source": "slide text"
+      },
+      {
+        "concept": "Capacity develops through childhood",
+        "explanation": "Capacity of working memory",
+        "source": "slide text"
+      },
+      {
+        "concept": "Capacity declines in older age",
+        "explanation": "Capacity of working memory",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is working memory?",
+        "back": "A limited-capacity system that holds information temporarily",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the central executive in working memory?",
+        "back": "A component that directs attention and coordinates two slave systems",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the capacity of working memory?",
+        "back": "Estimated to be between 4 to 7 chunks",
+        "source": "slide text"
+      },
+      {
+        "front": "What develops through childhood?",
+        "back": "Capacity of working memory",
+        "source": "slide text"
+      },
+      {
+        "front": "What declines in older age?",
+        "back": "Capacity of working memory",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the name of the model proposed by Badly and Hitch in 1974?",
+        "options": [
+          "A) Multi-component model",
+          "B) Magical number model",
+          "C) Working memory model",
+          "D) Cognitive psychology model"
+        ],
+        "explanation": "A) Multi-component model",
+        "answer": "A) Multi-component model",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the central executive in working memory?",
+        "options": [],
+        "explanation": "(Student answer)",
+        "answer": "(Student answer)",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What develops through childhood?",
+        "options": [],
+        "explanation": "(Student answer)",
+        "answer": "(Student answer)",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the name of the component that stores sound and speech-based information?",
+        "options": [
+          "A) Central executive",
+          "B) Phonological loop",
+          "C) Spatial sketchpad",
+          "D) Episodic buffer"
+        ],
+        "explanation": "B) Phonological loop",
+        "answer": "B) Phonological loop",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the multi-component model proposed by Badly and Hitch in 1974.",
+      "Practice recalling the capacity of working memory and how it develops through childhood.",
+      "Watch a video or read a summary of the episodic buffer and its role in working memory."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 14.2327415,
+      "load_s": 0.005928083,
+      "prompt_tokens": 640,
+      "output_tokens": 613,
+      "generation_s": 14.018076
+    },
+    "attempt_1": {
+      "total_s": 19.691468791,
+      "load_s": 0.003135125,
+      "prompt_tokens": 1391,
+      "output_tokens": 777,
+      "generation_s": 17.326785
+    },
+    "total_s": 33.939717708999524
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "bundle": "B3",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Inflation\n- A general rise in the average price of goods and services.\n- Each unit of money buys less, so purchasing power falls.\n- Usually measured with a price index, typically the consumer price index (CPI).\n- The opposite is deflation, a fall in the general price level.",
+    "audio transcript": "Today we are looking at how inflation is measured. Most of the time, inflation means a rise in a broad price index that represents the overall price level in the economy. Examples of broad indices are the consumer price index, the personal consumption expenditures price index and the GDP deflator. The inflation rate is usually worked out as the percentage change in the consumer price index over a year. Economists also look at core inflation, which leaves out food and energy prices, because those rise and fall more than other prices in the short term. Narrow indices, such as the producer price index, track prices in particular parts of the economy.",
+    "slide text": "Related concepts\n\u00a2 Deflation: a fall in the general price level\n\u00a2 Disinflation: a decrease in the rate of inflation\n\u00a2 Hyperinflation: an out-of-control inflationary spiral\n\u00a2 Stagflation: inflation, slow growth and high unemployment\n\u00a2 Reflation: an attempt to raise prices to counter deflation",
+    "image caption": "related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Inflation is a general rise in the average price of goods and services, leading to a fall in purchasing power. It is usually measured with a price index, such as the consumer price index (CPI). The opposite of inflation is deflation, a fall in the general price level.",
+    "key_concepts": [
+      {
+        "concept": "Inflation",
+        "explanation": "A general rise in the average price of goods and services.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Deflation",
+        "explanation": "A fall in the general price level.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Consumer Price Index (CPI)",
+        "explanation": "A price index used to measure inflation.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Core inflation",
+        "explanation": "A measure of inflation that excludes food and energy prices.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Producer Price Index",
+        "explanation": "A price index that tracks prices in particular parts of the economy.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Hyperinflation",
+        "explanation": "An out-of-control inflationary spiral.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Stagflation",
+        "explanation": "Inflation, slow growth, and high unemployment.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is inflation?",
+        "back": "A general rise in the average price of goods and services.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the opposite of inflation?",
+        "back": "Deflation.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the CPI?",
+        "back": "A price index used to measure inflation.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is core inflation?",
+        "back": "A measure of inflation that excludes food and energy prices.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the Producer Price Index?",
+        "back": "A price index that tracks prices in particular parts of the economy.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is hyperinflation?",
+        "back": "An out-of-control inflationary spiral.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is stagflation?",
+        "back": "Inflation, slow growth, and high unemployment.",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the opposite of inflation?",
+        "options": [
+          "Deflation",
+          "Hyperinflation",
+          "Stagflation",
+          "Reflation"
+        ],
+        "explanation": "Deflation.",
+        "answer": "Deflation",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Short answer: What is the main purpose of the Consumer Price Index (CPI)?",
+        "options": [],
+        "explanation": "(To be answered by the student)",
+        "answer": "(To be answered by the student)",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Short answer: What is core inflation?",
+        "options": [],
+        "explanation": "(To be answered by the student)",
+        "answer": "(To be answered by the student)",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the Producer Price Index?",
+        "options": [
+          "A price index that tracks prices in particular parts of the economy",
+          "A price index that measures inflation",
+          "A price index that excludes food and energy prices",
+          "A price index that tracks prices in the short term"
+        ],
+        "explanation": "A price index that tracks prices in particular parts of the economy.",
+        "answer": "A price index that tracks prices in particular parts of the economy",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Short answer: What is hyperinflation?",
+        "options": [],
+        "explanation": "(To be answered by the student)",
+        "answer": "(To be answered by the student)",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is stagflation?",
+        "options": [
+          "Inflation, slow growth, and high unemployment",
+          "Deflation, slow growth, and high unemployment",
+          "Hyperinflation, slow growth, and high unemployment",
+          "Reflation, slow growth, and high unemployment"
+        ],
+        "explanation": "Inflation, slow growth, and high unemployment.",
+        "answer": "Inflation, slow growth, and high unemployment",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Review the definition of inflation and its measurement using the Consumer Price Index (CPI).",
+      "Study the examples of broad and narrow price indices, including the Producer Price Index.",
+      "Analyze the concept of core inflation and its significance in understanding inflation."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 13.932501208,
+      "load_s": 0.007915167,
+      "prompt_tokens": 616,
+      "output_tokens": 729,
+      "generation_s": 13.742133
+    },
+    "attempt_1": {
+      "total_s": 20.176799458,
+      "load_s": 0.002881708,
+      "prompt_tokens": 1507,
+      "output_tokens": 992,
+      "generation_s": 20.030776
+    },
+    "total_s": 34.13863904200116
+  }
+}

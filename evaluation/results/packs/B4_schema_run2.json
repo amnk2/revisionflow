@@ -1,0 +1,164 @@
+{
+  "bundle": "B4",
+  "mode": "schema",
+  "run": 2,
+  "sources": {
+    "text notes": "Industrial Revolution\n- Began in Great Britain around 1760 and spread to Europe and the US by about 1840.\n- Shift from hand production to machines and factories.\n- New iron-making and chemical processes; more use of water and steam power.\n- Textiles were the first industry to use modern production methods.",
+    "audio transcript": "In this section we are going to talk about steam power, in the early years of the Industrial Revolution, most industrial power actually came from water and wind. The first commercially successful use of steam was a pump patented by Thomas Savory in 1698. Then, before 1712, Thomas Newkerman introduced the first successful piston steam engine, which was used to drain deep mines. Newcomen engines were very inefficient, but where Cole was cheap they let mines go much deeper. The big change came with James Watt, working with his business partner Matthew Bolton, Watt added a separate condenser, which made the engine far more efficient. By 1800 Britain had an estimated 10,000 horsepower supplied by steam.",
+    "slide text": "Textile machinery\n* Flying shuttle (John Kay, 1733) sped up weaving\n* Spinning jenny (James Hargreaves, around 1764)\n\u00ab Water frame (Richard Arkwright, 1769)\n* Spinning mule (Samuel Crompton, 1779)",
+    "image caption": "a white paper with a black and white text"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "The Industrial Revolution began in Great Britain around 1760 and spread to Europe and the US by 1840. It marked a shift from hand production to machines and factories, with new iron-making and chemical processes, and more use of water and steam power.",
+    "key_concepts": [
+      {
+        "concept": "Steam Power",
+        "explanation": "Steam power became a major source of industrial power in the early years of the Industrial Revolution, with the first commercially successful use of steam dating back to 1698.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Textile Machinery",
+        "explanation": "Textile machinery, such as the flying shuttle, spinning jenny, and spinning mule, played a crucial role in the development of the Industrial Revolution.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Key Dates",
+        "explanation": "Key dates in the Industrial Revolution include 1698 (first commercially successful use of steam), 1712 (introduction of the piston steam engine), and 1760 (beginning of the Industrial Revolution in Great Britain).",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Industrial Revolution",
+        "explanation": "The Industrial Revolution was a period of significant economic, social, and technological change that transformed the way goods were produced and societies functioned.",
+        "source": "text notes"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What was the first commercially successful use of steam?",
+        "back": "1698",
+        "source": "audio transcript"
+      },
+      {
+        "front": "Who introduced the first successful piston steam engine?",
+        "back": "Thomas Newkerman",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What was the name of the textile machinery that sped up weaving?",
+        "back": "Flying shuttle",
+        "source": "slide text"
+      },
+      {
+        "front": "Who invented the spinning jenny?",
+        "back": "James Hargreaves",
+        "source": "slide text"
+      },
+      {
+        "front": "What was the name of the textile machinery that was invented in 1779?",
+        "back": "Spinning mule",
+        "source": "slide text"
+      },
+      {
+        "front": "What was the major source of industrial power in the early years of the Industrial Revolution?",
+        "back": "Steam power",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What was the estimated number of horsepower supplied by steam in Britain by 1800?",
+        "back": "10,000",
+        "source": "audio transcript"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What was the first commercially successful use of steam?",
+        "options": [
+          "1697",
+          "1698",
+          "1700",
+          "1701"
+        ],
+        "explanation": "The first commercially successful use of steam was in 1698.",
+        "answer": "1698",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Who introduced the first successful piston steam engine?",
+        "options": [],
+        "explanation": "Thomas Newkerman introduced the first successful piston steam engine before 1712.",
+        "answer": "Thomas Newkerman",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What was the name of the textile machinery that sped up weaving?",
+        "options": [
+          "Flying shuttle",
+          "Spinning jenny",
+          "Spinning mule",
+          "Water frame"
+        ],
+        "explanation": "The flying shuttle was a textile machinery that sped up weaving.",
+        "answer": "Flying shuttle",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Who invented the spinning jenny?",
+        "options": [],
+        "explanation": "James Hargreaves invented the spinning jenny around 1764.",
+        "answer": "James Hargreaves",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What was the name of the textile machinery that was invented in 1779?",
+        "options": [
+          "Spinning jenny",
+          "Spinning mule",
+          "Water frame",
+          "Flying shuttle"
+        ],
+        "explanation": "The spinning mule was a textile machinery that was invented in 1779.",
+        "answer": "Spinning mule",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What was the major source of industrial power in the early years of the Industrial Revolution?",
+        "options": [],
+        "explanation": "Steam power was the major source of industrial power in the early years of the Industrial Revolution.",
+        "answer": "Steam power",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the key dates in the Industrial Revolution",
+      "Analyze the impact of steam power on the Industrial Revolution",
+      "Compare and contrast the different textile machinery"
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 20.165610083,
+      "load_s": 0.007391458,
+      "prompt_tokens": 1311,
+      "output_tokens": 992,
+      "generation_s": 20.113036
+    },
+    "total_s": 20.190833041000587
+  }
+}

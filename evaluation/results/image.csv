@@ -1,0 +1,173 @@
+bundle,style,method,key_term_recall,cer,mean_confidence,seconds,terms_found,text
+B1,simple,ocr_binarised=True,1.0,0.0,95.5,0.36,Program counter; PC; next instruction; Memory address register; MAR; Memory data register; MDR; Current instruction register; CIR; decoded,"Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to
+memory
+Current instruction register (CIR): instruction being decoded"
+B1,simple,ocr_binarised=False,1.0,0.0,95.5,0.23,Program counter; PC; next instruction; Memory address register; MAR; Memory data register; MDR; Current instruction register; CIR; decoded,"Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to
+memory
+Current instruction register (CIR): instruction being decoded"
+B1,simple,blip_caption,0.0,,,1.99,,registerer in instruction cycle
+B1,simple,ocr+caption,1.0,,,,Program counter; PC; next instruction; Memory address register; MAR; Memory data register; MDR; Current instruction register; CIR; decoded,"Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to
+memory
+Current instruction register (CIR): instruction being decoded
+registerer in instruction cycle"
+B2,dense,ocr_binarised=True,1.0,0.0351,90.5,0.36,"stroma; RuBisCO; CO2; ribulose 1,5-bisphosphate; glycerate 3-phosphate; ATP; NADPH; glyceraldehyde 3-phosphate; sucrose; starch","The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+* The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+* This produces two molecules of glycerate 3-phosphate
+*« Uses the ATP and NADPH made in the light-dependent reactions
+* Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+* Five out of six molecules are used to regenerate RUBP
+* The remaining triose phosphates form sucrose and starch
+* Sugars are also used for cellulose and cellular respiration"
+B2,dense,ocr_binarised=False,1.0,0.0333,86.6,0.36,"stroma; RuBisCO; CO2; ribulose 1,5-bisphosphate; glycerate 3-phosphate; ATP; NADPH; glyceraldehyde 3-phosphate; sucrose; starch","The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+« The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+¢ This produces two molecules of glycerate 3-phosphate
+« Uses the ATP and NADPH made in the light-dependent reactions
+¢ Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+¢ Five out of six molecules are used to regenerate RUBP
+* The remaining triose phosphates form sucrose and starch
+¢ Sugars are also used for cellulose and cellular respiration"
+B2,dense,blip_caption,0.0,,,0.41,,the calve light - dependent
+B2,dense,ocr+caption,1.0,,,,"stroma; RuBisCO; CO2; ribulose 1,5-bisphosphate; glycerate 3-phosphate; ATP; NADPH; glyceraldehyde 3-phosphate; sucrose; starch","The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+* The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+* This produces two molecules of glycerate 3-phosphate
+*« Uses the ATP and NADPH made in the light-dependent reactions
+* Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+* Five out of six molecules are used to regenerate RUBP
+* The remaining triose phosphates form sucrose and starch
+* Sugars are also used for cellulose and cellular respiration
+the calve light - dependent"
+B3,dark,ocr_binarised=True,1.0,0.0355,90.0,0.23,Deflation; Disinflation; rate of inflation; Hyperinflation; inflationary spiral; Stagflation; slow growth; high unemployment; Reflation; general price level,"Related concepts
+* Deflation: a fall in the general price level
+* Disinflation: a decrease in the rate of inflation
+« Hyperinflation: an out-of-control inflationary spiral
+* Stagflation: inflation, slow growth and high unemployment
+« Reflation: an attempt to raise prices to counter deflation"
+B3,dark,ocr_binarised=False,1.0,0.0355,91.4,0.32,Deflation; Disinflation; rate of inflation; Hyperinflation; inflationary spiral; Stagflation; slow growth; high unemployment; Reflation; general price level,"Related concepts
+¢ Deflation: a fall in the general price level
+¢ Disinflation: a decrease in the rate of inflation
+¢ Hyperinflation: an out-of-control inflationary spiral
+¢ Stagflation: inflation, slow growth and high unemployment
+¢ Reflation: an attempt to raise prices to counter deflation"
+B3,dark,blip_caption,0.0,,,0.95,,related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related
+B3,dark,ocr+caption,1.0,,,,Deflation; Disinflation; rate of inflation; Hyperinflation; inflationary spiral; Stagflation; slow growth; high unemployment; Reflation; general price level,"Related concepts
+* Deflation: a fall in the general price level
+* Disinflation: a decrease in the rate of inflation
+« Hyperinflation: an out-of-control inflationary spiral
+* Stagflation: inflation, slow growth and high unemployment
+« Reflation: an attempt to raise prices to counter deflation
+related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related concepts related"
+B4,photo,ocr_binarised=True,1.0,0.0426,84.6,0.22,Flying shuttle; John Kay; 1733; weaving; Spinning jenny; James Hargreaves; Water frame; Richard Arkwright; Spinning mule; Samuel Crompton,"Textile machinery
+- Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+« Water frame (Richard Arkwright, 1769)
+¢ Spinning mule (Samuel Crompton, 1779)"
+B4,photo,ocr_binarised=False,1.0,0.0426,86.3,0.21,Flying shuttle; John Kay; 1733; weaving; Spinning jenny; James Hargreaves; Water frame; Richard Arkwright; Spinning mule; Samuel Crompton,"Textile machinery
+* Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+« Water frame (Richard Arkwright, 1769)
+* Spinning mule (Samuel Crompton, 1779)"
+B4,photo,blip_caption,0.0,,,0.48,,a white paper with a black and white text
+B4,photo,ocr+caption,1.0,,,,Flying shuttle; John Kay; 1733; weaving; Spinning jenny; James Hargreaves; Water frame; Richard Arkwright; Spinning mule; Samuel Crompton,"Textile machinery
+- Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+« Water frame (Richard Arkwright, 1769)
+¢ Spinning mule (Samuel Crompton, 1779)
+a white paper with a black and white text"
+B5,simple,ocr_binarised=True,1.0,0.0479,91.9,0.19,Sigma bond; head-on overlap; orbitals; Pi bond; side-on overlap; p orbitals; Single bond; 1 sigma bond; Double bond; 1 pi bond,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+* Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,ocr_binarised=False,1.0,0.0479,91.7,0.18,Sigma bond; head-on overlap; orbitals; Pi bond; side-on overlap; p orbitals; Single bond; 1 sigma bond; Double bond; 1 pi bond,"Types of covalent bond
+¢ Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+¢ Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,blip_caption,0.0,,,0.57,,types of ovaroid sign - head - overload orbital
+B5,simple,ocr+caption,1.0,,,,Sigma bond; head-on overlap; orbitals; Pi bond; side-on overlap; p orbitals; Single bond; 1 sigma bond; Double bond; 1 pi bond,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+* Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond
+types of ovaroid sign - head - overload orbital"
+B6,dense,ocr_binarised=True,1.0,0.0403,92.6,0.32,limited; Miller; magical number seven; four chunks; Cowan; Chunking; individuals; reading comprehension; complex span tasks; reading span,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+* Miller (1956): the magical number seven, plus or minus two
+* Later estimates are lower: about four chunks (Cowan, 2001)
+* Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+* Itis linked to reading comprehension and reasoning
+* Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age"
+B6,dense,ocr_binarised=False,1.0,0.0403,88.5,0.31,limited; Miller; magical number seven; four chunks; Cowan; Chunking; individuals; reading comprehension; complex span tasks; reading span,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+¢ Miller (1956): the magical number seven, plus or minus two
+« Later estimates are lower: about four chunks (Cowan, 2001)
+¢ Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+¢ Itis linked to reading comprehension and reasoning
+« Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age"
+B6,dense,blip_caption,0.1,,,0.75,limited,"capacity of working memory capacity is limited, often a few few at one time"
+B6,dense,ocr+caption,1.0,,,,limited; Miller; magical number seven; four chunks; Cowan; Chunking; individuals; reading comprehension; complex span tasks; reading span,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+* Miller (1956): the magical number seven, plus or minus two
+* Later estimates are lower: about four chunks (Cowan, 2001)
+* Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+* Itis linked to reading comprehension and reasoning
+* Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age
+capacity of working memory capacity is limited, often a few few at one time"
+B7,dark,ocr_binarised=True,1.0,0.0413,91.6,0.22,Net force; acceleration; F = ma; Unit of force; newton; kg; Larger mass; smaller acceleration; Weight; gravitational field strength,"Applying the second law
+« Net force = mass x acceleration (F = ma)
+« Unit of force: the newton (N) = 1 kg m/s2
+« Larger mass means smaller acceleration for the same force
+*« Weight = mass x gravitational field strength (W = mg)"
+B7,dark,ocr_binarised=False,1.0,0.0367,89.2,0.31,Net force; acceleration; F = ma; Unit of force; newton; kg; Larger mass; smaller acceleration; Weight; gravitational field strength,"Applying the second law
+¢ Net force = mass x acceleration (F = ma)
+¢ Unit of force: the newton (N) = 1 kg m/s2
+e Larger mass means smaller acceleration for the same force
+¢ Weight = mass x gravitational field strength (W = mg)"
+B7,dark,blip_caption,0.0,,,0.35,,applying the second law
+B7,dark,ocr+caption,1.0,,,,Net force; acceleration; F = ma; Unit of force; newton; kg; Larger mass; smaller acceleration; Weight; gravitational field strength,"Applying the second law
+« Net force = mass x acceleration (F = ma)
+« Unit of force: the newton (N) = 1 kg m/s2
+« Larger mass means smaller acceleration for the same force
+*« Weight = mass x gravitational field strength (W = mg)
+applying the second law"
+B8,photo,ocr_binarised=True,1.0,0.0385,83.8,0.22,Hashing by division; k mod m; Hashing by multiplication; constant; good hash function; spreads keys; uniformly; Deterministic; same key; same index,"Hash functions
+« Hashing by division: h(k) = k mod m
+« Hashing by multiplication uses a constant between 0 and 1
+« A good hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,ocr_binarised=False,1.0,0.0385,87.1,0.23,Hashing by division; k mod m; Hashing by multiplication; constant; good hash function; spreads keys; uniformly; Deterministic; same key; same index,"Hash functions
+* Hashing by division: h(k) = k mod m
+» Hashing by multiplication uses a constant between 0 and 1
+« Agood hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,blip_caption,0.0,,,1.21,,hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function
+B8,photo,ocr+caption,1.0,,,,Hashing by division; k mod m; Hashing by multiplication; constant; good hash function; spreads keys; uniformly; Deterministic; same key; same index,"Hash functions
+« Hashing by division: h(k) = k mod m
+« Hashing by multiplication uses a constant between 0 and 1
+« A good hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index
+hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function"

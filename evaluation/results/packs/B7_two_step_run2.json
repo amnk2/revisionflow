@@ -1,0 +1,175 @@
+{
+  "bundle": "B7",
+  "mode": "two_step",
+  "run": 2,
+  "sources": {
+    "text notes": "Newton's laws of motion\n- Three laws linking the motion of an object to the forces acting on it.\n- The basis of Newtonian (classical) mechanics.\n- First stated by Isaac Newton in the Principia, published in 1687.",
+    "audio transcript": "Let's go through the three laws. The first law says that a body stays at rest, or keeps moving at a constant speed in a straight line. Unless a force acts on it, this tendency to resist changes in motion is called inertia. The second law says that the net force on a body equals its mass multiplied by its acceleration, which we write as F equals MA equivalently. Forces the rate of change of momentum. The third law says that when two bodies exert forces on each other, the forces are equal in size and opposite in direction. So when you push against a wall, the wall pushes back on you just as hard.",
+    "slide text": "Applying the second law\n\u00a2 Net force = mass x acceleration (F = ma)\n\u00a2 Unit of force: the newton (N) = 1 kg m/s2\ne Larger mass means smaller acceleration for the same force\n\u00a2 Weight = mass x gravitational field strength (W = mg)",
+    "image caption": "applying the second law"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Newton's laws of motion are three laws linking the motion of an object to the forces acting on it. The first law states that a body stays at rest or keeps moving at a constant speed unless a force acts on it. The second law states that the net force on a body equals its mass multiplied by its acceleration. The third law states that when two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+    "key_concepts": [
+      {
+        "concept": "Inertia: the tendency to resist changes in motion",
+        "explanation": "the tendency to resist changes in motion",
+        "source": "text notes"
+      },
+      {
+        "concept": "Net force: the force acting on an object",
+        "explanation": "the force acting on an object",
+        "source": "slide text"
+      },
+      {
+        "concept": "Mass: a measure of an object's resistance to changes in motion",
+        "explanation": "a measure of an object's resistance to changes in motion",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Acceleration: the rate of change of an object's motion",
+        "explanation": "the rate of change of an object's motion",
+        "source": "text notes"
+      },
+      {
+        "concept": "Newton's second law: F = ma",
+        "explanation": "F = ma",
+        "source": "slide text"
+      },
+      {
+        "concept": "Weight and mass",
+        "explanation": "the relationship between weight and mass",
+        "source": "slide text"
+      },
+      {
+        "concept": "Force and acceleration",
+        "explanation": "the relationship between force and acceleration",
+        "source": "slide text"
+      },
+      {
+        "concept": "The force acting on an object",
+        "explanation": "the term for the force acting on an object",
+        "source": "text notes"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the term for the tendency to resist changes in motion?",
+        "back": "Inertia: the tendency to resist changes in motion",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the unit of force?",
+        "back": "Newton (N)",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the relationship between net force and mass?",
+        "back": "the net force on a body equals its mass multiplied by its acceleration",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the third law of motion?",
+        "back": "when two bodies exert forces on each other, the forces are equal in size and opposite in direction",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the term for the rate of change of an object's motion?",
+        "back": "Acceleration: the rate of change of an object's motion",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the relationship between weight and mass?",
+        "back": "the relationship between weight and mass",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the relationship between force and acceleration?",
+        "back": "F = ma",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the force acting on an object?",
+        "back": "the term for the force acting on an object",
+        "source": "text notes"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the unit of force?",
+        "options": [
+          "Newton (N)",
+          "Kilogram (kg)",
+          "Meter (m)",
+          "Second (s)"
+        ],
+        "explanation": "the unit of force",
+        "answer": "Newton (N)",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Describe the third law of motion.",
+        "options": [],
+        "explanation": "when two bodies exert forces on each other, the forces are equal in size and opposite in direction",
+        "answer": "when two bodies exert forces on each other, the forces are equal in size and opposite in direction",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Explain the relationship between net force and mass.",
+        "options": [],
+        "explanation": "the net force on a body equals its mass multiplied by its acceleration",
+        "answer": "the net force on a body equals its mass multiplied by its acceleration",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the relationship between force and acceleration?",
+        "options": [
+          "F = a",
+          "F = ma",
+          "F = m",
+          "F = a^2"
+        ],
+        "explanation": "the relationship between force and acceleration",
+        "answer": "F = ma",
+        "source": "text notes"
+      }
+    ],
+    "revision_plan": [
+      "Review the three laws of motion and their applications.",
+      "Practice applying the second law to different scenarios.",
+      "Create a diagram illustrating the third law of motion."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 11.506435417,
+      "load_s": 0.003927917,
+      "prompt_tokens": 583,
+      "output_tokens": 527,
+      "generation_s": 11.410674
+    },
+    "attempt_1": {
+      "total_s": 22.449995333,
+      "load_s": 0.002887,
+      "prompt_tokens": 1305,
+      "output_tokens": 996,
+      "generation_s": 22.351745
+    },
+    "total_s": 33.975862709005014
+  }
+}

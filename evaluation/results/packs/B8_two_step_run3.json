@@ -1,0 +1,167 @@
+{
+  "bundle": "B8",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Hash tables\n- Data structure that maps keys to values (an associative array or dictionary).\n- A hash function turns a key into an index into an array of buckets.\n- A lookup hashes the key to find where the value is stored.\n- Average lookup time does not depend on the number of elements.",
+    "audio transcript": "Most hash functions are imperfect, so two different keys can end up with the same index. This is called a collision, and every hash table needs a way to handle it. The first common strategy is separate chaining, where each slot holds a linked list of all the entries that hash to it. The second is open addressing, where, if a slot is already taken, we probe through the table looking for the next free slot, how well either strategy works depends on the load factor, which is the number of entries divided by the number of buckets. When the load factor gets too high, the table is resized and every entry is rehashed.",
+    "slide text": "Hash functions\n* Hashing by division: h(k) = k mod m\n\u00bb Hashing by multiplication uses a constant between 0 and 1\n\u00ab Agood hash function spreads keys uniformly\n* Deterministic: the same key always gives the same index",
+    "image caption": "hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "combined",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Hash tables use a hash function to map keys to values. The average lookup time does not depend on the number of elements. Hash functions can be imperfect, leading to collisions. Separate chaining and open addressing are common strategies to handle collisions. The load factor affects the performance of the hash table.",
+    "key_concepts": [
+      {
+        "concept": "Hash tables map keys to values using a hash function.",
+        "explanation": "Hash tables use a hash function to map keys to values.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Hash functions can be imperfect, leading to collisions.",
+        "explanation": "Hash functions can be imperfect, leading to collisions.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Separate chaining and open addressing are strategies to handle collisions.",
+        "explanation": "Separate chaining and open addressing are common strategies to handle collisions.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Hashing by division and hashing by multiplication are two types of hash functions.",
+        "explanation": "Hashing by division and hashing by multiplication are two types of hash functions.",
+        "source": "slide text"
+      },
+      {
+        "concept": "A good hash function spreads keys uniformly.",
+        "explanation": "A good hash function spreads keys uniformly.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Deterministic hash functions always give the same index for a given key.",
+        "explanation": "Deterministic hash functions always give the same index for a given key.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is a hash table?",
+        "back": "A data structure that maps keys to values (an associative array or dictionary).",
+        "source": "text notes"
+      },
+      {
+        "front": "What is a collision in a hash table?",
+        "back": "When two different keys end up with the same index.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is separate chaining?",
+        "back": "A strategy to handle collisions where each slot holds a linked list of all the entries that hash to it.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is open addressing?",
+        "back": "A strategy to handle collisions where, if a slot is already taken, we probe through the table looking for the next free slot.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the load factor?",
+        "back": "The number of entries divided by the number of buckets.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is hashing by division?",
+        "back": "A type of hash function where h(k) = k mod m.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is hashing by multiplication?",
+        "back": "A type of hash function that uses a constant between 0 and 1.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is a good hash function?",
+        "back": "A hash function that spreads keys uniformly.",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of a hash function?",
+        "options": [
+          "A) To store data in a table",
+          "B) To map keys to values",
+          "C) To sort data in ascending order",
+          "D) To calculate the average lookup time"
+        ],
+        "explanation": "B) To map keys to values",
+        "answer": "B) To map keys to values",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is a collision in a hash table?",
+        "options": [],
+        "explanation": "When two different keys end up with the same index.",
+        "answer": "When two different keys end up with the same index.",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the load factor?",
+        "options": [
+          "A) The number of entries divided by the number of buckets",
+          "B) The number of buckets divided by the number of entries",
+          "C) The number of free slots in the table",
+          "D) The number of collisions in the table"
+        ],
+        "explanation": "A) The number of entries divided by the number of buckets",
+        "answer": "A) The number of entries divided by the number of buckets",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is hashing by division?",
+        "options": [],
+        "explanation": "A type of hash function where h(k) = k mod m.",
+        "answer": "A type of hash function where h(k) = k mod m.",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Hash tables use a hash function to map keys to values.",
+      "Hash functions can be imperfect, leading to collisions.",
+      "Separate chaining and open addressing are common strategies to handle collisions.",
+      "The load factor affects the performance of the hash table."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 14.236709666,
+      "load_s": 0.003857375,
+      "prompt_tokens": 609,
+      "output_tokens": 803,
+      "generation_s": 14.134683
+    },
+    "attempt_1": {
+      "total_s": 19.121894583,
+      "load_s": 0.00485575,
+      "prompt_tokens": 1581,
+      "output_tokens": 1021,
+      "generation_s": 19.005964
+    },
+    "total_s": 33.3741586249962
+  }
+}

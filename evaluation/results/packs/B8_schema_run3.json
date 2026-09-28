@@ -1,0 +1,167 @@
+{
+  "bundle": "B8",
+  "mode": "schema",
+  "run": 3,
+  "sources": {
+    "text notes": "Hash tables\n- Data structure that maps keys to values (an associative array or dictionary).\n- A hash function turns a key into an index into an array of buckets.\n- A lookup hashes the key to find where the value is stored.\n- Average lookup time does not depend on the number of elements.",
+    "audio transcript": "Most hash functions are imperfect, so two different keys can end up with the same index. This is called a collision, and every hash table needs a way to handle it. The first common strategy is separate chaining, where each slot holds a linked list of all the entries that hash to it. The second is open addressing, where, if a slot is already taken, we probe through the table looking for the next free slot, how well either strategy works depends on the load factor, which is the number of entries divided by the number of buckets. When the load factor gets too high, the table is resized and every entry is rehashed.",
+    "slide text": "Hash functions\n* Hashing by division: h(k) = k mod m\n\u00bb Hashing by multiplication uses a constant between 0 and 1\n\u00ab Agood hash function spreads keys uniformly\n* Deterministic: the same key always gives the same index",
+    "image caption": "hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function hash function"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Hash tables are data structures that map keys to values. A hash function turns a key into an index into an array of buckets. Hash tables have an average lookup time that does not depend on the number of elements.",
+    "key_concepts": [
+      {
+        "concept": "Hash table",
+        "explanation": "A data structure that maps keys to values",
+        "source": "text notes"
+      },
+      {
+        "concept": "Hash function",
+        "explanation": "A function that turns a key into an index into an array of buckets",
+        "source": "text notes"
+      },
+      {
+        "concept": "Collision",
+        "explanation": "When two different keys end up with the same index",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Separate chaining",
+        "explanation": "A strategy for handling collisions",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Open addressing",
+        "explanation": "Another strategy for handling collisions",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Load factor",
+        "explanation": "The number of entries divided by the number of buckets",
+        "source": "audio transcript"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is a hash table?",
+        "back": "A data structure that maps keys to values",
+        "source": "text notes"
+      },
+      {
+        "front": "What is a hash function?",
+        "back": "A function that turns a key into an index into an array of buckets",
+        "source": "text notes"
+      },
+      {
+        "front": "What is a collision in a hash table?",
+        "back": "When two different keys end up with the same index",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is separate chaining?",
+        "back": "A strategy for handling collisions",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is open addressing?",
+        "back": "Another strategy for handling collisions",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the load factor?",
+        "back": "The number of entries divided by the number of buckets",
+        "source": "audio transcript"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "short_answer",
+        "question": "What is a hash table?",
+        "options": [],
+        "explanation": "A data structure that maps keys to values",
+        "answer": "A data structure that maps keys to values",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is a hash function?",
+        "options": [
+          "A function that turns a key into an index into an array of buckets",
+          "A data structure that maps keys to values",
+          "A strategy for handling collisions"
+        ],
+        "explanation": "A function that turns a key into an index into an array of buckets",
+        "answer": "A function that turns a key into an index into an array of buckets",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is a collision in a hash table?",
+        "options": [],
+        "explanation": "When two different keys end up with the same index",
+        "answer": "When two different keys end up with the same index",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is separate chaining?",
+        "options": [
+          "A strategy for handling collisions",
+          "A data structure that maps keys to values",
+          "A function that turns a key into an index into an array of buckets"
+        ],
+        "explanation": "A strategy for handling collisions",
+        "answer": "A strategy for handling collisions",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the load factor?",
+        "options": [],
+        "explanation": "The number of entries divided by the number of buckets",
+        "answer": "The number of entries divided by the number of buckets",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is open addressing?",
+        "options": [
+          "Another strategy for handling collisions",
+          "A data structure that maps keys to values",
+          "A function that turns a key into an index into an array of buckets",
+          "A strategy for handling collisions"
+        ],
+        "explanation": "Another strategy for handling collisions",
+        "answer": "Another strategy for handling collisions",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the definition of a hash table",
+      "Practice creating hash functions",
+      "Analyze the trade-offs of separate chaining and open addressing"
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 20.883094292,
+      "load_s": 0.004407875,
+      "prompt_tokens": 1299,
+      "output_tokens": 929,
+      "generation_s": 20.831966
+    },
+    "total_s": 20.892906374996528
+  }
+}

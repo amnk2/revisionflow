@@ -1,0 +1,164 @@
+{
+  "bundle": "B2",
+  "mode": "schema",
+  "run": 1,
+  "sources": {
+    "text notes": "Photosynthesis\n- Plants, algae and cyanobacteria convert light energy into chemical energy.\n- Oxygenic photosynthesis releases oxygen as a by-product of splitting water.\n- The energy is stored in carbohydrates such as glucose, sucrose and starch.\n- Cells later release this energy through cellular respiration.",
+    "audio transcript": "Let's look at the light-dependent reactions. A molecule of chlorophyll absorbs a photon and loses an electron. That electron is passed along an electron transport chain, which ultimately reduces NADP to NADPH. At the same time, a proton gradient builds up across the chloroplast membrane, and the enzyme ATP synthase uses this gradient to make ATP. The chlorophyll gets its lost electron back when a water molecule is split in a process called photolysis. and this is what releases oxygen, not every wavelength of light is useful, in green plants. Chlorophyll absorbs mostly violet blue and red light, and the green light that is not absorbed is why leaves look green.",
+    "slide text": "The Calvin cycle (light-independent reactions)\n* Takes place in the stroma of the chloroplast\n\u00ab The enzyme RuBisCO captures CO2 from the atmosphere\n* CO2 combines with ribulose 1,5-bisphosphate (RuBP)\n\u00a2 This produces two molecules of glycerate 3-phosphate\n\u00ab Uses the ATP and NADPH made in the light-dependent reactions\n\u00a2 Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate\n\u00a2 Five out of six molecules are used to regenerate RUBP\n* The remaining triose phosphates form sucrose and starch\n\u00a2 Sugars are also used for cellulose and cellular respiration",
+    "image caption": "the calve light - dependent"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Photosynthesis is the process by which plants, algae, and cyanobacteria convert light energy into chemical energy. Oxygen is released as a by-product of splitting water, and the energy is stored in carbohydrates such as glucose, sucrose, and starch. The light-dependent reactions involve the absorption of light energy by chlorophyll, which is then used to produce ATP and NADPH. The Calvin cycle, also known as the light-independent reactions, takes place in the stroma of the chloroplast and uses the ATP and NADPH produced in the light-dependent reactions to fix CO2 into organic compounds.",
+    "key_concepts": [
+      {
+        "concept": "Photosynthesis",
+        "explanation": "The process by which plants, algae, and cyanobacteria convert light energy into chemical energy.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Light-dependent reactions",
+        "explanation": "The process by which light energy is absorbed by chlorophyll and used to produce ATP and NADPH.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Calvin cycle",
+        "explanation": "The process by which CO2 is fixed into organic compounds using the ATP and NADPH produced in the light-dependent reactions.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the by-product of photosynthesis?",
+        "back": "Oxygen",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the role of chlorophyll in photosynthesis?",
+        "back": "To absorb light energy and produce ATP and NADPH.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the purpose of the Calvin cycle?",
+        "back": "To fix CO2 into organic compounds using the ATP and NADPH produced in the light-dependent reactions.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the source of energy for photosynthesis?",
+        "back": "Light energy.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the role of ATP and NADPH in photosynthesis?",
+        "back": "To produce energy for the Calvin cycle.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the result of the Calvin cycle?",
+        "back": "Organic compounds such as glucose, sucrose, and starch.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the purpose of the light-dependent reactions?",
+        "back": "To produce ATP and NADPH.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the role of the Calvin cycle in relation to the light-dependent reactions?",
+        "back": "To use the ATP and NADPH produced in the light-dependent reactions to fix CO2 into organic compounds.",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the by-product of photosynthesis?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Water",
+          "Glucose"
+        ],
+        "explanation": "The correct answer is Oxygen.",
+        "answer": "Oxygen",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the role of chlorophyll in photosynthesis?",
+        "options": [],
+        "explanation": "Chlorophyll absorbs light energy and produces ATP and NADPH.",
+        "answer": "Chlorophyll absorbs light energy and produces ATP and NADPH.",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the Calvin cycle?",
+        "options": [
+          "To produce ATP and NADPH",
+          "To fix CO2 into organic compounds",
+          "To produce glucose",
+          "To produce oxygen"
+        ],
+        "explanation": "The correct answer is To fix CO2 into organic compounds.",
+        "answer": "To fix CO2 into organic compounds",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the result of the Calvin cycle?",
+        "options": [],
+        "explanation": "The Calvin cycle produces organic compounds such as glucose, sucrose, and starch.",
+        "answer": "Organic compounds such as glucose, sucrose, and starch.",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the source of energy for photosynthesis?",
+        "options": [
+          "Light energy",
+          "Water energy",
+          "Carbon dioxide energy",
+          "Glucose energy"
+        ],
+        "explanation": "The correct answer is Light energy.",
+        "answer": "Light energy",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the role of ATP and NADPH in photosynthesis?",
+        "options": [],
+        "explanation": "ATP and NADPH produce energy for the Calvin cycle.",
+        "answer": "ATP and NADPH produce energy for the Calvin cycle.",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the light-dependent reactions and the Calvin cycle.",
+      "Practice creating flashcards for key concepts.",
+      "Take a practice quiz to assess understanding of photosynthesis."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 22.400248709,
+      "load_s": 0.005394875,
+      "prompt_tokens": 1376,
+      "output_tokens": 1053,
+      "generation_s": 20.204868
+    },
+    "total_s": 22.40947624999535
+  }
+}

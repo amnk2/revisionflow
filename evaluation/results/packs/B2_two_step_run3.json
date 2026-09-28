@@ -1,0 +1,163 @@
+{
+  "bundle": "B2",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Photosynthesis\n- Plants, algae and cyanobacteria convert light energy into chemical energy.\n- Oxygenic photosynthesis releases oxygen as a by-product of splitting water.\n- The energy is stored in carbohydrates such as glucose, sucrose and starch.\n- Cells later release this energy through cellular respiration.",
+    "audio transcript": "Let's look at the light-dependent reactions. A molecule of chlorophyll absorbs a photon and loses an electron. That electron is passed along an electron transport chain, which ultimately reduces NADP to NADPH. At the same time, a proton gradient builds up across the chloroplast membrane, and the enzyme ATP synthase uses this gradient to make ATP. The chlorophyll gets its lost electron back when a water molecule is split in a process called photolysis. and this is what releases oxygen, not every wavelength of light is useful, in green plants. Chlorophyll absorbs mostly violet blue and red light, and the green light that is not absorbed is why leaves look green.",
+    "slide text": "The Calvin cycle (light-independent reactions)\n* Takes place in the stroma of the chloroplast\n\u00ab The enzyme RuBisCO captures CO2 from the atmosphere\n* CO2 combines with ribulose 1,5-bisphosphate (RuBP)\n\u00a2 This produces two molecules of glycerate 3-phosphate\n\u00ab Uses the ATP and NADPH made in the light-dependent reactions\n\u00a2 Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate\n\u00a2 Five out of six molecules are used to regenerate RUBP\n* The remaining triose phosphates form sucrose and starch\n\u00a2 Sugars are also used for cellulose and cellular respiration",
+    "image caption": "the calve light - dependent"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Photosynthesis is the process by which plants, algae, and cyanobacteria convert light energy into chemical energy. Oxygen is released as a by-product of splitting water. The energy is stored in carbohydrates such as glucose, sucrose, and starch, which are later released through cellular respiration.",
+    "key_concepts": [
+      {
+        "concept": "Photosynthesis",
+        "explanation": " [text notes]",
+        "source": "text notes"
+      },
+      {
+        "concept": "Light-dependent reactions",
+        "explanation": " [audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Calvin cycle (light-independent reactions)",
+        "explanation": " [slide text]",
+        "source": "slide text"
+      },
+      {
+        "concept": "Chlorophyll",
+        "explanation": " [audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "ATP synthase",
+        "explanation": " [audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "RuBisCO",
+        "explanation": " [slide text]",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the by-product of splitting water in photosynthesis?",
+        "back": "Oxygen",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the role of chlorophyll in photosynthesis?",
+        "back": " [audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the purpose of the Calvin cycle?",
+        "back": " To produce glucose",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the function of ATP synthase?",
+        "back": " [audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the role of RuBisCO in the Calvin cycle?",
+        "back": " To capture CO2 from the atmosphere",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the by-product of splitting water in photosynthesis?",
+        "options": [
+          "A) Oxygen",
+          "B) Carbon dioxide",
+          "C) Water",
+          "D) Glucose"
+        ],
+        "explanation": " [audio transcript]",
+        "answer": "A) Oxygen",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Describe the role of chlorophyll in photosynthesis.",
+        "options": [],
+        "explanation": " [audio transcript]",
+        "answer": "[audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the Calvin cycle?",
+        "options": [
+          "A) To produce ATP",
+          "B) To produce NADPH",
+          "C) To produce glucose",
+          "D) To produce oxygen"
+        ],
+        "explanation": " [slide text]",
+        "answer": "C) To produce glucose",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "Explain the function of ATP synthase.",
+        "options": [],
+        "explanation": " [audio transcript]",
+        "answer": "[audio transcript]",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the role of RuBisCO in the Calvin cycle?",
+        "options": [
+          "A) To capture CO2 from the atmosphere",
+          "B) To reduce NADPH to NADP",
+          "C) To produce glyceraldehyde 3-phosphate",
+          "D) To regenerate RUBP"
+        ],
+        "explanation": " [slide text]",
+        "answer": "A) To capture CO2 from the atmosphere",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Review the light-dependent reactions and the Calvin cycle, focusing on the roles of chlorophyll, ATP synthase, and RuBisCO.",
+      "Practice converting between the light-dependent and light-independent reactions.",
+      "Create a diagram illustrating the overall process of photosynthesis, including the light-dependent and light-independent reactions."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 10.717927083,
+      "load_s": 0.005047041,
+      "prompt_tokens": 686,
+      "output_tokens": 564,
+      "generation_s": 10.546708
+    },
+    "attempt_1": {
+      "total_s": 16.117438208,
+      "load_s": 0.00280175,
+      "prompt_tokens": 1342,
+      "output_tokens": 823,
+      "generation_s": 16.042846
+    },
+    "total_s": 26.85632312499365
+  }
+}

@@ -1,0 +1,496 @@
+slide,style,degradation,width_px,binarised,key_term_recall,cer,mean_confidence,seconds,text
+B1,simple,original,1280,True,1.0,0.0,95.5,0.3,"Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to
+memory
+Current instruction register (CIR): instruction being decoded"
+B1,simple,original,1280,False,1.0,0.0,95.5,0.23,"Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to
+memory
+Current instruction register (CIR): instruction being decoded"
+B1,simple,scale 0.5,640,True,1.0,0.0291,92.0,0.24,"Registers in the instruction cycle
+¢ Program counter (PC): address of the next instruction
+* Memory address register (MAR): address being read or written
+* Memory data register (MDR): data read from or written to
+memory
+¢ Current instruction register (CIR): instruction being decoded"
+B1,simple,scale 0.5,640,False,1.0,0.0291,91.3,0.24,"Registers in the instruction cycle
+* Program counter (PC): address of the next instruction
+* Memory address register (MAR): address being read or written
+* Memory data register (MDR): data read from or written to
+memory
+¢ Current instruction register (CIR): instruction being decoded"
+B1,simple,scale 0.35 + blur,448,True,0.9,0.0327,86.8,0.23,"Registers in the instruction cycle
+¢ Program counter (PC): address of the next instruction
+¢ Memory address register (MAR): address being read or written
+¢ Memory data register (MOR): data read from or written to
+memory
+¢ Current instruction register (CIR): instruction being decoded"
+B1,simple,scale 0.35 + blur,448,False,1.0,0.0291,94.2,0.23,"Registers in the instruction cycle
+* Program counter (PC): address of the next instruction
+* Memory address register (MAR): address being read or written
+* Memory data register (MDR): data read from or written to
+memory
+* Current instruction register (CIR): instruction being decoded"
+B1,simple,scale 0.25 + blur,320,True,0.0,0.6364,29.9,0.28,"Registere in the instruction cycte
+° Fages ensap OQ abbuen ¢d On ant cube
+° Gumey eter agen G28% ehbun tere 88 oc Om
+¢ Gam Gi agutn GED) Gm ast tes co OEE ©
+quay
+° Gare cabaiies eget (OS® cubuibes tang Gentes"
+B1,simple,scale 0.25 + blur,320,False,0.0,0.5164,35.9,0.3,"Registers in the instruction cycle
+: hegre career FC) at@ess of fe cee! Herter
+Manor) okreee epee MAH ebiees leery ee! » ante
++ Merwory Gate eget MOF) Gate eed for o antier te
+mores
+| nt ar agate ata tor tee tocntend"
+B2,dense,original,1280,True,1.0,0.0351,90.5,0.36,"The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+* The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+* This produces two molecules of glycerate 3-phosphate
+*« Uses the ATP and NADPH made in the light-dependent reactions
+* Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+* Five out of six molecules are used to regenerate RUBP
+* The remaining triose phosphates form sucrose and starch
+* Sugars are also used for cellulose and cellular respiration"
+B2,dense,original,1280,False,1.0,0.0333,86.6,0.35,"The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+« The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+¢ This produces two molecules of glycerate 3-phosphate
+« Uses the ATP and NADPH made in the light-dependent reactions
+¢ Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+¢ Five out of six molecules are used to regenerate RUBP
+* The remaining triose phosphates form sucrose and starch
+¢ Sugars are also used for cellulose and cellular respiration"
+B2,dense,scale 0.5,640,True,1.0,0.037,87.4,0.35,"The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+*« The enzyme RuBisCO captures CO2 from the atmosphere
+*« CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+* This produces two molecules of glycerate 3-phosphate
+« Uses the ATP and NADPH made in the light-dependent reactions
+¢ Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+¢ Five out of six molecules are used to regenerate RuBP
+* The remaining triose phosphates form sucrose and starch
+¢ Sugars are also used for cellulose and cellular respiration"
+B2,dense,scale 0.5,640,False,1.0,0.0333,91.5,0.35,"The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chloroplast
+* The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+* This produces two molecules of glycerate 3-phosphate
+« Uses the ATP and NADPH made in the light-dependent reactions
+* Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+* Five out of six molecules are used to regenerate RuBP
+* The remaining triose phosphates form sucrose and starch
+* Sugars are also used for cellulose and cellular respiration"
+B2,dense,scale 0.35 + blur,448,True,0.4,0.1664,61.1,0.32,"The Calvin cycle (light-independent reactions)
+° Taehes piace in the strome of the cidorapiast
+© The enzyme RuiteCO captures CO? from the atnoaghere
+° CO?2 conbines wih ravicse 1.5-diaghoeghete (FuP)
+o «Tis produces two motecutes of giycerete 3-phosphete
+¢ Uses the ATP and NADPH made in the ight-dependent reactions
+* Gtycerate 3-phosghate is reduced to glyceraidshydes 3-phcephate
+¢ Fwe of of om molecuies ere used to regenerate RuBP
+¢ «The remaining tiose phosphates form sucrose end starch
+* Sugars ere also used for cefuicse and cefhder reegration"
+B2,dense,scale 0.35 + blur,448,False,0.8,0.0499,83.9,0.34,"The Calvin cycle (light-independent reactions)
+* Takes place in the stroma of the chioroplast
++ The enzyme RuBisCO captures CO2 from the atmosphere
+* CO2 combines with ribulose | 5-bisphosphate (RuBP)
++ This produces two molecules of glycerate 3-phosphate
++ Uses the ATP and NADPH made in the light-dependent reactions
++ Glycerate 3-phospnate is reduced to glyceraidenyde 3-phosphate
+* Five out of six molecules are used to regenerate RuBP
++ The remaineng trose phosphates form sucrose and starch
+* Sugars are aiso used for cellulose and cellular respiration"
+B2,dense,scale 0.25 + blur,320,True,0.0,0.7338,26.4,0.44,"Vas Gatun epaie (ight cndapendest ceasiens
+[a Gu © Gp Ga 0G Ca
+@peup=p Gaile. eune 499 G6 GamwsD
+on aaa 4D Gee ( teagmaD Ga
+@p Gubm = aiiawtp © @ant> teu
+ap Gp 6 gaat» aab © 62 qe ape® era»
+Guana (guagial> © Ghee @aaeiteD tga
+Cup 69 OC @ GHEE 6 Gade agra emp
+2 Gump 4 Gap > aD eo ase
+Quy 62 Gp cae ® aha @bahse Guam"
+B2,dense,scale 0.25 + blur,320,False,0.0,0.8041,31.6,0.45,"The Cater cycte (hght dependent reactors)
+ee
+ern Oe we eee
+A
+—————— — a me eee
+ee ee ee oe
+a el
+— Se
+ee ee meme ee ee ow
+mm ee me"
+B3,dark,original,1280,True,1.0,0.0355,90.0,0.23,"Related concepts
+* Deflation: a fall in the general price level
+* Disinflation: a decrease in the rate of inflation
+« Hyperinflation: an out-of-control inflationary spiral
+* Stagflation: inflation, slow growth and high unemployment
+« Reflation: an attempt to raise prices to counter deflation"
+B3,dark,original,1280,False,1.0,0.0355,91.4,0.32,"Related concepts
+¢ Deflation: a fall in the general price level
+¢ Disinflation: a decrease in the rate of inflation
+¢ Hyperinflation: an out-of-control inflationary spiral
+¢ Stagflation: inflation, slow growth and high unemployment
+¢ Reflation: an attempt to raise prices to counter deflation"
+B3,dark,scale 0.5,640,True,1.0,0.0355,90.5,0.23,"Related concepts
+* Deflation: a fall in the general price level
+* Disinflation: a decrease in the rate of inflation
+¢ Hyperinflation: an out-of-control inflationary spiral
+* Stagflation: inflation, slow growth and high unemployment
+¢ Reflation: an attempt to raise prices to counter deflation"
+B3,dark,scale 0.5,640,False,1.0,0.0355,90.9,0.32,"Related concepts
+* Deflation: a fall in the general price level
+* Disinflation: a decrease in the rate of inflation
+* Hyperinflation: an out-of-control inflationary spiral
+* Stagflation: inflation, slow growth and high unemployment
+* Reflation: an attempt to raise prices to counter deflation"
+B3,dark,scale 0.35 + blur,448,True,0.8,0.0496,80.0,0.22,"Related concepts
+¢ Deflation: a fall in the general price level
+° Disinflation: a decreese in the rate of infiation
+¢ Hyperinflation: an out-of-control inflationary spiral
+° Stagfiation: inflation. slow growth and high unemployment
+* Reflation: an attempt to raise prices to counter deflation"
+B3,dark,scale 0.35 + blur,448,False,0.7,0.0461,83.7,0.31,"Related concepts
+* Deflation: a fall in the general price level
+* Disinfiation: a decrease in the rate of inflation
+* Hyperinflation: an out-of-control inflationary spiral
+* Stagfiation: inflation, slow growth and high unemployment
+* Refiation: an attempt to raise prices to counter deflation"
+B3,dark,scale 0.25 + blur,320,True,0.0,0.734,36.1,0.28,"Retsted concepts
+° Gleam 0 co Op Qa op ow
+° Guile 0 Gwen © Gs ab ¢ cha
+° (Qoumiam @ e=fdaeu chia Ge
+° Gage chat Gee ges ot Op cong
+¢ Ge @ Gee © a gun © awe aha»"
+B3,dark,scale 0.25 + blur,320,False,0.0,0.6489,33.8,0.3,"Related concepts
+* Oetemer © Gt © he gee eee eee
+: Cette @ Geermene © Pe ate of tater
+ote att te tere, we
+ae ton me GeO ON RS remem
+a a et em re ae mame et"
+B4,photo,original,981,True,1.0,0.0426,84.6,0.2,"Textile machinery
+- Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+« Water frame (Richard Arkwright, 1769)
+¢ Spinning mule (Samuel Crompton, 1779)"
+B4,photo,original,981,False,1.0,0.0426,86.3,0.21,"Textile machinery
+* Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+« Water frame (Richard Arkwright, 1769)
+* Spinning mule (Samuel Crompton, 1779)"
+B4,photo,scale 0.5,490,True,1.0,0.0426,86.8,0.2,"Textile machinery
++ Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+- Water frame (Richard Arkwright, 1769)
+* Spinning mule (Samuel Crompton, 1779)"
+B4,photo,scale 0.5,490,False,1.0,0.0426,86.3,0.21,"Textile machinery
+* Flying shuttle (John Kay, 1733) sped up weaving
+* Spinning jenny (James Hargreaves, around 1764)
+- Water frame (Richard Arkwright, 1769)
+¢ Spinning mule (Samuel Crompton, 1779)"
+B4,photo,scale 0.35 + blur,343,True,0.6,0.1223,64.7,0.19,"Textile machinery
+» flying shuttle (John Kay 1733) eped up weaving
+: Goinnung jenny (James Hargreeves. around 1764)
+. Water frame (Richard Ariwngit. 1760)
+. Spinning muse (Samuel Crompton 1779)"
+B4,photo,scale 0.35 + blur,343,False,0.8,0.0745,79.5,0.2,"Textile machinery
++ Flying shuttle (John Kay 1733) sped up weaving
+. Spinning jenny (James Hargreaves, around 1764)
+» Water frame (Richard Artownight, 1769)
+. Spinnang mule (Samuel Crompton 1779)"
+B4,photo,scale 0.25 + blur,245,True,0.0,0.7979,23.3,0.19,"Tectie mectunsry
+7 o-oo Oe ee
+—<— ween oosw WH
+o « 2- +e corm =a"
+B4,photo,scale 0.25 + blur,245,False,0.0,0.8191,34.5,0.2,"Testae macturery
+— oa on 8m —-—<—an an ems
+--— ~~ & oo -"
+B5,simple,original,1280,True,1.0,0.0479,91.9,0.19,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+* Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,original,1280,False,1.0,0.0479,91.7,0.19,"Types of covalent bond
+¢ Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+¢ Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,scale 0.5,640,True,1.0,0.0479,91.2,0.19,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+¢ Pi bond: side-on overlap of p orbitals
+* Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,scale 0.5,640,False,1.0,0.0479,90.7,0.19,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+* Pi bond: side-on overlap of p orbitals
+¢ Single bond = 1 sigma bond
+* Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,scale 0.35 + blur,448,True,0.9,0.0539,82.4,0.18,"Types of covalent bond
+¢ Sigma bond: head-on overiap of orbitals
+* Pi bond: side-on overlap of p orbitals
+° Single bond = 1 sigma bond
+¢ Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,scale 0.35 + blur,448,False,1.0,0.0479,89.5,0.18,"Types of covalent bond
+* Sigma bond: head-on overlap of orbitals
+* Pi bond: side-on overlap of p orbitals
+* Single bond = 1 sigma bond
+* Double bond = 1 sigma bond + 1 pi bond"
+B5,simple,scale 0.25 + blur,320,True,0.0,0.6108,36.5,0.23,"Types of covalent bend
+° @gme te’ tande@ eet d ottm
+Rem’ aba aut dp eth
+° Gage Ged o | agme ta
+¢ Canttp Gad © | eqpmn Gad ¢ | » Gad"
+B5,simple,scale 0.25 + blur,320,False,0.0,0.5269,39.9,0.23,"Types of covalent bond
++ Sayre beret Need or eran of tater
+: howd ete orm were of » ottee
++ Gee bee « | agente Gene
++ Coulee bed « | eqns Ged + | @ Gon"
+B6,dense,original,1280,True,1.0,0.0403,92.6,0.32,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+* Miller (1956): the magical number seven, plus or minus two
+* Later estimates are lower: about four chunks (Cowan, 2001)
+* Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+* Itis linked to reading comprehension and reasoning
+* Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age"
+B6,dense,original,1280,False,1.0,0.0403,88.5,0.32,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+¢ Miller (1956): the magical number seven, plus or minus two
+« Later estimates are lower: about four chunks (Cowan, 2001)
+¢ Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+¢ Itis linked to reading comprehension and reasoning
+« Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age"
+B6,dense,scale 0.5,640,True,1.0,0.0403,90.2,0.31,"Capacity of working memory
+¢ Capacity is limited: only a few items can be held at once
+¢ Miller (1956): the magical number seven, plus or minus two
+¢ Later estimates are lower: about four chunks (Cowan, 2001)
+¢ Chunking groups items into larger meaningful units
+¢ Capacity differs between individuals
+¢ Itis linked to reading comprehension and reasoning
+¢ Measured with complex span tasks, such as reading span
+¢ Capacity develops through childhood
+¢ Capacity tends to decline in older age"
+B6,dense,scale 0.5,640,False,1.0,0.0403,91.5,0.31,"Capacity of working memory
+* Capacity is limited: only a few items can be held at once
+* Miller (1956): the magical number seven, plus or minus two
+* Later estimates are lower: about four chunks (Cowan, 2001)
+* Chunking groups items into larger meaningful units
+* Capacity differs between individuals
+* Itis linked to reading comprehension and reasoning
+* Measured with complex span tasks, such as reading span
+* Capacity develops through childhood
+* Capacity tends to decline in older age"
+B6,dense,scale 0.35 + blur,448,True,0.2,0.1653,63.3,0.29,"Capacity of working memory
+° Capacity is iafied. ony a few tems can be held af once
+© Miler (1966): the magical menber seven, plus or minus two
+© (eter eetmates ere lower about fow chunks (Cowen, 2001)
+* Chwunhing groups Sems into larger meerunghs units
+¢ Capacity Gilers between individusis
+° (1 inked to reading comprehension end reesoring
+¢ Meseured wah compten epen tasks. euch es reading span
+¢ Capecity develops twough childhood
+° Capacity tends to deciine in chder age"
+B6,dense,scale 0.35 + blur,448,False,0.7,0.0657,81.6,0.3,"Capacity of working memory
+* Capacity is imited only a few items can be held at once
++ Milter (1956) the magical number seven. plus or minus two
+* Later estimates are lower about four chunks (Cowan, 2001)
+* Chhunking groups ftems into larger meaningful units
++ Capacity differs between individuals
+* It ts linked to reading comprehension and reasoning
+* Measured with complex span tasks. such as reading span
+* Capacity develops through childhood
+* Capacity tends to dectine in cider age"
+B6,dense,scale 0.25 + blur,320,True,0.0,0.7458,25.3,0.41,"Capasiy of wasting aamesy
+° Gul © GERD a> 06; GD @PeeDeaD
+¢ Gp 4D @aaeesse Gem @p cape
+¢* wip abet eeap Gaeen Gap Gam EB
+¢ Gulppgm> Gp 4<>eawp Guawpahb
+* Gumi Gh Gimp eiata>
+* 006nw 0 aap ene» Gans.
+* @QuwweD aap @P ak abe aieaaeP
+¢ Gumi Gap Gap aaa»
+¢ Gumi GED OGD eC ap ap"
+B6,dense,scale 0.25 + blur,320,False,0.0,0.8136,26.9,0.44,"(ape Fy Of Orting memory
+A ey ey ee a ee a my
+me mage a ye
+a a re mm Et ee mae
+eM
+et
+ES Ry,
+ee
+a ee
+ee"
+B7,dark,original,1280,True,1.0,0.0413,91.6,0.21,"Applying the second law
+« Net force = mass x acceleration (F = ma)
+« Unit of force: the newton (N) = 1 kg m/s2
+« Larger mass means smaller acceleration for the same force
+*« Weight = mass x gravitational field strength (W = mg)"
+B7,dark,original,1280,False,1.0,0.0367,89.2,0.29,"Applying the second law
+¢ Net force = mass x acceleration (F = ma)
+¢ Unit of force: the newton (N) = 1 kg m/s2
+e Larger mass means smaller acceleration for the same force
+¢ Weight = mass x gravitational field strength (W = mg)"
+B7,dark,scale 0.5,640,True,1.0,0.0367,89.9,0.21,"Applying the second law
+¢ Net force = mass x acceleration (F = ma)
+* Unit of force: the newton (N) = 1 kg m/s2
+¢ Larger mass means smaller acceleration for the same force
+* Weight = mass x gravitational field strength (W = mg)"
+B7,dark,scale 0.5,640,False,1.0,0.0367,89.3,0.29,"Applying the second law
+* Net force = mass x acceleration (F = ma)
+¢ Unit of force: the newton (N) = 1 kg m/s2
+¢ Larger mass means smaller acceleration for the same force
+* Weight = mass x gravitational field strength (W = mg)"
+B7,dark,scale 0.35 + blur,448,True,0.9,0.0505,87.3,0.2,"Applying the second law
+¢ Net force = mass x acceleration (F = ma)
+° Unit of force: the newton (N) = 1 kg m/s2
+¢ Larger mass meens smaiier acceleration for the same force
+° Weight = mass x gravitational field strength (W = mg)"
+B7,dark,scale 0.35 + blur,448,False,1.0,0.0367,90.0,0.28,"Applying the second law
+* Net force = mass x acceleration (F = ma)
+* Unit of force: the newton (N) = 1 kg m/s2
+* Larger mass means smaller acceleration for the same force
+* Weight = mass x gravitational field strength (W = mg)"
+B7,dark,scale 0.25 + blur,320,True,0.0,0.6651,38.2,0.25,"Agegiying the eecend tow
+° Can Geen ¢ eum c ui 0 + am
+° OB OG Op cout G8 ¢ | ep and
+° (agP een cape eaalp quate & Gp este Ga
+° Gaye + asp ¢ gE G2) Ga? @ - ag"
+B7,dark,scale 0.25 + blur,320,False,0.0,0.578,30.6,0.27,"Applying the second law
++ Sat ree © eee © eeeetereter OF © ee
+* Vet eee fe coeter 1 + | tg ee?
+er a ee ee eater fe he came bee
+: ogre: sens + pertaters tet eng 4 o@"
+B8,photo,original,981,True,1.0,0.0385,83.8,0.22,"Hash functions
+« Hashing by division: h(k) = k mod m
+« Hashing by multiplication uses a constant between 0 and 1
+« A good hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,original,981,False,1.0,0.0385,87.1,0.23,"Hash functions
+* Hashing by division: h(k) = k mod m
+» Hashing by multiplication uses a constant between 0 and 1
+« Agood hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,scale 0.5,490,True,1.0,0.0385,82.5,0.22,"Hash functions
+» Hashing by division: h(k) = k mod m
+« Hashing by multiplication uses a constant between 0 and 1
+« A good hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,scale 0.5,490,False,1.0,0.0385,87.1,0.22,"Hash functions
+» Hashing by division: h(k) = k mod m
+- Hashing by multiplication uses a constant between 0 and 1
+« Agood hash function spreads keys uniformly
+* Deterministic: the same key always gives the same index"
+B8,photo,scale 0.35 + blur,343,True,0.4,0.2981,54.5,0.21,"————————_——— — ~~.
+Hash functions
+» Hashing by division tik) © k mod m
+. Hasrung by muftpkcabon uses @ constant between O and |
+. A quod hash funchon spreeds keys undormiy
+» Determinsbc tne same key siweys gives the same mien"
+B8,photo,scale 0.35 + blur,343,False,0.9,0.1731,71.4,0.22,"————————————— ii"".
+Hash functions
+» Hashing by division: hk) * k mod m
+‘ Hashing by multiplication uses a constant between O and 4
+» A good hash function spreads keys uniformly
+« Determnunisbtc the same key always gives the same index"
+B8,photo,scale 0.25 + blur,245,True,0.0,1.0,0.0,0.17,
+B8,photo,scale 0.25 + blur,245,False,0.0,1.0,0.0,0.12,
+R1,real diagram,original,1736,True,0.8,0.1683,82.8,0.4,"Secondary Memory Data / instruction oon
+Commands / Control Signals ——»>
+4
+v
+Input Devices |...]...... > [tte | ceneeeeee p| Output Devices
+Vv .
+[teeter |
+v :
+Arithmetic & Logical Unit
+(ALU)
+Control Unit (CU
+Tt (cu) PL
+Central Processing Unit (CPU)
+Block diagram of a basic computer with
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,original,1736,False,0.8,0.1561,84.5,0.4,"Secondary Memory Data / instruction rr
+Commands / Control Signals ——»>
+4
+v
+Input Devices |...4...... > [ste | weuenenns »| Output Devices
+v .
+[teste |
+v :
+Arithmetic & Logical Unit
+(ALU)
+Control Unit (CU
+— (cu) L
+Central Processing Unit (CPU)
+Block diagram of a basic computer with
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,scale 0.5,868,True,0.7,0.1707,85.8,0.38,"Secondary Memory Data / instruction
+Commands / Control Signals ==»
+ry :
+: v
+Input Devices |...]...... > [ten | saneenens »| Output Devices
+v
+[eee |
+v
+Arithmetic & Logical Unit
+(ALU)
+Central Processing Unit (CPU)
+Block diagram of a basic computer with
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,scale 0.5,868,False,0.7,0.1878,84.8,0.38,"Secondary Memory Data / instruction <>
+Commands / Control Signals ——»>
+rN :
+: v
+Input Devices |...}...... > [etme | weneeweee »| Output Devices
+v
+[meee |
+Vv
+Arithmetic & Logical Unit
+(ALU)
+Central Processing Unit (CPU)
+Block diagram of a basic computer with
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,scale 0.35 + blur,607,True,0.1,0.4756,93.8,0.29,"Block diagram of a basic computer with o
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,scale 0.35 + blur,607,False,0.1,0.4756,94.4,0.28,"Block diagram of a basic computer with a
+uniprocessor CPU. Black lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."
+R1,real diagram,scale 0.25 + blur,434,True,0.0,0.4854,85.3,0.26,"Block diagram of a basic computer with ©
+uniprocessor CPU. Black lines indicate the flow of
+contro! signeis, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+Girection of flow."
+R1,real diagram,scale 0.25 + blur,434,False,0.1,0.478,89.6,0.27,"Block diagram of a basic computer with =
+uniprocessor CPU. Biack lines indicate the flow of
+control signals, whereas red lines indicate the flow of
+processor instructions and data. Arrows indicate the
+direction of flow."

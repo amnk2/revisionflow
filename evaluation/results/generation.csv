@@ -1,0 +1,49 @@
+bundle,mode,run,attempts,valid_first_try,fallback_used,repairs,key_concepts,flashcards,quiz,quiz_mcq,quiz_short,sources_used,generation_s,grounding_s,prompt_tokens,output_tokens,flagged_weak
+B1,schema,1,1,True,False,0,5,8,5,3,2,audio transcript; image caption; slide text; text notes,26.27,14.463,1291,1022,0
+B1,schema,2,1,True,False,0,5,8,5,3,2,audio transcript; image caption; slide text; text notes,20.52,0.101,1291,1022,0
+B1,schema,3,1,True,False,0,5,8,5,3,2,audio transcript; image caption; slide text; text notes,20.42,0.097,1291,1022,0
+B1,two_step,1,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,37.33,0.124,2205,1838,0
+B1,two_step,2,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,36.0,0.101,2205,1838,0
+B1,two_step,3,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,36.42,0.131,2205,1838,0
+B2,schema,1,1,True,False,0,3,8,6,3,3,audio transcript; image caption; slide text; text notes,22.41,0.092,1376,1053,0
+B2,schema,2,1,True,False,0,3,8,6,3,3,audio transcript; image caption; slide text; text notes,20.4,0.109,1376,1053,0
+B2,schema,3,1,True,False,0,3,8,6,3,3,audio transcript; image caption; slide text; text notes,20.66,0.111,1376,1053,0
+B2,two_step,1,1,True,False,0,6,5,5,3,2,audio transcript; image caption; slide text; text notes,29.71,0.102,2028,1387,1
+B2,two_step,2,1,True,False,0,6,5,5,3,2,audio transcript; image caption; slide text; text notes,27.06,0.109,2028,1387,1
+B2,two_step,3,1,True,False,0,6,5,5,3,2,audio transcript; image caption; slide text; text notes,26.86,0.108,2028,1387,1
+B3,schema,1,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,24.44,0.069,1306,1138,0
+B3,schema,2,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,22.79,0.099,1306,1138,0
+B3,schema,3,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,22.55,0.098,1306,1138,0
+B3,two_step,1,1,True,False,0,7,7,6,3,3,audio transcript; image caption; slide text; text notes,35.92,0.104,2123,1721,1
+B3,two_step,2,1,True,False,0,7,7,6,3,3,audio transcript; image caption; slide text; text notes,33.78,0.144,2123,1721,1
+B3,two_step,3,1,True,False,0,7,7,6,3,3,audio transcript; image caption; slide text; text notes,34.14,0.107,2123,1721,1
+B4,schema,1,1,True,False,0,4,7,6,3,3,audio transcript; image caption; slide text; text notes,21.28,0.091,1311,992,1
+B4,schema,2,1,True,False,0,4,7,6,3,3,audio transcript; image caption; slide text; text notes,20.19,0.137,1311,992,1
+B4,schema,3,1,True,False,0,4,7,6,3,3,audio transcript; image caption; slide text; text notes,20.39,0.086,1311,992,1
+B4,two_step,1,1,True,False,0,5,8,4,3,1,audio transcript; image caption; slide text; text notes,34.21,0.104,2164,1676,0
+B4,two_step,2,1,True,False,0,5,8,4,3,1,audio transcript; image caption; slide text; text notes,34.08,0.098,2164,1676,0
+B4,two_step,3,1,True,False,0,5,8,4,3,1,audio transcript; image caption; slide text; text notes,32.92,0.135,2164,1676,0
+B5,schema,1,1,True,False,0,7,8,5,3,2,audio transcript; image caption; slide text; text notes,27.75,0.104,1286,1235,0
+B5,schema,2,1,True,False,0,7,8,5,3,2,audio transcript; image caption; slide text; text notes,26.76,0.135,1286,1235,0
+B5,schema,3,1,True,False,0,7,8,5,3,2,audio transcript; image caption; slide text; text notes,25.07,0.12,1286,1235,0
+B5,two_step,1,1,True,False,0,8,5,5,2,3,audio transcript; image caption; slide text; text notes,57.09,0.139,2313,2413,0
+B5,two_step,2,1,True,False,0,8,5,5,2,3,audio transcript; image caption; slide text; text notes,51.44,0.141,2313,2413,0
+B5,two_step,3,1,True,False,0,8,5,5,2,3,audio transcript; image caption; slide text; text notes,57.65,0.117,2313,2413,0
+B6,schema,1,1,True,False,0,7,7,6,3,3,audio transcript; image caption; slide text; text notes,27.29,0.14,1330,1050,0
+B6,schema,2,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,24.12,0.1,1330,1020,0
+B6,schema,3,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,23.33,0.095,1330,1020,0
+B6,two_step,1,1,True,False,0,5,5,4,2,2,audio transcript; image caption; slide text; text notes,33.94,0.085,2031,1390,0
+B6,two_step,2,1,True,False,0,5,5,4,2,2,audio transcript; image caption; slide text; text notes,31.38,0.089,2031,1390,0
+B6,two_step,3,1,True,False,0,5,5,4,2,2,audio transcript; image caption; slide text; text notes,30.8,0.066,2031,1390,0
+B7,schema,1,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,32.79,0.111,1273,1314,1
+B7,schema,2,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,30.65,0.097,1273,1314,1
+B7,schema,3,1,True,False,0,8,8,6,3,3,audio transcript; image caption; slide text; text notes,29.71,0.104,1273,1314,1
+B7,two_step,1,1,True,False,0,8,8,4,2,2,audio transcript; image caption; slide text; text notes,36.83,0.104,1888,1523,0
+B7,two_step,2,1,True,False,0,8,8,4,2,2,audio transcript; image caption; slide text; text notes,33.98,0.114,1888,1523,0
+B7,two_step,3,1,True,False,0,8,8,4,2,2,audio transcript; image caption; slide text; text notes,34.11,0.103,1888,1523,0
+B8,schema,1,1,True,False,0,6,6,6,3,3,audio transcript; image caption; slide text; text notes,22.68,0.103,1299,929,4
+B8,schema,2,1,True,False,0,6,6,6,3,3,audio transcript; image caption; slide text; text notes,20.59,0.103,1299,929,4
+B8,schema,3,1,True,False,0,6,6,6,3,3,audio transcript; image caption; slide text; text notes,20.89,0.105,1299,929,4
+B8,two_step,1,1,True,False,0,6,8,4,2,2,audio transcript; combined; image caption; slide text; text notes,38.97,0.11,2190,1824,1
+B8,two_step,2,1,True,False,0,6,8,4,2,2,audio transcript; combined; image caption; slide text; text notes,33.44,0.105,2190,1824,1
+B8,two_step,3,1,True,False,0,6,8,4,2,2,audio transcript; combined; image caption; slide text; text notes,33.37,0.097,2190,1824,1

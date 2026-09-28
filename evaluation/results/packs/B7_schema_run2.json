@@ -1,0 +1,190 @@
+{
+  "bundle": "B7",
+  "mode": "schema",
+  "run": 2,
+  "sources": {
+    "text notes": "Newton's laws of motion\n- Three laws linking the motion of an object to the forces acting on it.\n- The basis of Newtonian (classical) mechanics.\n- First stated by Isaac Newton in the Principia, published in 1687.",
+    "audio transcript": "Let's go through the three laws. The first law says that a body stays at rest, or keeps moving at a constant speed in a straight line. Unless a force acts on it, this tendency to resist changes in motion is called inertia. The second law says that the net force on a body equals its mass multiplied by its acceleration, which we write as F equals MA equivalently. Forces the rate of change of momentum. The third law says that when two bodies exert forces on each other, the forces are equal in size and opposite in direction. So when you push against a wall, the wall pushes back on you just as hard.",
+    "slide text": "Applying the second law\n\u00a2 Net force = mass x acceleration (F = ma)\n\u00a2 Unit of force: the newton (N) = 1 kg m/s2\ne Larger mass means smaller acceleration for the same force\n\u00a2 Weight = mass x gravitational field strength (W = mg)",
+    "image caption": "applying the second law"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Newton's laws of motion are three laws linking the motion of an object to the forces acting on it. The first law states that a body stays at rest or keeps moving at a constant speed in a straight line unless a force acts on it. The second law states that the net force on a body equals its mass multiplied by its acceleration. The third law states that when two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+    "key_concepts": [
+      {
+        "concept": "Newton's laws of motion",
+        "explanation": "Three laws linking the motion of an object to the forces acting on it.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Inertia",
+        "explanation": "The tendency of a body to resist changes in motion.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Second law of motion",
+        "explanation": "The net force on a body equals its mass multiplied by its acceleration.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Third law of motion",
+        "explanation": "When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Force",
+        "explanation": "A push or pull that can cause an object to change its motion.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Acceleration",
+        "explanation": "The rate of change of an object's velocity.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Mass",
+        "explanation": "A measure of an object's resistance to changes in its motion.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Weight",
+        "explanation": "The force exerted on an object by gravity.",
+        "source": "text notes"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the first law of motion?",
+        "back": "A body stays at rest or keeps moving at a constant speed in a straight line unless a force acts on it.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is inertia?",
+        "back": "The tendency of a body to resist changes in motion.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the second law of motion?",
+        "back": "The net force on a body equals its mass multiplied by its acceleration.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the third law of motion?",
+        "back": "When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is force?",
+        "back": "A push or pull that can cause an object to change its motion.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is acceleration?",
+        "back": "The rate of change of an object's velocity.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is mass?",
+        "back": "A measure of an object's resistance to changes in its motion.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is weight?",
+        "back": "The force exerted on an object by gravity.",
+        "source": "text notes"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the first law of motion?",
+        "options": [
+          "A body stays at rest.",
+          "A body keeps moving at a constant speed in a straight line.",
+          "A body changes direction.",
+          "A body is at rest or keeps moving at a constant speed in a straight line unless a force acts on it."
+        ],
+        "explanation": "The first law states that a body stays at rest or keeps moving at a constant speed in a straight line unless a force acts on it.",
+        "answer": "A body is at rest or keeps moving at a constant speed in a straight line unless a force acts on it.",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is inertia?",
+        "options": [],
+        "explanation": "The tendency of a body to resist changes in motion.",
+        "answer": "The tendency of a body to resist changes in motion.",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the second law of motion?",
+        "options": [
+          "The net force on a body equals its mass multiplied by its acceleration.",
+          "The net force on a body equals its mass multiplied by its velocity.",
+          "The net force on a body equals its mass multiplied by its momentum."
+        ],
+        "explanation": "The second law states that the net force on a body equals its mass multiplied by its acceleration.",
+        "answer": "The net force on a body equals its mass multiplied by its acceleration.",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the third law of motion?",
+        "options": [],
+        "explanation": "When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+        "answer": "When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the unit of force?",
+        "options": [
+          "The newton (N) = 1 kg m/s2",
+          "The newton (N) = 1 kg m/s",
+          "The newton (N) = 1 kg m",
+          "The newton (N) = 1 kg"
+        ],
+        "explanation": "The unit of force is the newton (N) = 1 kg m/s2.",
+        "answer": "The newton (N) = 1 kg m/s2",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is weight?",
+        "options": [],
+        "explanation": "The force exerted on an object by gravity.",
+        "answer": "The force exerted on an object by gravity.",
+        "source": "text notes"
+      }
+    ],
+    "revision_plan": [
+      "Review the three laws of motion.",
+      "Practice applying the second law of motion.",
+      "Analyze the third law of motion.",
+      "Make flashcards to help you remember the key concepts.",
+      "Take practice quizzes to test your understanding."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 30.645342458,
+      "load_s": 0.004234875,
+      "prompt_tokens": 1273,
+      "output_tokens": 1314,
+      "generation_s": 30.526876
+    },
+    "total_s": 30.65273354099918
+  }
+}

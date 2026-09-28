@@ -1,0 +1,165 @@
+{
+  "bundle": "B4",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Industrial Revolution\n- Began in Great Britain around 1760 and spread to Europe and the US by about 1840.\n- Shift from hand production to machines and factories.\n- New iron-making and chemical processes; more use of water and steam power.\n- Textiles were the first industry to use modern production methods.",
+    "audio transcript": "In this section we are going to talk about steam power, in the early years of the Industrial Revolution, most industrial power actually came from water and wind. The first commercially successful use of steam was a pump patented by Thomas Savory in 1698. Then, before 1712, Thomas Newkerman introduced the first successful piston steam engine, which was used to drain deep mines. Newcomen engines were very inefficient, but where Cole was cheap they let mines go much deeper. The big change came with James Watt, working with his business partner Matthew Bolton, Watt added a separate condenser, which made the engine far more efficient. By 1800 Britain had an estimated 10,000 horsepower supplied by steam.",
+    "slide text": "Textile machinery\n* Flying shuttle (John Kay, 1733) sped up weaving\n* Spinning jenny (James Hargreaves, around 1764)\n\u00ab Water frame (Richard Arkwright, 1769)\n* Spinning mule (Samuel Crompton, 1779)",
+    "image caption": "a white paper with a black and white text"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "The Industrial Revolution began in Great Britain around 1760 and spread to Europe and the US by 1840. It marked a shift from hand production to machines and factories, with new iron-making and chemical processes, and more use of water and steam power. The first textile industry to use modern production methods was textiles.",
+    "key_concepts": [
+      {
+        "concept": "The Industrial Revolution began in Great Britain around 1760.",
+        "explanation": "The Industrial Revolution began in Great Britain around 1760.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.",
+        "explanation": "Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "James Watt improved the efficiency of steam engines with a separate condenser.",
+        "explanation": "James Watt improved the efficiency of steam engines with a separate condenser.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "The first textile machinery was the flying shuttle, invented by John Kay in 1733.",
+        "explanation": "The first textile machinery was the flying shuttle, invented by John Kay in 1733.",
+        "source": "slide text"
+      },
+      {
+        "concept": "The spinning jenny, invented by James Hargreaves around 1764, was another early textile machinery.",
+        "explanation": "The spinning jenny, invented by James Hargreaves around 1764, was another early textile machinery.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "When did the Industrial Revolution begin?",
+        "back": "1760",
+        "source": "text notes"
+      },
+      {
+        "front": "Who invented the flying shuttle?",
+        "back": "John Kay",
+        "source": "slide text"
+      },
+      {
+        "front": "What was the first commercially successful use of steam power?",
+        "back": "A pump patented by Thomas Savory in 1698",
+        "source": "audio transcript"
+      },
+      {
+        "front": "Who improved the efficiency of steam engines?",
+        "back": "James Watt",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What was the name of the textile machinery invented by James Hargreaves?",
+        "back": "Spinning jenny",
+        "source": "slide text"
+      },
+      {
+        "front": "When was the spinning jenny invented?",
+        "back": "Around 1764",
+        "source": "slide text"
+      },
+      {
+        "front": "What was the name of the engine invented by Thomas Newkerman?",
+        "back": "Piston steam engine",
+        "source": "audio transcript"
+      },
+      {
+        "front": "Who worked with James Watt to improve steam engines?",
+        "back": "Matthew Bolton",
+        "source": "audio transcript"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "Who invented the flying shuttle?",
+        "options": [
+          "Thomas Savory",
+          "John Kay",
+          "James Hargreaves",
+          "Richard Arkwright"
+        ],
+        "explanation": "John Kay",
+        "answer": "John Kay",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What was the first textile industry to use modern production methods?",
+        "options": [],
+        "explanation": "Textiles",
+        "answer": "Textiles",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What was the name of the engine invented by Thomas Newkerman?",
+        "options": [
+          "Piston steam engine",
+          "Flying shuttle",
+          "Water frame",
+          "Spinning mule"
+        ],
+        "explanation": "Piston steam engine",
+        "answer": "Piston steam engine",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "Who improved the efficiency of steam engines?",
+        "options": [
+          "Thomas Savory",
+          "James Watt",
+          "Matthew Bolton",
+          "Richard Arkwright"
+        ],
+        "explanation": "James Watt",
+        "answer": "James Watt",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the timeline of the Industrial Revolution, focusing on the key dates mentioned in the sources.",
+      "Watch the audio transcript again to clarify the role of steam power in the Industrial Revolution.",
+      "Study the slide text to learn more about the early textile machinery and their inventors."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 15.070075125,
+      "load_s": 0.052804166,
+      "prompt_tokens": 621,
+      "output_tokens": 765,
+      "generation_s": 14.868178
+    },
+    "attempt_1": {
+      "total_s": 17.825008959,
+      "load_s": 0.003150709,
+      "prompt_tokens": 1543,
+      "output_tokens": 911,
+      "generation_s": 17.724294
+    },
+    "total_s": 32.92035449999821
+  }
+}

@@ -1,0 +1,5 @@
+bundle,audio_from,method,min_score,flagged_at_threshold
+B1,B8,embedding,0.227,True
+B1,B8,tfidf,0.0,True
+B8,B1,embedding,0.127,True
+B8,B1,tfidf,0.0,True

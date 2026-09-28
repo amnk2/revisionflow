@@ -1,0 +1,176 @@
+{
+  "bundle": "B5",
+  "mode": "schema",
+  "run": 1,
+  "sources": {
+    "text notes": "Covalent bonds\n- Atoms share pairs of electrons (bonding pairs).\n- Sharing lets each atom reach a full outer (valence) shell.\n- Much more common than ionic bonding in organic chemistry.\n- The term covalence was introduced by Irving Langmuir in 1919.",
+    "audio transcript": "Now let's compare covenant and ionic bonding. In a covenant bond, two atoms share a pair of electrons, and the balance of attraction and repulsion between them holds the atoms together. In an ionic bond, electrons are transferred instead, and the resulting ions are held together by electrostatic attraction. A single covenant bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs. When the two atoms have different electronabotivities, the electrons are shared unequally, and we call that a polar-covalent bond. Water is a good example, because oxygen pulls the shared electrons more strongly than hydrogen does.",
+    "slide text": "Types of covalent bond\n\u00a2 Sigma bond: head-on overlap of orbitals\n\u00a2 Pi bond: side-on overlap of p orbitals\n\u00a2 Single bond = 1 sigma bond\n\u00a2 Double bond = 1 sigma bond + 1 pi bond",
+    "image caption": "types of ovaroid sign - head - overload orbital"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Covalent bonds are formed when atoms share pairs of electrons to reach a full outer shell. This type of bonding is more common in organic chemistry than ionic bonding.",
+    "key_concepts": [
+      {
+        "concept": "Covalent bonds",
+        "explanation": "Atoms share pairs of electrons to reach a full outer shell.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Types of covalent bonds",
+        "explanation": "Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Polar-covalent bonds",
+        "explanation": "When the two atoms have different electron affinities, the electrons are shared unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Bond order",
+        "explanation": "A single bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Electrostatic attraction",
+        "explanation": "In an ionic bond, electrons are transferred, and the resulting ions are held together by electrostatic attraction.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Covenant bonds",
+        "explanation": "Two atoms share a pair of electrons, and the balance of attraction and repulsion holds the atoms together.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Sigma and pi bonds",
+        "explanation": "Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is a covalent bond?",
+        "back": "Atoms share pairs of electrons to reach a full outer shell.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is a sigma bond?",
+        "back": "Head-on overlap of orbitals.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is a pi bond?",
+        "back": "Side-on overlap of p orbitals.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is a polar-covalent bond?",
+        "back": "When the two atoms have different electron affinities, the electrons are shared unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the bond order of a single bond?",
+        "back": "One pair of electrons.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the bond order of a double bond?",
+        "back": "Two pairs of electrons.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the bond order of a triple bond?",
+        "back": "Three pairs of electrons.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is an ionic bond?",
+        "back": "Electrons are transferred, and the resulting ions are held together by electrostatic attraction.",
+        "source": "audio transcript"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What type of bonding is more common in organic chemistry?",
+        "options": [
+          "Ionic bonding",
+          "Covalent bonding",
+          "Polar-covalent bonding",
+          "Electrostatic attraction"
+        ],
+        "explanation": "Covalent bonding is more common in organic chemistry.",
+        "answer": "Covalent bonding",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What happens when the two atoms have different electron affinities in a covalent bond?",
+        "options": [],
+        "explanation": "The electrons are shared unequally.",
+        "answer": "The electrons are shared unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the bond order of a single bond?",
+        "options": [
+          "One pair of electrons",
+          "Two pairs of electrons",
+          "Three pairs of electrons",
+          "Four pairs of electrons"
+        ],
+        "explanation": "A single bond shares one pair of electrons.",
+        "answer": "One pair of electrons",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the difference between a sigma bond and a pi bond?",
+        "options": [],
+        "explanation": "Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",
+        "answer": "Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What type of bond is formed when electrons are transferred?",
+        "options": [
+          "Covalent bond",
+          "Ionic bond",
+          "Polar-covalent bond",
+          "Electrostatic attraction"
+        ],
+        "explanation": "In an ionic bond, electrons are transferred.",
+        "answer": "Ionic bond",
+        "source": "audio transcript"
+      }
+    ],
+    "revision_plan": [
+      "Review the definition of covalent bonds and their types.",
+      "Practice identifying the types of covalent bonds and their characteristics.",
+      "Review the concept of polar-covalent bonds and their formation."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 27.743844833,
+      "load_s": 0.00742675,
+      "prompt_tokens": 1286,
+      "output_tokens": 1235,
+      "generation_s": 25.612936
+    },
+    "total_s": 27.75293058399984
+  }
+}

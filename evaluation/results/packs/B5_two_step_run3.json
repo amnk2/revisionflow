@@ -1,0 +1,169 @@
+{
+  "bundle": "B5",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Covalent bonds\n- Atoms share pairs of electrons (bonding pairs).\n- Sharing lets each atom reach a full outer (valence) shell.\n- Much more common than ionic bonding in organic chemistry.\n- The term covalence was introduced by Irving Langmuir in 1919.",
+    "audio transcript": "Now let's compare covenant and ionic bonding. In a covenant bond, two atoms share a pair of electrons, and the balance of attraction and repulsion between them holds the atoms together. In an ionic bond, electrons are transferred instead, and the resulting ions are held together by electrostatic attraction. A single covenant bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs. When the two atoms have different electronabotivities, the electrons are shared unequally, and we call that a polar-covalent bond. Water is a good example, because oxygen pulls the shared electrons more strongly than hydrogen does.",
+    "slide text": "Types of covalent bond\n\u00a2 Sigma bond: head-on overlap of orbitals\n\u00a2 Pi bond: side-on overlap of p orbitals\n\u00a2 Single bond = 1 sigma bond\n\u00a2 Double bond = 1 sigma bond + 1 pi bond",
+    "image caption": "types of ovaroid sign - head - overload orbital"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Covalent bonds are formed when atoms share pairs of electrons to reach a full outer shell. This is more common than ionic bonding in organic chemistry. The term covalence was introduced by Irving Langmuir in 1919. Covalent bonds can be single, double, or triple, and can be polar or non-polar depending on the unequal sharing of electrons.",
+    "key_concepts": [
+      {
+        "concept": "Covalent bonds involve the sharing of electron pairs",
+        "explanation": "Covalent bonds are formed when atoms share pairs of electrons to reach a full outer shell.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Covalent bonds are more common than ionic bonds in organic chemistry",
+        "explanation": "This is more common than ionic bonding in organic chemistry.",
+        "source": "text notes"
+      },
+      {
+        "concept": "The term covalence was introduced by Irving Langmuir",
+        "explanation": "The term covalence was introduced by Irving Langmuir in 1919.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Types of covalent bonds include sigma, pi, single, double, and triple bonds",
+        "explanation": "Covalent bonds can be single, double, or triple, and can be polar or non-polar depending on the unequal sharing of electrons.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Polar-covalent bonds occur when electrons are shared unequally",
+        "explanation": "Polar-covalent bonds occur when electrons are shared unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Sigma bond is a type of covalent bond that involves head-on overlap of orbitals",
+        "explanation": "Sigma bond is a type of covalent bond that involves head-on overlap of orbitals.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Pi bond is a type of covalent bond that involves side-on overlap of p orbitals",
+        "explanation": "Pi bond is a type of covalent bond that involves side-on overlap of p orbitals.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Single bond is a type of covalent bond that involves one sigma bond",
+        "explanation": "Single bond is a type of covalent bond that involves one sigma bond.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Who introduced the term covalence?",
+        "back": "B) Irving Langmuir",
+        "source": "text notes"
+      },
+      {
+        "front": "What type of bond involves head-on overlap of orbitals?",
+        "back": "A) Sigma bond",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the difference between a covalent bond and an ionic bond?",
+        "back": "A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is a polar-covalent bond?",
+        "back": "B) A type of covalent bond that involves the sharing of electrons unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the difference between a single bond and a double bond?",
+        "back": "B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "Who introduced the term covalence?",
+        "options": [
+          "A) Irving Langmuir",
+          "B) Irving Langmuir",
+          "C) John Dalton",
+          "D) Robert Boyle"
+        ],
+        "explanation": "B) Irving Langmuir",
+        "answer": "B) Irving Langmuir",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What type of bond involves head-on overlap of orbitals?",
+        "options": [],
+        "explanation": "A) Sigma bond",
+        "answer": "A) Sigma bond",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the difference between a covalent bond and an ionic bond?",
+        "options": [
+          "A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",
+          "B) Covalent bonds involve the transfer of electrons, while ionic bonds involve the sharing of electrons.",
+          "C) Covalent bonds involve the sharing of electrons, while ionic bonds involve the sharing of protons.",
+          "D) Covalent bonds involve the transfer of electrons, while ionic bonds involve the transfer of protons."
+        ],
+        "explanation": "A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",
+        "answer": "A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is a polar-covalent bond?",
+        "options": [],
+        "explanation": "B) A type of covalent bond that involves the sharing of electrons unequally.",
+        "answer": "B) A type of covalent bond that involves the sharing of electrons unequally.",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the difference between a single bond and a double bond?",
+        "options": [],
+        "explanation": "B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.",
+        "answer": "B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Review the definition of covalent bonds and how they differ from ionic bonds.",
+      "Practice identifying different types of covalent bonds (sigma, pi, single, double, and triple).",
+      "Work on creating polar-covalent bonds by sharing electrons unequally.",
+      "Use the examples of water and other molecules to illustrate the concept of covalent bonds."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 20.392089208,
+      "load_s": 0.005311791,
+      "prompt_tokens": 596,
+      "output_tokens": 939,
+      "generation_s": 20.171222
+    },
+    "attempt_1": {
+      "total_s": 37.224207042,
+      "load_s": 0.005036542,
+      "prompt_tokens": 1717,
+      "output_tokens": 1474,
+      "generation_s": 37.133763
+    },
+    "total_s": 57.649309792002896
+  }
+}

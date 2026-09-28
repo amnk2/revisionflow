@@ -1,0 +1,196 @@
+{
+  "bundle": "B1",
+  "mode": "two_step",
+  "run": 3,
+  "sources": {
+    "text notes": "Instruction cycle (fetch-decode-execute)\n- The CPU repeats this cycle from boot-up until shutdown to process instructions.\n- Three main stages: fetch, decode and execute.\n- Simple CPUs finish one instruction before starting the next; modern CPUs overlap the stages using an instruction pipeline.",
+    "audio transcript": "In this part of the lecture we will walk through the fetch stage, which is the same for every instruction. The program counter contains the address of the instruction to be fetched. This addresses copied to the memory address register. The control unit then sends a signal on the control bus to read memory at that address, and the data is placed on the data bus. The instruction is loaded into the memory data register, and at this point the program counter is incremented by one. Finally, the contents of the memory data register are copied into the current instruction register, where the opcode and the operand can be decoded, in the decode stage the control unit interprets the instruction, and in the execute stage the arithmetic logic unit carries out the operation.",
+    "slide text": "Registers in the instruction cycle\nProgram counter (PC): address of the next instruction\nMemory address register (MAR): address being read or written\nMemory data register (MDR): data read from or written to\nmemory\nCurrent instruction register (CIR): instruction being decoded",
+    "image caption": "registerer in instruction cycle"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "The instruction cycle consists of three stages: fetch, decode, and execute. The CPU repeats this cycle from boot-up until shutdown to process instructions. The fetch stage involves reading the instruction from memory, while the decode stage interprets the instruction. The execute stage carries out the operation.",
+    "key_concepts": [
+      {
+        "concept": "Instruction cycle",
+        "explanation": "The instruction cycle consists of three stages: fetch, decode, and execute.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Fetch stage",
+        "explanation": "The fetch stage involves reading the instruction from memory.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Decode stage",
+        "explanation": "The decode stage interprets the instruction.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Execute stage",
+        "explanation": "The execute stage carries out the operation.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Program counter",
+        "explanation": "To hold the address of the next instruction.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Memory address register",
+        "explanation": "To hold the address being read or written.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Memory data register",
+        "explanation": "To hold the data read from or written to memory.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Current instruction register",
+        "explanation": "To hold the instruction being decoded.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the first stage of the instruction cycle?",
+        "back": "Fetch",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the purpose of the program counter?",
+        "back": "To hold the address of the next instruction",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the decode stage used for?",
+        "back": "To interpret the instruction",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the execute stage used for?",
+        "back": "To carry out the operation",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the memory data register used for?",
+        "back": "To hold the data read from or written to memory",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the current instruction register used for?",
+        "back": "To hold the instruction being decoded",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the memory address register used for?",
+        "back": "To hold the address being read or written",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the program counter used for?",
+        "back": "To hold the address of the next instruction",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the program counter?",
+        "options": [
+          "To carry out the operation",
+          "To hold the address of the next instruction",
+          "To interpret the instruction",
+          "To read from memory"
+        ],
+        "explanation": "To hold the address of the next instruction",
+        "answer": "To hold the address of the next instruction",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the first stage of the instruction cycle?",
+        "options": [],
+        "explanation": "Fetch",
+        "answer": "Fetch",
+        "source": "text notes"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the execute stage?",
+        "options": [
+          "To interpret the instruction",
+          "To carry out the operation",
+          "To read from memory",
+          "To hold the address of the next instruction"
+        ],
+        "explanation": "To carry out the operation",
+        "answer": "To carry out the operation",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the memory data register used for?",
+        "options": [],
+        "explanation": "To hold the data read from or written to memory",
+        "answer": "To hold the data read from or written to memory",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the current instruction register?",
+        "options": [
+          "To hold the instruction being decoded",
+          "To carry out the operation",
+          "To interpret the instruction",
+          "To read from memory"
+        ],
+        "explanation": "To hold the instruction being decoded",
+        "answer": "To hold the instruction being decoded",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the memory address register used for?",
+        "options": [],
+        "explanation": "To hold the address being read or written",
+        "answer": "To hold the address being read or written",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Review the instruction cycle and its stages.",
+      "Focus on the fetch stage and its components.",
+      "Practice decoding and executing instructions using the current instruction register and memory data register."
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "draft": {
+      "total_s": 16.111205708,
+      "load_s": 0.006360625,
+      "prompt_tokens": 601,
+      "output_tokens": 826,
+      "generation_s": 15.95853
+    },
+    "attempt_1": {
+      "total_s": 20.273355833,
+      "load_s": 0.003280042,
+      "prompt_tokens": 1604,
+      "output_tokens": 1012,
+      "generation_s": 20.17817
+    },
+    "total_s": 36.418492000004335
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "bundle": "B1",
+  "mode": "schema",
+  "run": 1,
+  "sources": {
+    "text notes": "Instruction cycle (fetch-decode-execute)\n- The CPU repeats this cycle from boot-up until shutdown to process instructions.\n- Three main stages: fetch, decode and execute.\n- Simple CPUs finish one instruction before starting the next; modern CPUs overlap the stages using an instruction pipeline.",
+    "audio transcript": "In this part of the lecture we will walk through the fetch stage, which is the same for every instruction. The program counter contains the address of the instruction to be fetched. This addresses copied to the memory address register. The control unit then sends a signal on the control bus to read memory at that address, and the data is placed on the data bus. The instruction is loaded into the memory data register, and at this point the program counter is incremented by one. Finally, the contents of the memory data register are copied into the current instruction register, where the opcode and the operand can be decoded, in the decode stage the control unit interprets the instruction, and in the execute stage the arithmetic logic unit carries out the operation.",
+    "slide text": "Registers in the instruction cycle\nProgram counter (PC): address of the next instruction\nMemory address register (MAR): address being read or written\nMemory data register (MDR): data read from or written to\nmemory\nCurrent instruction register (CIR): instruction being decoded",
+    "image caption": "registerer in instruction cycle"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "The instruction cycle consists of three stages: fetch, decode, and execute. The CPU repeats this cycle to process instructions.",
+    "key_concepts": [
+      {
+        "concept": "Instruction Cycle",
+        "explanation": "The CPU repeats the instruction cycle to process instructions.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Fetch Stage",
+        "explanation": "The program counter contains the address of the instruction to be fetched.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Decode Stage",
+        "explanation": "The control unit interprets the instruction in the decode stage.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Execute Stage",
+        "explanation": "The arithmetic logic unit carries out the operation in the execute stage.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Registers",
+        "explanation": "Registers are used to store data during the instruction cycle.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is the first stage of the instruction cycle?",
+        "back": "Fetch stage",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the program counter used for?",
+        "back": "To store the address of the instruction to be fetched",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the purpose of the decode stage?",
+        "back": "To interpret the instruction",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the execute stage used for?",
+        "back": "To carry out the operation",
+        "source": "audio transcript"
+      },
+      {
+        "front": "What is the memory address register used for?",
+        "back": "To store the address being read or written",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the current instruction register used for?",
+        "back": "To store the instruction being decoded",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the instruction pipeline used for?",
+        "back": "To overlap the stages of the instruction cycle",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the control unit used for?",
+        "back": "To send signals on the control bus",
+        "source": "audio transcript"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the first stage of the instruction cycle?",
+        "options": [
+          "Decode stage",
+          "Fetch stage",
+          "Execute stage",
+          "Program counter"
+        ],
+        "explanation": "The CPU repeats the instruction cycle to process instructions.",
+        "answer": "Fetch stage",
+        "source": "text notes"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the purpose of the decode stage?",
+        "options": [],
+        "explanation": "The control unit interprets the instruction in the decode stage.",
+        "answer": "To interpret the instruction",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the execute stage?",
+        "options": [
+          "To store the address of the instruction to be fetched",
+          "To interpret the instruction",
+          "To carry out the operation",
+          "To send signals on the control bus"
+        ],
+        "explanation": "The arithmetic logic unit carries out the operation in the execute stage.",
+        "answer": "To carry out the operation",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the memory address register used for?",
+        "options": [],
+        "explanation": "To store the address being read or written",
+        "answer": "To store the address being read or written",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What is the purpose of the instruction pipeline?",
+        "options": [
+          "To overlap the stages of the instruction cycle",
+          "To interpret the instruction",
+          "To carry out the operation",
+          "To send signals on the control bus"
+        ],
+        "explanation": "To overlap the stages of the instruction cycle",
+        "answer": "To overlap the stages of the instruction cycle",
+        "source": "text notes"
+      }
+    ],
+    "revision_plan": [
+      "Review the instruction cycle and its stages",
+      "Practice decoding and executing instructions",
+      "Analyze the role of registers in the instruction cycle"
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 26.2432125,
+      "load_s": 4.620595417,
+      "prompt_tokens": 1291,
+      "output_tokens": 1022,
+      "generation_s": 19.585602
+    },
+    "total_s": 26.266603625001153
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "bundle": "B6",
+  "mode": "schema",
+  "run": 1,
+  "sources": {
+    "text notes": "Working memory\n- Limited-capacity system that holds information temporarily.\n- Important for reasoning, decision-making and behaviour.\n- Sometimes treated as the same as short-term memory, but working memory also manipulates information.\n- Central idea in cognitive psychology and neuroscience.",
+    "audio transcript": "The most influential account of working memory is the multi-component model proposed by Badly and Hitch in 1974. They suggested that working memory has a central executive, which directs attention and co-ordinates two slave systems. The first is the phonological loop, which stores sound and speech-based information, and which we keep active by rehearsing it silently. The second is the Bessua Spatial Sketchpad, which holds visual and spatial information, for example when you picture a root. In 2000, Badly added a fourth part, the episodic buffer, which links information across the other components and connects working memory to long-term memory.",
+    "slide text": "Capacity of working memory\n* Capacity is limited: only a few items can be held at once\n\u00a2 Miller (1956): the magical number seven, plus or minus two\n\u00ab Later estimates are lower: about four chunks (Cowan, 2001)\n\u00a2 Chunking groups items into larger meaningful units\n* Capacity differs between individuals\n\u00a2 Itis linked to reading comprehension and reasoning\n\u00ab Measured with complex span tasks, such as reading span\n* Capacity develops through childhood\n* Capacity tends to decline in older age",
+    "image caption": "capacity of working memory capacity is limited, often a few few at one time"
+  },
+  "pack": {
+    "sources_used": [
+      "audio transcript",
+      "image caption",
+      "slide text",
+      "text notes"
+    ],
+    "summary": "Working memory is a limited-capacity system that holds information temporarily. It is important for reasoning, decision-making, and behavior. The capacity of working memory is limited, and it differs between individuals. It is linked to reading comprehension and reasoning.",
+    "key_concepts": [
+      {
+        "concept": "Working memory",
+        "explanation": "A limited-capacity system that holds information temporarily.",
+        "source": "text notes"
+      },
+      {
+        "concept": "Capacity of working memory",
+        "explanation": "Limited capacity, with a maximum of 4-7 chunks.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Components of working memory",
+        "explanation": "Central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",
+        "source": "audio transcript"
+      },
+      {
+        "concept": "Development of working memory",
+        "explanation": "Capacity develops through childhood and declines in older age.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Importance of working memory",
+        "explanation": "Linked to reading comprehension and reasoning.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Measurement of working memory",
+        "explanation": "Measured with complex span tasks.",
+        "source": "slide text"
+      },
+      {
+        "concept": "Individual differences in working memory",
+        "explanation": "Capacity differs between individuals.",
+        "source": "slide text"
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "What is working memory?",
+        "back": "A limited-capacity system that holds information temporarily.",
+        "source": "text notes"
+      },
+      {
+        "front": "What is the capacity of working memory?",
+        "back": "Limited to 4-7 chunks.",
+        "source": "slide text"
+      },
+      {
+        "front": "What are the components of working memory?",
+        "back": "Central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",
+        "source": "audio transcript"
+      },
+      {
+        "front": "How does working memory develop?",
+        "back": "Capacity develops through childhood and declines in older age.",
+        "source": "slide text"
+      },
+      {
+        "front": "What is the importance of working memory?",
+        "back": "Linked to reading comprehension and reasoning.",
+        "source": "slide text"
+      },
+      {
+        "front": "How is working memory measured?",
+        "back": "Measured with complex span tasks.",
+        "source": "slide text"
+      },
+      {
+        "front": "Are there individual differences in working memory?",
+        "back": "Yes, capacity differs between individuals.",
+        "source": "slide text"
+      }
+    ],
+    "quiz": [
+      {
+        "kind": "multiple_choice",
+        "question": "What is the capacity of working memory?",
+        "options": [
+          "Only a few items can be held at once",
+          "The magical number seven, plus or minus two",
+          "About four chunks",
+          "Limited to 4-7 chunks"
+        ],
+        "explanation": "The capacity of working memory is limited, and it differs between individuals.",
+        "answer": "Limited to 4-7 chunks",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the central executive in working memory?",
+        "options": [],
+        "explanation": "The central executive directs attention and coordinates the other components of working memory.",
+        "answer": "The central executive",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "How is working memory measured?",
+        "options": [
+          "With complex span tasks",
+          "With reading comprehension tasks",
+          "With visuospatial tasks",
+          "With episodic tasks"
+        ],
+        "explanation": "Working memory is measured with complex span tasks.",
+        "answer": "With complex span tasks",
+        "source": "slide text"
+      },
+      {
+        "kind": "short_answer",
+        "question": "What is the importance of working memory?",
+        "options": [],
+        "explanation": "Working memory is linked to reading comprehension and reasoning.",
+        "answer": "Linked to reading comprehension and reasoning.",
+        "source": "slide text"
+      },
+      {
+        "kind": "multiple_choice",
+        "question": "What are the components of working memory?",
+        "options": [
+          "Central executive, phonological loop, visuospatial sketchpad, and episodic buffer",
+          "Central executive, phonological loop, and visuospatial sketchpad",
+          "Central executive, phonological loop, and episodic buffer",
+          "Central executive, visuospatial sketchpad, and episodic buffer"
+        ],
+        "explanation": "The components of working memory include the central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",
+        "answer": "Central executive, phonological loop, visuospatial sketchpad, and episodic buffer",
+        "source": "audio transcript"
+      },
+      {
+        "kind": "short_answer",
+        "question": "How does working memory develop?",
+        "options": [],
+        "explanation": "The capacity of working memory develops through childhood and declines in older age.",
+        "answer": "Develops through childhood and declines in older age.",
+        "source": "slide text"
+      }
+    ],
+    "revision_plan": [
+      "Review the components of working memory",
+      "Practice measuring working memory with complex span tasks",
+      "Analyze the importance of working memory in reading comprehension and reasoning"
+    ],
+    "generated_by": "llm"
+  },
+  "attempts": 1,
+  "fallback_used": false,
+  "warnings": [],
+  "repairs": [],
+  "timings": {
+    "attempt_1": {
+      "total_s": 27.273568042,
+      "load_s": 0.004453709,
+      "prompt_tokens": 1330,
+      "output_tokens": 1050,
+      "generation_s": 24.902834
+    },
+    "total_s": 27.28637829199579
+  }
+}
