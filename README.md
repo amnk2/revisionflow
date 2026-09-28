@@ -112,4 +112,4 @@ Everything runs on the local machine. Uploaded audio is written to a temporary f
 - The grounding check only measures similarity, so a wrong statement that uses the same words as the source can still pass.
 - Long recordings take a long time to transcribe, and there is no progress estimate.
 - Full PDF processing is out of scope. Copy the text or take a screenshot instead.
-- The example material in `samples/` is not included in the repository.
+- The example material used in the report and video is not included because of licensing but the files in evaluation/testset/ can be used to try the app.
