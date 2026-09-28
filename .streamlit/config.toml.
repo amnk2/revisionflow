@@ -1,0 +1,3 @@
+# Hide the Deploy button and developer menu items (the app only runs locally)
+[client]
+toolbarMode = "minimal"
