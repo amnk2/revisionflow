@@ -1,0 +1,6 @@
+{
+  "description": "Real screenshot used in the preliminary-report demo: Wikipedia figure 'Block diagram of a basic computer with uniprocessor CPU' (Wikimedia Commons). Kept locally in samples/ and not redistributed until its licence is recorded. Reference text typed by hand from the image, in top-to-bottom, left-to-right reading order.",
+  "image": "samples/cpu-block-diagram.png",
+  "reference": "Secondary Memory\nData / instruction\nCommands / Control Signals\nInput Devices\nMain Memory\nOutput Devices\nRegister\nArithmetic & Logical Unit (ALU)\nControl Unit (CU)\nCentral Processing Unit (CPU)\nBlock diagram of a basic computer with uniprocessor CPU. Black lines indicate the flow of control signals, whereas red lines indicate the flow of processor instructions and data. Arrows indicate the direction of flow.",
+  "key_terms": ["Secondary Memory", "Main Memory", "Input Devices", "Output Devices", "Register", "Arithmetic & Logical Unit", "ALU", "Control Unit", "Central Processing Unit", "control signals"]
+}

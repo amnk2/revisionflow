@@ -1,0 +1,5 @@
+Hash functions
+Hashing by division: h(k) = k mod m
+Hashing by multiplication uses a constant between 0 and 1
+A good hash function spreads keys uniformly
+Deterministic: the same key always gives the same index

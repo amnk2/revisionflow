@@ -1,0 +1,5 @@
+Registers in the instruction cycle
+Program counter (PC): address of the next instruction
+Memory address register (MAR): address being read or written
+Memory data register (MDR): data read from or written to memory
+Current instruction register (CIR): instruction being decoded

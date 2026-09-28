@@ -1,0 +1,5 @@
+Hash tables
+- Data structure that maps keys to values (an associative array or dictionary).
+- A hash function turns a key into an index into an array of buckets.
+- A lookup hashes the key to find where the value is stored.
+- Average lookup time does not depend on the number of elements.

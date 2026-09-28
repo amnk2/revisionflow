@@ -1,0 +1,5 @@
+Types of covalent bond
+Sigma bond: head-on overlap of orbitals
+Pi bond: side-on overlap of p orbitals
+Single bond = 1 sigma bond
+Double bond = 1 sigma bond + 1 pi bond

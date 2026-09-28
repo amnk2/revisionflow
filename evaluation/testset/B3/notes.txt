@@ -1,0 +1,5 @@
+Inflation
+- A general rise in the average price of goods and services.
+- Each unit of money buys less, so purchasing power falls.
+- Usually measured with a price index, typically the consumer price index (CPI).
+- The opposite is deflation, a fall in the general price level.

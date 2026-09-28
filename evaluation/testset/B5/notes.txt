@@ -1,0 +1,5 @@
+Covalent bonds
+- Atoms share pairs of electrons (bonding pairs).
+- Sharing lets each atom reach a full outer (valence) shell.
+- Much more common than ionic bonding in organic chemistry.
+- The term covalence was introduced by Irving Langmuir in 1919.

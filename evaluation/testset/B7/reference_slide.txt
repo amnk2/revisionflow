@@ -1,0 +1,5 @@
+Applying the second law
+Net force = mass x acceleration (F = ma)
+Unit of force: the newton (N) = 1 kg m/s2
+Larger mass means smaller acceleration for the same force
+Weight = mass x gravitational field strength (W = mg)

@@ -1,0 +1,4 @@
+Instruction cycle (fetch-decode-execute)
+- The CPU repeats this cycle from boot-up until shutdown to process instructions.
+- Three main stages: fetch, decode and execute.
+- Simple CPUs finish one instruction before starting the next; modern CPUs overlap the stages using an instruction pipeline.

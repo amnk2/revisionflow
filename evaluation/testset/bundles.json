@@ -1,0 +1,233 @@
+{
+  "description": "RevisionFlow evaluation test set. Eight study bundles (notes, lecture audio script, slide) on different subjects, adapted from English Wikipedia (CC BY-SA 4.0; revisions listed in source_text/attribution.json). Audio is synthesised from the script with macOS text-to-speech so the reference transcript is exact; slides are rendered from the listed text so the reference slide text is exact. Key terms and key points were written before any system output was produced.",
+  "noise": {"type": "pink", "snr_db": 10},
+  "bundles": [
+    {
+      "id": "B1",
+      "topic": "Instruction cycle",
+      "article": "instruction_cycle",
+      "subject": "Computer science",
+      "notes": "Instruction cycle (fetch-decode-execute)\n- The CPU repeats this cycle from boot-up until shutdown to process instructions.\n- Three main stages: fetch, decode and execute.\n- Simple CPUs finish one instruction before starting the next; modern CPUs overlap the stages using an instruction pipeline.",
+      "audio_script": "In this part of the lecture we will walk through the fetch stage, which is the same for every instruction. The program counter contains the address of the instruction to be fetched. This address is copied to the memory address register. The control unit then sends a signal on the control bus to read memory at that address, and the data is placed on the data bus. The instruction is loaded into the memory data register, and at this point the program counter is incremented by one. Finally, the contents of the memory data register are copied into the current instruction register, where the opcode and the operand can be decoded. In the decode stage the control unit interprets the instruction, and in the execute stage the arithmetic logic unit carries out the operation.",
+      "audio": {"voice": "Daniel", "accent": "British", "rate": 175, "noise": false},
+      "slide": {
+        "style": "simple",
+        "title": "Registers in the instruction cycle",
+        "bullets": [
+          "Program counter (PC): address of the next instruction",
+          "Memory address register (MAR): address being read or written",
+          "Memory data register (MDR): data read from or written to memory",
+          "Current instruction register (CIR): instruction being decoded"
+        ]
+      },
+      "key_terms": ["Program counter", "PC", "next instruction", "Memory address register", "MAR", "Memory data register", "MDR", "Current instruction register", "CIR", "decoded"],
+      "key_points": [
+        "The instruction cycle has three stages: fetch, decode and execute.",
+        "Modern CPUs overlap instruction cycles using a pipeline.",
+        "The program counter holds the address of the next instruction and is incremented during the fetch stage.",
+        "The fetched instruction moves from the memory data register into the current instruction register.",
+        "The control unit decodes the instruction and the ALU carries out the operation."
+      ]
+    },
+    {
+      "id": "B2",
+      "topic": "Photosynthesis",
+      "article": "photosynthesis",
+      "subject": "Biology",
+      "notes": "Photosynthesis\n- Plants, algae and cyanobacteria convert light energy into chemical energy.\n- Oxygenic photosynthesis releases oxygen as a by-product of splitting water.\n- The energy is stored in carbohydrates such as glucose, sucrose and starch.\n- Cells later release this energy through cellular respiration.",
+      "audio_script": "Let's look at the light-dependent reactions. A molecule of chlorophyll absorbs a photon and loses an electron. That electron is passed along an electron transport chain, which ultimately reduces NADP to NADPH. At the same time, a proton gradient builds up across the chloroplast membrane, and the enzyme ATP synthase uses this gradient to make ATP. The chlorophyll gets its lost electron back when a water molecule is split, in a process called photolysis, and this is what releases oxygen. Not every wavelength of light is useful. In green plants, chlorophyll absorbs mostly violet-blue and red light, and the green light that is not absorbed is why leaves look green.",
+      "audio": {"voice": "Samantha", "accent": "American", "rate": 175, "noise": false},
+      "slide": {
+        "style": "dense",
+        "title": "The Calvin cycle (light-independent reactions)",
+        "bullets": [
+          "Takes place in the stroma of the chloroplast",
+          "The enzyme RuBisCO captures CO2 from the atmosphere",
+          "CO2 combines with ribulose 1,5-bisphosphate (RuBP)",
+          "This produces two molecules of glycerate 3-phosphate",
+          "Uses the ATP and NADPH made in the light-dependent reactions",
+          "Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate",
+          "Five out of six molecules are used to regenerate RuBP",
+          "The remaining triose phosphates form sucrose and starch",
+          "Sugars are also used for cellulose and cellular respiration"
+        ]
+      },
+      "key_terms": ["stroma", "RuBisCO", "CO2", "ribulose 1,5-bisphosphate", "glycerate 3-phosphate", "ATP", "NADPH", "glyceraldehyde 3-phosphate", "sucrose", "starch"],
+      "key_points": [
+        "Photosynthesis converts light energy into chemical energy stored in carbohydrates.",
+        "Splitting water (photolysis) releases oxygen.",
+        "The light-dependent reactions produce ATP and NADPH.",
+        "In the Calvin cycle, RuBisCO fixes CO2 by combining it with ribulose 1,5-bisphosphate.",
+        "Chlorophyll absorbs mainly violet-blue and red light, which is why leaves look green."
+      ]
+    },
+    {
+      "id": "B3",
+      "topic": "Inflation",
+      "article": "inflation",
+      "subject": "Economics",
+      "notes": "Inflation\n- A general rise in the average price of goods and services.\n- Each unit of money buys less, so purchasing power falls.\n- Usually measured with a price index, typically the consumer price index (CPI).\n- The opposite is deflation, a fall in the general price level.",
+      "audio_script": "Today we are looking at how inflation is measured. Most of the time, inflation means a rise in a broad price index that represents the overall price level in the economy. Examples of broad indices are the consumer price index, the personal consumption expenditures price index and the GDP deflator. The inflation rate is usually worked out as the percentage change in the consumer price index over a year. Economists also look at core inflation, which leaves out food and energy prices, because those rise and fall more than other prices in the short term. Narrower indices, such as the producer price index, track prices in particular parts of the economy.",
+      "audio": {"voice": "Karen", "accent": "Australian", "rate": 175, "noise": false},
+      "slide": {
+        "style": "dark",
+        "title": "Related concepts",
+        "bullets": [
+          "Deflation: a fall in the general price level",
+          "Disinflation: a decrease in the rate of inflation",
+          "Hyperinflation: an out-of-control inflationary spiral",
+          "Stagflation: inflation, slow growth and high unemployment",
+          "Reflation: an attempt to raise prices to counter deflation"
+        ]
+      },
+      "key_terms": ["Deflation", "Disinflation", "rate of inflation", "Hyperinflation", "inflationary spiral", "Stagflation", "slow growth", "high unemployment", "Reflation", "general price level"],
+      "key_points": [
+        "Inflation is a general rise in prices that reduces the purchasing power of money.",
+        "Inflation is usually measured with the consumer price index.",
+        "Core inflation leaves out food and energy prices because they are volatile.",
+        "Disinflation is a fall in the rate of inflation, whereas deflation is a fall in the price level.",
+        "Stagflation combines inflation with slow growth and high unemployment."
+      ]
+    },
+    {
+      "id": "B4",
+      "topic": "Industrial Revolution",
+      "article": "industrial_revolution",
+      "subject": "History",
+      "notes": "Industrial Revolution\n- Began in Great Britain around 1760 and spread to Europe and the US by about 1840.\n- Shift from hand production to machines and factories.\n- New iron-making and chemical processes; more use of water and steam power.\n- Textiles were the first industry to use modern production methods.",
+      "audio_script": "In this section we are going to talk about steam power. In the early years of the Industrial Revolution, most industrial power actually came from water and wind. The first commercially successful use of steam was a pump patented by Thomas Savery in 1698. Then, before 1712, Thomas Newcomen introduced the first successful piston steam engine, which was used to drain deep mines. Newcomen engines were very inefficient, but where coal was cheap they let mines go much deeper. The big change came with James Watt, working with his business partner Matthew Boulton. Watt added a separate condenser, which made the engine far more efficient. By 1800 Britain had an estimated ten thousand horsepower supplied by steam.",
+      "audio": {"voice": "Moira", "accent": "Irish", "rate": 175, "noise": false},
+      "slide": {
+        "style": "photo",
+        "title": "Textile machinery",
+        "bullets": [
+          "Flying shuttle (John Kay, 1733) sped up weaving",
+          "Spinning jenny (James Hargreaves, around 1764)",
+          "Water frame (Richard Arkwright, 1769)",
+          "Spinning mule (Samuel Crompton, 1779)"
+        ]
+      },
+      "key_terms": ["Flying shuttle", "John Kay", "1733", "weaving", "Spinning jenny", "James Hargreaves", "Water frame", "Richard Arkwright", "Spinning mule", "Samuel Crompton"],
+      "key_points": [
+        "The Industrial Revolution began in Britain around 1760.",
+        "Production moved from hand methods to machines and factories.",
+        "Newcomen's steam engine was used to drain mines.",
+        "James Watt's separate condenser made the steam engine far more efficient.",
+        "Machines such as the spinning jenny and the water frame mechanised textile production."
+      ]
+    },
+    {
+      "id": "B5",
+      "topic": "Covalent bonding",
+      "article": "covalent_bond",
+      "subject": "Chemistry",
+      "notes": "Covalent bonds\n- Atoms share pairs of electrons (bonding pairs).\n- Sharing lets each atom reach a full outer (valence) shell.\n- Much more common than ionic bonding in organic chemistry.\n- The term covalence was introduced by Irving Langmuir in 1919.",
+      "audio_script": "Now let's compare covalent and ionic bonding. In a covalent bond, two atoms share a pair of electrons, and the balance of attraction and repulsion between them holds the atoms together. In an ionic bond, electrons are transferred instead, and the resulting ions are held together by electrostatic attraction. A single covalent bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs. When the two atoms have different electronegativities, the electrons are shared unequally, and we call that a polar covalent bond. Water is a good example, because oxygen pulls the shared electrons more strongly than hydrogen does.",
+      "audio": {"voice": "Rishi", "accent": "Indian", "rate": 175, "noise": true},
+      "slide": {
+        "style": "simple",
+        "title": "Types of covalent bond",
+        "bullets": [
+          "Sigma bond: head-on overlap of orbitals",
+          "Pi bond: side-on overlap of p orbitals",
+          "Single bond = 1 sigma bond",
+          "Double bond = 1 sigma bond + 1 pi bond"
+        ]
+      },
+      "key_terms": ["Sigma bond", "head-on overlap", "orbitals", "Pi bond", "side-on overlap", "p orbitals", "Single bond", "1 sigma bond", "Double bond", "1 pi bond"],
+      "key_points": [
+        "In a covalent bond, atoms share pairs of electrons.",
+        "Sharing electrons lets each atom reach a full valence shell.",
+        "Ionic bonds transfer electrons, whereas covalent bonds share them.",
+        "Unequal sharing between atoms of different electronegativity gives a polar covalent bond, as in water.",
+        "A double bond consists of one sigma bond and one pi bond."
+      ]
+    },
+    {
+      "id": "B6",
+      "topic": "Working memory",
+      "article": "working_memory",
+      "subject": "Psychology",
+      "notes": "Working memory\n- Limited-capacity system that holds information temporarily.\n- Important for reasoning, decision-making and behaviour.\n- Sometimes treated as the same as short-term memory, but working memory also manipulates information.\n- Central idea in cognitive psychology and neuroscience.",
+      "audio_script": "The most influential account of working memory is the multicomponent model proposed by Baddeley and Hitch in 1974. They suggested that working memory has a central executive, which directs attention and coordinates two slave systems. The first is the phonological loop, which stores sound and speech-based information, and which we keep active by rehearsing it silently. The second is the visuospatial sketchpad, which holds visual and spatial information, for example when you picture a route. In 2000, Baddeley added a fourth part, the episodic buffer, which links information across the other components and connects working memory to long-term memory.",
+      "audio": {"voice": "Tessa", "accent": "South African", "rate": 175, "noise": true},
+      "slide": {
+        "style": "dense",
+        "title": "Capacity of working memory",
+        "bullets": [
+          "Capacity is limited: only a few items can be held at once",
+          "Miller (1956): the magical number seven, plus or minus two",
+          "Later estimates are lower: about four chunks (Cowan, 2001)",
+          "Chunking groups items into larger meaningful units",
+          "Capacity differs between individuals",
+          "It is linked to reading comprehension and reasoning",
+          "Measured with complex span tasks, such as reading span",
+          "Capacity develops through childhood",
+          "Capacity tends to decline in older age"
+        ]
+      },
+      "key_terms": ["limited", "Miller", "magical number seven", "four chunks", "Cowan", "Chunking", "individuals", "reading comprehension", "complex span tasks", "reading span"],
+      "key_points": [
+        "Working memory is a limited-capacity system that holds information temporarily.",
+        "Baddeley and Hitch's model has a central executive coordinating the phonological loop and the visuospatial sketchpad.",
+        "The episodic buffer, added in 2000, links working memory to long-term memory.",
+        "Capacity was once put at seven plus or minus two, but later work suggests about four chunks.",
+        "Working memory differs from short-term memory because it manipulates information as well as storing it."
+      ]
+    },
+    {
+      "id": "B7",
+      "topic": "Newton's laws of motion",
+      "article": "newtons_laws_of_motion",
+      "subject": "Physics",
+      "notes": "Newton's laws of motion\n- Three laws linking the motion of an object to the forces acting on it.\n- The basis of Newtonian (classical) mechanics.\n- First stated by Isaac Newton in the Principia, published in 1687.",
+      "audio_script": "Let's go through the three laws. The first law says that a body stays at rest, or keeps moving at a constant speed in a straight line, unless a force acts on it. This tendency to resist changes in motion is called inertia. The second law says that the net force on a body equals its mass multiplied by its acceleration, which we write as F equals m a. Equivalently, force is the rate of change of momentum. The third law says that when two bodies exert forces on each other, the forces are equal in size and opposite in direction. So when you push against a wall, the wall pushes back on you just as hard.",
+      "audio": {"voice": "Daniel", "accent": "British", "rate": 182, "noise": true},
+      "slide": {
+        "style": "dark",
+        "title": "Applying the second law",
+        "bullets": [
+          "Net force = mass x acceleration (F = ma)",
+          "Unit of force: the newton (N) = 1 kg m/s2",
+          "Larger mass means smaller acceleration for the same force",
+          "Weight = mass x gravitational field strength (W = mg)"
+        ]
+      },
+      "key_terms": ["Net force", "acceleration", "F = ma", "Unit of force", "newton", "kg", "Larger mass", "smaller acceleration", "Weight", "gravitational field strength"],
+      "key_points": [
+        "Newton's three laws describe how forces affect motion and underpin classical mechanics.",
+        "First law: a body stays at rest or in uniform motion unless a force acts on it (inertia).",
+        "Second law: net force equals mass times acceleration.",
+        "Third law: the forces two bodies exert on each other are equal and opposite.",
+        "Force is measured in newtons, and weight equals mass times gravitational field strength."
+      ]
+    },
+    {
+      "id": "B8",
+      "topic": "Hash tables",
+      "article": "hash_table",
+      "subject": "Computer science",
+      "notes": "Hash tables\n- Data structure that maps keys to values (an associative array or dictionary).\n- A hash function turns a key into an index into an array of buckets.\n- A lookup hashes the key to find where the value is stored.\n- Average lookup time does not depend on the number of elements.",
+      "audio_script": "Most hash functions are imperfect, so two different keys can end up with the same index. This is called a collision, and every hash table needs a way to handle it. The first common strategy is separate chaining, where each slot holds a linked list of all the entries that hashed to it. The second is open addressing, where, if a slot is already taken, we probe through the table looking for the next free slot. How well either strategy works depends on the load factor, which is the number of entries divided by the number of buckets. When the load factor gets too high, the table is resized and every entry is rehashed.",
+      "audio": {"voice": "Samantha", "accent": "American", "rate": 175, "noise": true},
+      "slide": {
+        "style": "photo",
+        "title": "Hash functions",
+        "bullets": [
+          "Hashing by division: h(k) = k mod m",
+          "Hashing by multiplication uses a constant between 0 and 1",
+          "A good hash function spreads keys uniformly",
+          "Deterministic: the same key always gives the same index"
+        ]
+      },
+      "key_terms": ["Hashing by division", "k mod m", "Hashing by multiplication", "constant", "good hash function", "spreads keys", "uniformly", "Deterministic", "same key", "same index"],
+      "key_points": [
+        "A hash table maps keys to values, using a hash function to compute an index.",
+        "A collision happens when two keys hash to the same index.",
+        "Collisions are handled by separate chaining or open addressing.",
+        "The load factor is entries divided by buckets, and a high load factor triggers resizing and rehashing.",
+        "A good hash function is deterministic and spreads keys uniformly."
+      ]
+    }
+  ]
+}

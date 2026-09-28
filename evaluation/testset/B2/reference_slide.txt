@@ -1,0 +1,10 @@
+The Calvin cycle (light-independent reactions)
+Takes place in the stroma of the chloroplast
+The enzyme RuBisCO captures CO2 from the atmosphere
+CO2 combines with ribulose 1,5-bisphosphate (RuBP)
+This produces two molecules of glycerate 3-phosphate
+Uses the ATP and NADPH made in the light-dependent reactions
+Glycerate 3-phosphate is reduced to glyceraldehyde 3-phosphate
+Five out of six molecules are used to regenerate RuBP
+The remaining triose phosphates form sucrose and starch
+Sugars are also used for cellulose and cellular respiration
