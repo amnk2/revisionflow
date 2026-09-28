@@ -1,0 +1,41 @@
+{
+ "items": {
+  "cfc7": ["S", "", "", "", "", "useful", ""],
+  "13fe": ["S", "", "", "", "", "useful", ""],
+  "2613": ["E", "", "", "", "", "", "placeholder '[audio transcript]' instead of an explanation"],
+  "6223": ["S", "", "", "", "", "useful", ""],
+  "41cd": ["E", "", "", "", "", "", "placeholder"],
+  "9f52": ["P", "", "", "", "", "useful", "ATP and NADPH are used by the Calvin cycle; they do not 'produce energy'"],
+  "4831": ["S", "", "", "", "", "useful", ""],
+  "c33a": ["P", 1, 1, 2, "", "", "glucose is not stated as a Calvin cycle product (slide says sucrose and starch); explanation is a placeholder"],
+  "9317": ["S", 2, 2, 2, "", "", "implausible distractors ('water energy')"],
+  "4862": ["E", "", "", "", "", "", "placeholder"],
+  "49da": ["P", 2, 1, 2, "", "", "ATP and NADPH do not 'produce energy'; the sources say the Calvin cycle uses them"],
+  "ebdd": ["E", 2, 0, 1, "", "", "answer is a placeholder"],
+  "5fbe": ["E", "", "", "", "", "empty", "back is a placeholder"],
+  "a4f1": ["P", 2, 1, 2, "", "", "chlorophyll does not itself produce ATP and NADPH; the transport chain and ATP synthase do"],
+  "7c34": ["S", "", "", "", "", "useful", "glucose inferred from the notes"],
+  "cac5": ["S", "", "", "", "", "", ""],
+  "3492": ["S", 2, 1, 2, "multiple-correct", "", "'To produce glucose' is arguably also correct"],
+  "918a": ["S", 2, 2, 2, "", "", "explanation is a placeholder"],
+  "6ba7": ["E", "", "", "", "", "empty", "back is a placeholder"],
+  "1d28": ["S", "", "", "", "", "", ""],
+  "da50": ["S", 2, 2, 2, "", "", ""],
+  "68af": ["E", "", "", "", "", "", "placeholder"],
+  "6cf0": ["S", 2, 2, 1, "", "", ""],
+  "cfc1": ["S", 2, 2, 2, "", "", "explanation is a placeholder"],
+  "a5f0": ["E", "", "", "", "", "", "placeholder"],
+  "fe50": ["S", "", "", "", "", "useful", "source tagged as text notes but it comes from the audio"],
+  "52e6": ["P", "", "", "", "", "useful", "chlorophyll does not itself produce ATP and NADPH"],
+  "4f6d": ["E", 2, 0, 1, "", "", "answer is a placeholder"],
+  "b494": ["S", "", "", "", "", "useful", ""],
+  "5150": ["S", "", "", "", "", "useful", ""],
+  "3a97": ["E", "", "", "", "", "", "placeholder"],
+  "2966": ["S", "", "", "", "", "", ""],
+  "79bf": ["P", "", "", "", "", "useful", "glucose is not stated as a Calvin cycle product"]
+ },
+ "summaries": {
+  "8bff": [1, 1, 1, 0.5, 0],
+  "7d9f": [1, 1, 0, 0, 0]
+ }
+}

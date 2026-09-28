@@ -1,0 +1,144 @@
+id,bundle,kind,item,claimed_source,faithfulness,answerable,correct,key_point,flaws,card_flag,comment
+ae0a,B1,flashcard,"FRONT: What is the program counter used for?
+BACK: To hold the address of the next instruction",slide text,,,,,,,
+8b84,B1,key concept,Decode stage: The decode stage interprets the instruction.,audio transcript,,,,,,,
+380d,B1,flashcard,"FRONT: What is the first stage of the instruction cycle?
+BACK: Fetch",text notes,,,,,,,
+2613,B2,key concept,ATP synthase:  [audio transcript],audio transcript,,,,,,,
+6ba7,B2,flashcard,"FRONT: What is the role of chlorophyll in photosynthesis?
+BACK:  [audio transcript]",audio transcript,,,,,,,
+cfc7,B2,flashcard,"FRONT: What is the role of the Calvin cycle in relation to the light-dependent reactions?
+BACK: To use the ATP and NADPH produced in the light-dependent reactions to fix CO2 into organic compounds.",slide text,,,,,,,
+9f52,B2,flashcard,"FRONT: What is the role of ATP and NADPH in photosynthesis?
+BACK: To produce energy for the Calvin cycle.",audio transcript,,,,,,,
+5150,B2,flashcard,"FRONT: What is the source of energy for photosynthesis?
+BACK: Light energy.",text notes,,,,,,,
+cac5,B2,key concept,Calvin cycle: The process by which CO2 is fixed into organic compounds using the ATP and NADPH produced in the light-dependent reactions.,slide text,,,,,,,
+cfc1,B2,quiz question,"[multiple_choice] What is the by-product of splitting water in photosynthesis?
+  - A) Oxygen
+  - B) Carbon dioxide
+  - C) Water
+  - D) Glucose
+ANSWER: A) Oxygen
+EXPLANATION:  [audio transcript]",text notes,,,,,,,
+49da,B2,quiz question,"[short_answer] What is the role of ATP and NADPH in photosynthesis?
+ANSWER: ATP and NADPH produce energy for the Calvin cycle.
+EXPLANATION: ATP and NADPH produce energy for the Calvin cycle.",audio transcript,,,,,,,
+3b96,B3,key concept,Producer Price Index: A price index that tracks prices in particular parts of the economy.,audio transcript,,,,,,,
+ad32,B3,quiz question,"[short_answer] What is stagflation?
+ANSWER: Inflation, slow growth, and high unemployment.
+EXPLANATION: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+6f0c,B3,flashcard,"FRONT: Core Inflation
+BACK: A measure of inflation that leaves out food and energy prices.",audio transcript,,,,,,,
+8c81,B3,quiz question,"[short_answer] Short answer: What is core inflation?
+ANSWER: (To be answered by the student)
+EXPLANATION: (To be answered by the student)",audio transcript,,,,,,,
+a15e,B3,flashcard,"FRONT: Deflation
+BACK: A fall in the general price level.",text notes,,,,,,,
+1528,B3,flashcard,"FRONT: Hyperinflation
+BACK: An out-of-control inflationary spiral.",slide text,,,,,,,
+a926,B3,key concept,"Stagflation: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+1677,B3,flashcard,"FRONT: What is inflation?
+BACK: A general rise in the average price of goods and services.",text notes,,,,,,,
+c0bb,B3,key concept,Reflation: An attempt to raise prices to counter deflation.,slide text,,,,,,,
+7539,B3,quiz question,"[multiple_choice] What is reflation?
+  - An attempt to raise prices to counter deflation.
+  - An attempt to lower prices to counter inflation.
+  - An attempt to stabilize prices.
+  - An attempt to reduce inflation.
+ANSWER: An attempt to raise prices to counter deflation.
+EXPLANATION: An attempt to raise prices to counter deflation.",slide text,,,,,,,
+d540,B4,quiz question,"[multiple_choice] What was the name of the textile machinery that sped up weaving?
+  - Flying shuttle
+  - Spinning jenny
+  - Spinning mule
+  - Water frame
+ANSWER: Flying shuttle
+EXPLANATION: The flying shuttle was a textile machinery that sped up weaving.",slide text,,,,,,,
+ca2c,B4,flashcard,"FRONT: Who introduced the first successful piston steam engine?
+BACK: Thomas Newkerman",audio transcript,,,,,,,
+21e6,B4,flashcard,"FRONT: What was the name of the textile machinery invented by James Hargreaves?
+BACK: Spinning jenny",slide text,,,,,,,
+4009,B4,flashcard,"FRONT: What was the first commercially successful use of steam?
+BACK: 1698",audio transcript,,,,,,,
+b9e2,B4,key concept,"Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.: Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.",audio transcript,,,,,,,
+a627,B4,key concept,"Industrial Revolution: The Industrial Revolution was a period of significant economic, social, and technological change that transformed the way goods were produced and societies functioned.",text notes,,,,,,,
+07c6,B5,key concept,"Bond order: A single bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs.",slide text,,,,,,,
+6a60,B5,key concept,Pi bond is a type of covalent bond that involves side-on overlap of p orbitals: Pi bond is a type of covalent bond that involves side-on overlap of p orbitals.,slide text,,,,,,,
+f0b3,B5,key concept,Covalent bonds: Atoms share pairs of electrons to reach a full outer shell.,text notes,,,,,,,
+e39e,B5,key concept,Single bond is a type of covalent bond that involves one sigma bond: Single bond is a type of covalent bond that involves one sigma bond.,slide text,,,,,,,
+3092,B5,flashcard,"FRONT: What is the bond order of a triple bond?
+BACK: Three pairs of electrons.",slide text,,,,,,,
+2381,B5,flashcard,"FRONT: What is the bond order of a double bond?
+BACK: Two pairs of electrons.",slide text,,,,,,,
+1e42,B6,flashcard,"FRONT: What is the capacity of working memory?
+BACK: Estimated to be between 4 to 7 chunks",slide text,,,,,,,
+de86,B6,key concept,Capacity declines in older age: Capacity of working memory,slide text,,,,,,,
+2e1c,B6,key concept,"Components of working memory: Central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",audio transcript,,,,,,,
+627e,B6,quiz question,"[multiple_choice] How is working memory measured?
+  - With complex span tasks
+  - With reading comprehension tasks
+  - With visuospatial tasks
+  - With episodic tasks
+ANSWER: With complex span tasks
+EXPLANATION: Working memory is measured with complex span tasks.",slide text,,,,,,,
+bb82,B6,quiz question,"[short_answer] What is the central executive in working memory?
+ANSWER: The central executive
+EXPLANATION: The central executive directs attention and coordinates the other components of working memory.",audio transcript,,,,,,,
+6ac3,B6,key concept,Measurement of working memory: Measured with complex span tasks.,slide text,,,,,,,
+b639,B7,quiz question,"[short_answer] Describe the third law of motion.
+ANSWER: when two bodies exert forces on each other, the forces are equal in size and opposite in direction
+EXPLANATION: when two bodies exert forces on each other, the forces are equal in size and opposite in direction",text notes,,,,,,,
+4edd,B7,flashcard,"FRONT: What is weight?
+BACK: The force exerted on an object by gravity.",text notes,,,,,,,
+2bb4,B7,flashcard,"FRONT: What is acceleration?
+BACK: The rate of change of an object's velocity.",text notes,,,,,,,
+01a4,B7,flashcard,"FRONT: What is the second law of motion?
+BACK: The net force on a body equals its mass multiplied by its acceleration.",text notes,,,,,,,
+64e2,B7,key concept,The force acting on an object: the term for the force acting on an object,text notes,,,,,,,
+2517,B7,quiz question,"[short_answer] Explain the relationship between net force and mass.
+ANSWER: the net force on a body equals its mass multiplied by its acceleration
+EXPLANATION: the net force on a body equals its mass multiplied by its acceleration",text notes,,,,,,,
+0053,B7,flashcard,"FRONT: What is the relationship between net force and mass?
+BACK: the net force on a body equals its mass multiplied by its acceleration",audio transcript,,,,,,,
+8e9f,B7,key concept,Mass: a measure of an object's resistance to changes in motion: a measure of an object's resistance to changes in motion,audio transcript,,,,,,,
+a9a5,B7,key concept,Force and acceleration: the relationship between force and acceleration,slide text,,,,,,,
+2316,B7,quiz question,"[multiple_choice] What is the second law of motion?
+  - The net force on a body equals its mass multiplied by its acceleration.
+  - The net force on a body equals its mass multiplied by its velocity.
+  - The net force on a body equals its mass multiplied by its momentum.
+ANSWER: The net force on a body equals its mass multiplied by its acceleration.
+EXPLANATION: The second law states that the net force on a body equals its mass multiplied by its acceleration.",text notes,,,,,,,
+da3f,B7,quiz question,"[multiple_choice] What is the unit of force?
+  - The newton (N) = 1 kg m/s2
+  - The newton (N) = 1 kg m/s
+  - The newton (N) = 1 kg m
+  - The newton (N) = 1 kg
+ANSWER: The newton (N) = 1 kg m/s2
+EXPLANATION: The unit of force is the newton (N) = 1 kg m/s2.",slide text,,,,,,,
+fa28,B7,flashcard,"FRONT: What is force?
+BACK: A push or pull that can cause an object to change its motion.",text notes,,,,,,,
+64d8,B7,key concept,Acceleration: the rate of change of an object's motion: the rate of change of an object's motion,text notes,,,,,,,
+8105,B8,quiz question,"[multiple_choice] What is the purpose of a hash function?
+  - A) To store data in a table
+  - B) To map keys to values
+  - C) To sort data in ascending order
+  - D) To calculate the average lookup time
+ANSWER: B) To map keys to values
+EXPLANATION: B) To map keys to values",slide text,,,,,,,
+8617,B8,flashcard,"FRONT: What is a hash table?
+BACK: A data structure that maps keys to values",text notes,,,,,,,
+8a4b,B8,key concept,Separate chaining and open addressing are strategies to handle collisions.: Separate chaining and open addressing are common strategies to handle collisions.,audio transcript,,,,,,,
+5305,B8,quiz question,"[multiple_choice] What is open addressing?
+  - Another strategy for handling collisions
+  - A data structure that maps keys to values
+  - A function that turns a key into an index into an array of buckets
+  - A strategy for handling collisions
+ANSWER: Another strategy for handling collisions
+EXPLANATION: Another strategy for handling collisions",audio transcript,,,,,,,
+827d,B8,key concept,Deterministic hash functions always give the same index for a given key.: Deterministic hash functions always give the same index for a given key.,slide text,,,,,,,
+9372,B8,quiz question,"[short_answer] What is a collision in a hash table?
+ANSWER: When two different keys end up with the same index.
+EXPLANATION: When two different keys end up with the same index.",audio transcript,,,,,,,
+6e22,B8,key concept,Open addressing: Another strategy for handling collisions,audio transcript,,,,,,,
+7bbd,B8,key concept,Hash table: A data structure that maps keys to values,text notes,,,,,,,

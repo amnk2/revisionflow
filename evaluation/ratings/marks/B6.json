@@ -1,0 +1,42 @@
+{
+ "items": {
+  "1e42": ["P", "", "", "", "", "useful", "'4 to 7 chunks' merges Miller's 7±2 and Cowan's 4 into a claim neither makes"],
+  "6a61": ["S", "", "", "", "", "useful", ""],
+  "1b34": ["P", "", "", "", "", "", "'maximum of 4-7 chunks' is invented"],
+  "fbb7": ["P", 2, 0, 2, "multiple-correct", "", "keyed answer '4-7 chunks' is invented; 'about four chunks' and 'only a few items' are supported"],
+  "0ef6": ["S", "", "", "", "", "", ""],
+  "2e1c": ["S", "", "", "", "", "", "model corrected the ASR garble 'Bessua Spatial' to 'visuospatial'"],
+  "4496": ["S", "", "", "", "", "useful", ""],
+  "f95a": ["S", "", "", "", "", "", ""],
+  "9261": ["S", 2, 2, 2, "", "", ""],
+  "8c9e": ["S", "", "", "", "", "useful", ""],
+  "aecc": ["S", "", "", "", "", "useful", ""],
+  "199f": ["S", 2, 2, 1, "", "", ""],
+  "9df7": ["S", "", "", "", "", "useful", ""],
+  "5f36": ["S", "", "", "", "", "", "badly formed: the explanation just repeats the label"],
+  "3ed8": ["S", 2, 2, 1, "", "", ""],
+  "d267": ["S", "", "", "", "", "useful", ""],
+  "9593": ["S", 2, 1, 1, "multiple-correct", "", "'Working memory model' is also a common name for it; asr-error 'Badly' for Baddeley"],
+  "958d": ["S", "", "", "", "", "useful", ""],
+  "627e": ["S", 2, 2, 1, "", "", ""],
+  "3298": ["S", "", "", "", "", "useful", ""],
+  "bb82": ["S", 2, 0, 2, "tautology", "", "answer only restates the question"],
+  "149c": ["P", "", "", "", "", "useful", "'4-7 chunks' is invented"],
+  "a833": ["S", 2, 2, 2, "", "", ""],
+  "1ff2": ["S", "", "", "", "", "useful", ""],
+  "de86": ["S", "", "", "", "", "", "badly formed"],
+  "6ac3": ["S", "", "", "", "", "", ""],
+  "dfb9": ["S", "", "", "", "", "", ""],
+  "4cc2": ["S", "", "", "", "", "", ""],
+  "2157": ["S", "", "", "", "", "", ""],
+  "421f": ["E", 2, 0, 1, "", "", "answer is '(Student answer)'"],
+  "5d14": ["P", "", "", "", "", "", "'4 to 7 chunks' is invented"],
+  "6886": ["E", 2, 0, 2, "", "", "answer is '(Student answer)'"],
+  "2b99": ["S", "", "", "", "", "", ""],
+  "2cc8": ["S", "", "", "", "", "useful", ""]
+ },
+ "summaries": {
+  "4cdf": [1, 0, 0, 0, 0],
+  "ea54": [1, 0.5, 0.5, 0.5, 0]
+ }
+}

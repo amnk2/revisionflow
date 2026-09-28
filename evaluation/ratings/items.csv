@@ -1,0 +1,755 @@
+id,bundle,kind,item,claimed_source,faithfulness,answerable,correct,key_point,flaws,card_flag,comment
+7d38,B1,flashcard,"FRONT: What is the memory address register used for?
+BACK: To hold the address being read or written",slide text,,,,,,,
+bea1,B1,quiz question,"[multiple_choice] What is the purpose of the instruction pipeline?
+  - To overlap the stages of the instruction cycle
+  - To interpret the instruction
+  - To carry out the operation
+  - To send signals on the control bus
+ANSWER: To overlap the stages of the instruction cycle
+EXPLANATION: To overlap the stages of the instruction cycle",text notes,,,,,,,
+377c,B1,flashcard,"FRONT: What is the control unit used for?
+BACK: To send signals on the control bus",audio transcript,,,,,,,
+6dfe,B1,quiz question,"[multiple_choice] What is the purpose of the execute stage?
+  - To store the address of the instruction to be fetched
+  - To interpret the instruction
+  - To carry out the operation
+  - To send signals on the control bus
+ANSWER: To carry out the operation
+EXPLANATION: The arithmetic logic unit carries out the operation in the execute stage.",audio transcript,,,,,,,
+ff46,B1,key concept,Registers: Registers are used to store data during the instruction cycle.,slide text,,,,,,,
+8b84,B1,key concept,Decode stage: The decode stage interprets the instruction.,audio transcript,,,,,,,
+380d,B1,flashcard,"FRONT: What is the first stage of the instruction cycle?
+BACK: Fetch",text notes,,,,,,,
+a525,B1,flashcard,"FRONT: What is the execute stage used for?
+BACK: To carry out the operation",audio transcript,,,,,,,
+ed8f,B1,key concept,Program counter: To hold the address of the next instruction.,slide text,,,,,,,
+ae0a,B1,flashcard,"FRONT: What is the program counter used for?
+BACK: To hold the address of the next instruction",slide text,,,,,,,
+33b6,B1,flashcard,"FRONT: What is the current instruction register used for?
+BACK: To hold the instruction being decoded",slide text,,,,,,,
+904b,B1,quiz question,"[short_answer] What is the memory data register used for?
+ANSWER: To hold the data read from or written to memory
+EXPLANATION: To hold the data read from or written to memory",slide text,,,,,,,
+e4a8,B1,quiz question,"[short_answer] What is the memory address register used for?
+ANSWER: To store the address being read or written
+EXPLANATION: To store the address being read or written",slide text,,,,,,,
+45f3,B1,quiz question,"[multiple_choice] What is the purpose of the execute stage?
+  - To interpret the instruction
+  - To carry out the operation
+  - To read from memory
+  - To hold the address of the next instruction
+ANSWER: To carry out the operation
+EXPLANATION: To carry out the operation",audio transcript,,,,,,,
+04ef,B1,quiz question,"[short_answer] What is the memory address register used for?
+ANSWER: To hold the address being read or written
+EXPLANATION: To hold the address being read or written",slide text,,,,,,,
+b6ff,B1,flashcard,"FRONT: What is the program counter used for?
+BACK: To store the address of the instruction to be fetched",audio transcript,,,,,,,
+59a4,B1,key concept,Memory address register: To hold the address being read or written.,slide text,,,,,,,
+1a32,B1,flashcard,"FRONT: What is the purpose of the program counter?
+BACK: To hold the address of the next instruction",slide text,,,,,,,
+3c4c,B1,quiz question,"[multiple_choice] What is the purpose of the program counter?
+  - To carry out the operation
+  - To hold the address of the next instruction
+  - To interpret the instruction
+  - To read from memory
+ANSWER: To hold the address of the next instruction
+EXPLANATION: To hold the address of the next instruction",slide text,,,,,,,
+7d78,B1,quiz question,"[multiple_choice] What is the first stage of the instruction cycle?
+  - Decode stage
+  - Fetch stage
+  - Execute stage
+  - Program counter
+ANSWER: Fetch stage
+EXPLANATION: The CPU repeats the instruction cycle to process instructions.",text notes,,,,,,,
+c2a7,B1,flashcard,"FRONT: What is the instruction pipeline used for?
+BACK: To overlap the stages of the instruction cycle",text notes,,,,,,,
+6045,B1,flashcard,"FRONT: What is the memory address register used for?
+BACK: To store the address being read or written",slide text,,,,,,,
+8dd8,B1,flashcard,"FRONT: What is the current instruction register used for?
+BACK: To store the instruction being decoded",slide text,,,,,,,
+fbfb,B1,flashcard,"FRONT: What is the memory data register used for?
+BACK: To hold the data read from or written to memory",slide text,,,,,,,
+5529,B1,quiz question,"[short_answer] What is the first stage of the instruction cycle?
+ANSWER: Fetch
+EXPLANATION: Fetch",text notes,,,,,,,
+305b,B1,key concept,Fetch Stage: The program counter contains the address of the instruction to be fetched.,audio transcript,,,,,,,
+a0ea,B1,quiz question,"[multiple_choice] What is the purpose of the current instruction register?
+  - To hold the instruction being decoded
+  - To carry out the operation
+  - To interpret the instruction
+  - To read from memory
+ANSWER: To hold the instruction being decoded
+EXPLANATION: To hold the instruction being decoded",slide text,,,,,,,
+00d2,B1,key concept,Decode Stage: The control unit interprets the instruction in the decode stage.,audio transcript,,,,,,,
+e579,B1,key concept,"Instruction cycle: The instruction cycle consists of three stages: fetch, decode, and execute.",text notes,,,,,,,
+4596,B1,flashcard,"FRONT: What is the execute stage used for?
+BACK: To carry out the operation",audio transcript,,,,,,,
+4143,B1,flashcard,"FRONT: What is the first stage of the instruction cycle?
+BACK: Fetch stage",text notes,,,,,,,
+52f0,B1,key concept,Current instruction register: To hold the instruction being decoded.,slide text,,,,,,,
+4b68,B1,key concept,Fetch stage: The fetch stage involves reading the instruction from memory.,audio transcript,,,,,,,
+946b,B1,quiz question,"[short_answer] What is the purpose of the decode stage?
+ANSWER: To interpret the instruction
+EXPLANATION: The control unit interprets the instruction in the decode stage.",audio transcript,,,,,,,
+a195,B1,key concept,Instruction Cycle: The CPU repeats the instruction cycle to process instructions.,text notes,,,,,,,
+7d28,B1,key concept,Memory data register: To hold the data read from or written to memory.,slide text,,,,,,,
+fd55,B1,flashcard,"FRONT: What is the decode stage used for?
+BACK: To interpret the instruction",audio transcript,,,,,,,
+b218,B1,key concept,Execute stage: The execute stage carries out the operation.,audio transcript,,,,,,,
+f7b2,B1,flashcard,"FRONT: What is the purpose of the decode stage?
+BACK: To interpret the instruction",audio transcript,,,,,,,
+c6e3,B1,key concept,Execute Stage: The arithmetic logic unit carries out the operation in the execute stage.,audio transcript,,,,,,,
+cfc7,B2,flashcard,"FRONT: What is the role of the Calvin cycle in relation to the light-dependent reactions?
+BACK: To use the ATP and NADPH produced in the light-dependent reactions to fix CO2 into organic compounds.",slide text,,,,,,,
+13fe,B2,flashcard,"FRONT: What is the role of RuBisCO in the Calvin cycle?
+BACK:  To capture CO2 from the atmosphere",slide text,,,,,,,
+2613,B2,key concept,ATP synthase:  [audio transcript],audio transcript,,,,,,,
+6223,B2,flashcard,"FRONT: What is the purpose of the Calvin cycle?
+BACK: To fix CO2 into organic compounds using the ATP and NADPH produced in the light-dependent reactions.",slide text,,,,,,,
+41cd,B2,key concept,Light-dependent reactions:  [audio transcript],audio transcript,,,,,,,
+9f52,B2,flashcard,"FRONT: What is the role of ATP and NADPH in photosynthesis?
+BACK: To produce energy for the Calvin cycle.",audio transcript,,,,,,,
+4831,B2,flashcard,"FRONT: What is the by-product of splitting water in photosynthesis?
+BACK: Oxygen",text notes,,,,,,,
+c33a,B2,quiz question,"[multiple_choice] What is the purpose of the Calvin cycle?
+  - A) To produce ATP
+  - B) To produce NADPH
+  - C) To produce glucose
+  - D) To produce oxygen
+ANSWER: C) To produce glucose
+EXPLANATION:  [slide text]",slide text,,,,,,,
+9317,B2,quiz question,"[multiple_choice] What is the source of energy for photosynthesis?
+  - Light energy
+  - Water energy
+  - Carbon dioxide energy
+  - Glucose energy
+ANSWER: Light energy
+EXPLANATION: The correct answer is Light energy.",text notes,,,,,,,
+4862,B2,key concept,RuBisCO:  [slide text],slide text,,,,,,,
+49da,B2,quiz question,"[short_answer] What is the role of ATP and NADPH in photosynthesis?
+ANSWER: ATP and NADPH produce energy for the Calvin cycle.
+EXPLANATION: ATP and NADPH produce energy for the Calvin cycle.",audio transcript,,,,,,,
+ebdd,B2,quiz question,"[short_answer] Explain the function of ATP synthase.
+ANSWER: [audio transcript]
+EXPLANATION:  [audio transcript]",audio transcript,,,,,,,
+5fbe,B2,flashcard,"FRONT: What is the function of ATP synthase?
+BACK:  [audio transcript]",audio transcript,,,,,,,
+a4f1,B2,quiz question,"[short_answer] What is the role of chlorophyll in photosynthesis?
+ANSWER: Chlorophyll absorbs light energy and produces ATP and NADPH.
+EXPLANATION: Chlorophyll absorbs light energy and produces ATP and NADPH.",audio transcript,,,,,,,
+7c34,B2,flashcard,"FRONT: What is the result of the Calvin cycle?
+BACK: Organic compounds such as glucose, sucrose, and starch.",slide text,,,,,,,
+cac5,B2,key concept,Calvin cycle: The process by which CO2 is fixed into organic compounds using the ATP and NADPH produced in the light-dependent reactions.,slide text,,,,,,,
+3492,B2,quiz question,"[multiple_choice] What is the purpose of the Calvin cycle?
+  - To produce ATP and NADPH
+  - To fix CO2 into organic compounds
+  - To produce glucose
+  - To produce oxygen
+ANSWER: To fix CO2 into organic compounds
+EXPLANATION: The correct answer is To fix CO2 into organic compounds.",slide text,,,,,,,
+918a,B2,quiz question,"[multiple_choice] What is the role of RuBisCO in the Calvin cycle?
+  - A) To capture CO2 from the atmosphere
+  - B) To reduce NADPH to NADP
+  - C) To produce glyceraldehyde 3-phosphate
+  - D) To regenerate RUBP
+ANSWER: A) To capture CO2 from the atmosphere
+EXPLANATION:  [slide text]",slide text,,,,,,,
+6ba7,B2,flashcard,"FRONT: What is the role of chlorophyll in photosynthesis?
+BACK:  [audio transcript]",audio transcript,,,,,,,
+1d28,B2,key concept,Light-dependent reactions: The process by which light energy is absorbed by chlorophyll and used to produce ATP and NADPH.,audio transcript,,,,,,,
+da50,B2,quiz question,"[multiple_choice] What is the by-product of photosynthesis?
+  - Carbon dioxide
+  - Oxygen
+  - Water
+  - Glucose
+ANSWER: Oxygen
+EXPLANATION: The correct answer is Oxygen.",text notes,,,,,,,
+68af,B2,key concept,Photosynthesis:  [text notes],text notes,,,,,,,
+6cf0,B2,quiz question,"[short_answer] What is the result of the Calvin cycle?
+ANSWER: Organic compounds such as glucose, sucrose, and starch.
+EXPLANATION: The Calvin cycle produces organic compounds such as glucose, sucrose, and starch.",slide text,,,,,,,
+cfc1,B2,quiz question,"[multiple_choice] What is the by-product of splitting water in photosynthesis?
+  - A) Oxygen
+  - B) Carbon dioxide
+  - C) Water
+  - D) Glucose
+ANSWER: A) Oxygen
+EXPLANATION:  [audio transcript]",text notes,,,,,,,
+a5f0,B2,key concept,Chlorophyll:  [audio transcript],audio transcript,,,,,,,
+fe50,B2,flashcard,"FRONT: What is the purpose of the light-dependent reactions?
+BACK: To produce ATP and NADPH.",text notes,,,,,,,
+52e6,B2,flashcard,"FRONT: What is the role of chlorophyll in photosynthesis?
+BACK: To absorb light energy and produce ATP and NADPH.",audio transcript,,,,,,,
+4f6d,B2,quiz question,"[short_answer] Describe the role of chlorophyll in photosynthesis.
+ANSWER: [audio transcript]
+EXPLANATION:  [audio transcript]",audio transcript,,,,,,,
+b494,B2,flashcard,"FRONT: What is the by-product of photosynthesis?
+BACK: Oxygen",text notes,,,,,,,
+5150,B2,flashcard,"FRONT: What is the source of energy for photosynthesis?
+BACK: Light energy.",text notes,,,,,,,
+3a97,B2,key concept,Calvin cycle (light-independent reactions):  [slide text],slide text,,,,,,,
+2966,B2,key concept,"Photosynthesis: The process by which plants, algae, and cyanobacteria convert light energy into chemical energy.",text notes,,,,,,,
+79bf,B2,flashcard,"FRONT: What is the purpose of the Calvin cycle?
+BACK:  To produce glucose",slide text,,,,,,,
+2a05,B3,key concept,Inflation: A general rise in the average price of goods and services.,text notes,,,,,,,
+2987,B3,key concept,Core Inflation: A measure of inflation that leaves out food and energy prices.,audio transcript,,,,,,,
+3b96,B3,key concept,Producer Price Index: A price index that tracks prices in particular parts of the economy.,audio transcript,,,,,,,
+ae7a,B3,quiz question,"[short_answer] Short answer: What is the main purpose of the Consumer Price Index (CPI)?
+ANSWER: (To be answered by the student)
+EXPLANATION: (To be answered by the student)",text notes,,,,,,,
+c424,B3,flashcard,"FRONT: Inflation
+BACK: A general rise in the average price of goods and services.",text notes,,,,,,,
+6f0c,B3,flashcard,"FRONT: Core Inflation
+BACK: A measure of inflation that leaves out food and energy prices.",audio transcript,,,,,,,
+32e8,B3,flashcard,"FRONT: What is stagflation?
+BACK: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+b93b,B3,key concept,Core inflation: A measure of inflation that excludes food and energy prices.,audio transcript,,,,,,,
+a15e,B3,flashcard,"FRONT: Deflation
+BACK: A fall in the general price level.",text notes,,,,,,,
+056b,B3,quiz question,"[short_answer] What is the Consumer Price Index (CPI)?
+ANSWER: A broad price index that represents the overall price level in the economy.
+EXPLANATION: A broad price index that represents the overall price level in the economy.",audio transcript,,,,,,,
+ad32,B3,quiz question,"[short_answer] What is stagflation?
+ANSWER: Inflation, slow growth, and high unemployment.
+EXPLANATION: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+1528,B3,flashcard,"FRONT: Hyperinflation
+BACK: An out-of-control inflationary spiral.",slide text,,,,,,,
+d070,B3,quiz question,"[multiple_choice] What is stagflation?
+  - Inflation, slow growth, and high unemployment
+  - Deflation, slow growth, and high unemployment
+  - Hyperinflation, slow growth, and high unemployment
+  - Reflation, slow growth, and high unemployment
+ANSWER: Inflation, slow growth, and high unemployment
+EXPLANATION: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+a8f9,B3,quiz question,"[multiple_choice] What is the Producer Price Index?
+  - A price index that tracks prices in particular parts of the economy
+  - A price index that measures inflation
+  - A price index that excludes food and energy prices
+  - A price index that tracks prices in the short term
+ANSWER: A price index that tracks prices in particular parts of the economy
+EXPLANATION: A price index that tracks prices in particular parts of the economy.",audio transcript,,,,,,,
+c83d,B3,flashcard,"FRONT: Disinflation
+BACK: A decrease in the rate of inflation.",slide text,,,,,,,
+653c,B3,quiz question,"[multiple_choice] What is core inflation?
+  - A measure of inflation that includes food and energy prices.
+  - A measure of inflation that leaves out food and energy prices.
+  - A measure of inflation that is only relevant to the economy.
+  - A measure of inflation that is only relevant to the consumer.
+ANSWER: A measure of inflation that leaves out food and energy prices.
+EXPLANATION: A measure of inflation that leaves out food and energy prices.",audio transcript,,,,,,,
+b0fc,B3,key concept,Consumer Price Index (CPI): A price index used to measure inflation.,text notes,,,,,,,
+9a4b,B3,key concept,Deflation: A fall in the general price level.,text notes,,,,,,,
+7d20,B3,key concept,Inflation: A general rise in the average price of goods and services.,text notes,,,,,,,
+8c81,B3,quiz question,"[short_answer] Short answer: What is core inflation?
+ANSWER: (To be answered by the student)
+EXPLANATION: (To be answered by the student)",audio transcript,,,,,,,
+68b9,B3,flashcard,"FRONT: Reflation
+BACK: An attempt to raise prices to counter deflation.",slide text,,,,,,,
+a926,B3,key concept,"Stagflation: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+381c,B3,flashcard,"FRONT: What is the Producer Price Index?
+BACK: A price index that tracks prices in particular parts of the economy.",audio transcript,,,,,,,
+ea6e,B3,flashcard,"FRONT: What is core inflation?
+BACK: A measure of inflation that excludes food and energy prices.",audio transcript,,,,,,,
+ceb6,B3,flashcard,"FRONT: What is hyperinflation?
+BACK: An out-of-control inflationary spiral.",slide text,,,,,,,
+5961,B3,key concept,Consumer Price Index (CPI): A broad price index that represents the overall price level in the economy.,audio transcript,,,,,,,
+3a16,B3,flashcard,"FRONT: What is the opposite of inflation?
+BACK: Deflation.",text notes,,,,,,,
+bfb1,B3,key concept,"Stagflation: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+cc0b,B3,key concept,Hyperinflation: An out-of-control inflationary spiral.,slide text,,,,,,,
+37b9,B3,quiz question,"[multiple_choice] What is the opposite of inflation?
+  - Deflation
+  - Hyperinflation
+  - Stagflation
+  - Reflation
+ANSWER: Deflation
+EXPLANATION: Deflation.",text notes,,,,,,,
+1677,B3,flashcard,"FRONT: What is inflation?
+BACK: A general rise in the average price of goods and services.",text notes,,,,,,,
+9464,B3,key concept,Disinflation: A decrease in the rate of inflation.,slide text,,,,,,,
+b259,B3,quiz question,"[short_answer] What is disinflation?
+ANSWER: A decrease in the rate of inflation.
+EXPLANATION: A decrease in the rate of inflation.",slide text,,,,,,,
+7539,B3,quiz question,"[multiple_choice] What is reflation?
+  - An attempt to raise prices to counter deflation.
+  - An attempt to lower prices to counter inflation.
+  - An attempt to stabilize prices.
+  - An attempt to reduce inflation.
+ANSWER: An attempt to raise prices to counter deflation.
+EXPLANATION: An attempt to raise prices to counter deflation.",slide text,,,,,,,
+c1a5,B3,flashcard,"FRONT: Consumer Price Index (CPI)
+BACK: A broad price index that represents the overall price level in the economy.",audio transcript,,,,,,,
+64e0,B3,flashcard,"FRONT: What is the CPI?
+BACK: A price index used to measure inflation.",text notes,,,,,,,
+cded,B3,key concept,Hyperinflation: An out-of-control inflationary spiral.,slide text,,,,,,,
+1a27,B3,flashcard,"FRONT: Stagflation
+BACK: Inflation, slow growth, and high unemployment.",slide text,,,,,,,
+d798,B3,key concept,Deflation: A fall in the general price level.,text notes,,,,,,,
+c0bb,B3,key concept,Reflation: An attempt to raise prices to counter deflation.,slide text,,,,,,,
+2e0d,B3,quiz question,"[multiple_choice] What is inflation?
+  - A general fall in the average price of goods and services.
+  - A general rise in the average price of goods and services.
+  - A decrease in the rate of inflation.
+  - A fall in the general price level.
+ANSWER: A general rise in the average price of goods and services.
+EXPLANATION: A general rise in the average price of goods and services.",text notes,,,,,,,
+f98b,B3,quiz question,"[short_answer] Short answer: What is hyperinflation?
+ANSWER: (To be answered by the student)
+EXPLANATION: (To be answered by the student)",slide text,,,,,,,
+9e28,B4,quiz question,"[multiple_choice] Who improved the efficiency of steam engines?
+  - Thomas Savory
+  - James Watt
+  - Matthew Bolton
+  - Richard Arkwright
+ANSWER: James Watt
+EXPLANATION: James Watt",audio transcript,,,,,,,
+e9ff,B4,quiz question,"[multiple_choice] What was the name of the engine invented by Thomas Newkerman?
+  - Piston steam engine
+  - Flying shuttle
+  - Water frame
+  - Spinning mule
+ANSWER: Piston steam engine
+EXPLANATION: Piston steam engine",audio transcript,,,,,,,
+d540,B4,quiz question,"[multiple_choice] What was the name of the textile machinery that sped up weaving?
+  - Flying shuttle
+  - Spinning jenny
+  - Spinning mule
+  - Water frame
+ANSWER: Flying shuttle
+EXPLANATION: The flying shuttle was a textile machinery that sped up weaving.",slide text,,,,,,,
+3cd7,B4,key concept,"The first textile machinery was the flying shuttle, invented by John Kay in 1733.: The first textile machinery was the flying shuttle, invented by John Kay in 1733.",slide text,,,,,,,
+bb68,B4,quiz question,"[multiple_choice] What was the name of the textile machinery that was invented in 1779?
+  - Spinning jenny
+  - Spinning mule
+  - Water frame
+  - Flying shuttle
+ANSWER: Spinning mule
+EXPLANATION: The spinning mule was a textile machinery that was invented in 1779.",slide text,,,,,,,
+b9ec,B4,quiz question,"[short_answer] What was the major source of industrial power in the early years of the Industrial Revolution?
+ANSWER: Steam power
+EXPLANATION: Steam power was the major source of industrial power in the early years of the Industrial Revolution.",audio transcript,,,,,,,
+6528,B4,key concept,"Key Dates: Key dates in the Industrial Revolution include 1698 (first commercially successful use of steam), 1712 (introduction of the piston steam engine), and 1760 (beginning of the Industrial Revolution in Great Britain).",audio transcript,,,,,,,
+723a,B4,flashcard,"FRONT: When did the Industrial Revolution begin?
+BACK: 1760",text notes,,,,,,,
+fa46,B4,quiz question,"[short_answer] Who introduced the first successful piston steam engine?
+ANSWER: Thomas Newkerman
+EXPLANATION: Thomas Newkerman introduced the first successful piston steam engine before 1712.",audio transcript,,,,,,,
+57be,B4,key concept,"Textile Machinery: Textile machinery, such as the flying shuttle, spinning jenny, and spinning mule, played a crucial role in the development of the Industrial Revolution.",slide text,,,,,,,
+0ee5,B4,flashcard,"FRONT: When was the spinning jenny invented?
+BACK: Around 1764",slide text,,,,,,,
+ca2c,B4,flashcard,"FRONT: Who introduced the first successful piston steam engine?
+BACK: Thomas Newkerman",audio transcript,,,,,,,
+b9e2,B4,key concept,"Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.: Steam power was first used in the 1690s, with Thomas Savory's pump in 1698.",audio transcript,,,,,,,
+30f2,B4,key concept,"Steam Power: Steam power became a major source of industrial power in the early years of the Industrial Revolution, with the first commercially successful use of steam dating back to 1698.",audio transcript,,,,,,,
+d3a9,B4,flashcard,"FRONT: Who improved the efficiency of steam engines?
+BACK: James Watt",audio transcript,,,,,,,
+dfa7,B4,flashcard,"FRONT: What was the first commercially successful use of steam power?
+BACK: A pump patented by Thomas Savory in 1698",audio transcript,,,,,,,
+4009,B4,flashcard,"FRONT: What was the first commercially successful use of steam?
+BACK: 1698",audio transcript,,,,,,,
+058e,B4,flashcard,"FRONT: What was the name of the textile machinery that sped up weaving?
+BACK: Flying shuttle",slide text,,,,,,,
+3689,B4,quiz question,"[short_answer] Who invented the spinning jenny?
+ANSWER: James Hargreaves
+EXPLANATION: James Hargreaves invented the spinning jenny around 1764.",slide text,,,,,,,
+fe70,B4,flashcard,"FRONT: Who worked with James Watt to improve steam engines?
+BACK: Matthew Bolton",audio transcript,,,,,,,
+01e2,B4,flashcard,"FRONT: What was the major source of industrial power in the early years of the Industrial Revolution?
+BACK: Steam power",audio transcript,,,,,,,
+6fc2,B4,key concept,The Industrial Revolution began in Great Britain around 1760.: The Industrial Revolution began in Great Britain around 1760.,text notes,,,,,,,
+2e4f,B4,quiz question,"[multiple_choice] What was the first commercially successful use of steam?
+  - 1697
+  - 1698
+  - 1700
+  - 1701
+ANSWER: 1698
+EXPLANATION: The first commercially successful use of steam was in 1698.",audio transcript,,,,,,,
+4cde,B4,flashcard,"FRONT: What was the estimated number of horsepower supplied by steam in Britain by 1800?
+BACK: 10,000",audio transcript,,,,,,,
+21e6,B4,flashcard,"FRONT: What was the name of the textile machinery invented by James Hargreaves?
+BACK: Spinning jenny",slide text,,,,,,,
+cdab,B4,key concept,"The spinning jenny, invented by James Hargreaves around 1764, was another early textile machinery.: The spinning jenny, invented by James Hargreaves around 1764, was another early textile machinery.",slide text,,,,,,,
+6896,B4,quiz question,"[short_answer] What was the first textile industry to use modern production methods?
+ANSWER: Textiles
+EXPLANATION: Textiles",text notes,,,,,,,
+eaf0,B4,flashcard,"FRONT: What was the name of the engine invented by Thomas Newkerman?
+BACK: Piston steam engine",audio transcript,,,,,,,
+a627,B4,key concept,"Industrial Revolution: The Industrial Revolution was a period of significant economic, social, and technological change that transformed the way goods were produced and societies functioned.",text notes,,,,,,,
+a70b,B4,quiz question,"[multiple_choice] Who invented the flying shuttle?
+  - Thomas Savory
+  - John Kay
+  - James Hargreaves
+  - Richard Arkwright
+ANSWER: John Kay
+EXPLANATION: John Kay",slide text,,,,,,,
+fa20,B4,flashcard,"FRONT: Who invented the spinning jenny?
+BACK: James Hargreaves",slide text,,,,,,,
+2687,B4,flashcard,"FRONT: What was the name of the textile machinery that was invented in 1779?
+BACK: Spinning mule",slide text,,,,,,,
+cbc2,B4,key concept,James Watt improved the efficiency of steam engines with a separate condenser.: James Watt improved the efficiency of steam engines with a separate condenser.,audio transcript,,,,,,,
+1993,B4,flashcard,"FRONT: Who invented the flying shuttle?
+BACK: John Kay",slide text,,,,,,,
+65db,B5,flashcard,"FRONT: Who introduced the term covalence?
+BACK: B) Irving Langmuir",text notes,,,,,,,
+63a7,B5,quiz question,"[multiple_choice] Who introduced the term covalence?
+  - A) Irving Langmuir
+  - B) Irving Langmuir
+  - C) John Dalton
+  - D) Robert Boyle
+ANSWER: B) Irving Langmuir
+EXPLANATION: B) Irving Langmuir",text notes,,,,,,,
+4fd2,B5,key concept,Polar-covalent bonds occur when electrons are shared unequally: Polar-covalent bonds occur when electrons are shared unequally.,audio transcript,,,,,,,
+54ee,B5,flashcard,"FRONT: What is the bond order of a single bond?
+BACK: One pair of electrons.",slide text,,,,,,,
+818c,B5,key concept,"Sigma and pi bonds: Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",slide text,,,,,,,
+fb13,B5,quiz question,"[multiple_choice] What is the difference between a covalent bond and an ionic bond?
+  - A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.
+  - B) Covalent bonds involve the transfer of electrons, while ionic bonds involve the sharing of electrons.
+  - C) Covalent bonds involve the sharing of electrons, while ionic bonds involve the sharing of protons.
+  - D) Covalent bonds involve the transfer of electrons, while ionic bonds involve the transfer of protons.
+ANSWER: A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.
+EXPLANATION: A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",audio transcript,,,,,,,
+c814,B5,key concept,"Electrostatic attraction: In an ionic bond, electrons are transferred, and the resulting ions are held together by electrostatic attraction.",audio transcript,,,,,,,
+2721,B5,quiz question,"[short_answer] What is a polar-covalent bond?
+ANSWER: B) A type of covalent bond that involves the sharing of electrons unequally.
+EXPLANATION: B) A type of covalent bond that involves the sharing of electrons unequally.",audio transcript,,,,,,,
+8aa2,B5,flashcard,"FRONT: What is the difference between a single bond and a double bond?
+BACK: B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.",slide text,,,,,,,
+3092,B5,flashcard,"FRONT: What is the bond order of a triple bond?
+BACK: Three pairs of electrons.",slide text,,,,,,,
+2a6b,B5,quiz question,"[multiple_choice] What type of bonding is more common in organic chemistry?
+  - Ionic bonding
+  - Covalent bonding
+  - Polar-covalent bonding
+  - Electrostatic attraction
+ANSWER: Covalent bonding
+EXPLANATION: Covalent bonding is more common in organic chemistry.",text notes,,,,,,,
+48e3,B5,key concept,"Types of covalent bonds include sigma, pi, single, double, and triple bonds: Covalent bonds can be single, double, or triple, and can be polar or non-polar depending on the unequal sharing of electrons.",slide text,,,,,,,
+6a60,B5,key concept,Pi bond is a type of covalent bond that involves side-on overlap of p orbitals: Pi bond is a type of covalent bond that involves side-on overlap of p orbitals.,slide text,,,,,,,
+b590,B5,key concept,Covalent bonds involve the sharing of electron pairs: Covalent bonds are formed when atoms share pairs of electrons to reach a full outer shell.,text notes,,,,,,,
+2381,B5,flashcard,"FRONT: What is the bond order of a double bond?
+BACK: Two pairs of electrons.",slide text,,,,,,,
+3dbc,B5,quiz question,"[multiple_choice] What type of bond is formed when electrons are transferred?
+  - Covalent bond
+  - Ionic bond
+  - Polar-covalent bond
+  - Electrostatic attraction
+ANSWER: Ionic bond
+EXPLANATION: In an ionic bond, electrons are transferred.",audio transcript,,,,,,,
+0975,B5,key concept,The term covalence was introduced by Irving Langmuir: The term covalence was introduced by Irving Langmuir in 1919.,text notes,,,,,,,
+5ec9,B5,flashcard,"FRONT: What is a polar-covalent bond?
+BACK: When the two atoms have different electron affinities, the electrons are shared unequally.",audio transcript,,,,,,,
+dd8c,B5,flashcard,"FRONT: What is an ionic bond?
+BACK: Electrons are transferred, and the resulting ions are held together by electrostatic attraction.",audio transcript,,,,,,,
+e104,B5,key concept,"Covenant bonds: Two atoms share a pair of electrons, and the balance of attraction and repulsion holds the atoms together.",audio transcript,,,,,,,
+e239,B5,quiz question,"[short_answer] What is the difference between a single bond and a double bond?
+ANSWER: B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.
+EXPLANATION: B) A single bond involves one sigma bond, while a double bond involves one sigma bond and one pi bond.",slide text,,,,,,,
+c23b,B5,quiz question,"[short_answer] What happens when the two atoms have different electron affinities in a covalent bond?
+ANSWER: The electrons are shared unequally.
+EXPLANATION: The electrons are shared unequally.",audio transcript,,,,,,,
+4e4f,B5,flashcard,"FRONT: What is a sigma bond?
+BACK: Head-on overlap of orbitals.",slide text,,,,,,,
+ac62,B5,flashcard,"FRONT: What type of bond involves head-on overlap of orbitals?
+BACK: A) Sigma bond",slide text,,,,,,,
+95b7,B5,flashcard,"FRONT: What is a covalent bond?
+BACK: Atoms share pairs of electrons to reach a full outer shell.",text notes,,,,,,,
+5885,B5,key concept,Covalent bonds are more common than ionic bonds in organic chemistry: This is more common than ionic bonding in organic chemistry.,text notes,,,,,,,
+f8ce,B5,flashcard,"FRONT: What is the difference between a covalent bond and an ionic bond?
+BACK: A) Covalent bonds involve the sharing of electrons, while ionic bonds involve the transfer of electrons.",audio transcript,,,,,,,
+8ccf,B5,flashcard,"FRONT: What is a pi bond?
+BACK: Side-on overlap of p orbitals.",slide text,,,,,,,
+f0b3,B5,key concept,Covalent bonds: Atoms share pairs of electrons to reach a full outer shell.,text notes,,,,,,,
+cb3d,B5,quiz question,"[short_answer] What is the difference between a sigma bond and a pi bond?
+ANSWER: Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.
+EXPLANATION: Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",slide text,,,,,,,
+9777,B5,key concept,Sigma bond is a type of covalent bond that involves head-on overlap of orbitals: Sigma bond is a type of covalent bond that involves head-on overlap of orbitals.,slide text,,,,,,,
+2471,B5,key concept,"Polar-covalent bonds: When the two atoms have different electron affinities, the electrons are shared unequally.",audio transcript,,,,,,,
+bc94,B5,quiz question,"[short_answer] What type of bond involves head-on overlap of orbitals?
+ANSWER: A) Sigma bond
+EXPLANATION: A) Sigma bond",slide text,,,,,,,
+6020,B5,flashcard,"FRONT: What is a polar-covalent bond?
+BACK: B) A type of covalent bond that involves the sharing of electrons unequally.",audio transcript,,,,,,,
+9b8e,B5,key concept,"Types of covalent bonds: Sigma bond: head-on overlap of orbitals, Pi bond: side-on overlap of p orbitals.",slide text,,,,,,,
+07c6,B5,key concept,"Bond order: A single bond shares one pair of electrons, a double bond shares two pairs, and a triple bond shares three pairs.",slide text,,,,,,,
+37d7,B5,quiz question,"[multiple_choice] What is the bond order of a single bond?
+  - One pair of electrons
+  - Two pairs of electrons
+  - Three pairs of electrons
+  - Four pairs of electrons
+ANSWER: One pair of electrons
+EXPLANATION: A single bond shares one pair of electrons.",slide text,,,,,,,
+e39e,B5,key concept,Single bond is a type of covalent bond that involves one sigma bond: Single bond is a type of covalent bond that involves one sigma bond.,slide text,,,,,,,
+1e42,B6,flashcard,"FRONT: What is the capacity of working memory?
+BACK: Estimated to be between 4 to 7 chunks",slide text,,,,,,,
+6a61,B6,flashcard,"FRONT: What is working memory?
+BACK: A limited-capacity system that holds information temporarily.",text notes,,,,,,,
+1b34,B6,key concept,"Capacity of working memory: Limited capacity, with a maximum of 4-7 chunks.",slide text,,,,,,,
+fbb7,B6,quiz question,"[multiple_choice] What is the capacity of working memory?
+  - Only a few items can be held at once
+  - The magical number seven, plus or minus two
+  - About four chunks
+  - Limited to 4-7 chunks
+ANSWER: Limited to 4-7 chunks
+EXPLANATION: The capacity of working memory is limited, and it differs between individuals.",slide text,,,,,,,
+0ef6,B6,key concept,Central executive is a key component of working memory: A component that directs attention and coordinates two slave systems,audio transcript,,,,,,,
+2e1c,B6,key concept,"Components of working memory: Central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",audio transcript,,,,,,,
+4496,B6,flashcard,"FRONT: What is the importance of working memory?
+BACK: Linked to reading comprehension and reasoning.",slide text,,,,,,,
+f95a,B6,key concept,Working memory: A limited-capacity system that holds information temporarily.,text notes,,,,,,,
+9261,B6,quiz question,"[multiple_choice] What is the name of the component that stores sound and speech-based information?
+  - A) Central executive
+  - B) Phonological loop
+  - C) Spatial sketchpad
+  - D) Episodic buffer
+ANSWER: B) Phonological loop
+EXPLANATION: B) Phonological loop",audio transcript,,,,,,,
+8c9e,B6,flashcard,"FRONT: How is working memory measured?
+BACK: Measured with complex span tasks.",slide text,,,,,,,
+aecc,B6,flashcard,"FRONT: What develops through childhood?
+BACK: Capacity of working memory",slide text,,,,,,,
+199f,B6,quiz question,"[short_answer] What is the importance of working memory?
+ANSWER: Linked to reading comprehension and reasoning.
+EXPLANATION: Working memory is linked to reading comprehension and reasoning.",slide text,,,,,,,
+9df7,B6,flashcard,"FRONT: How does working memory develop?
+BACK: Capacity develops through childhood and declines in older age.",slide text,,,,,,,
+5f36,B6,key concept,Capacity develops through childhood: Capacity of working memory,slide text,,,,,,,
+3ed8,B6,quiz question,"[short_answer] How does working memory develop?
+ANSWER: Develops through childhood and declines in older age.
+EXPLANATION: The capacity of working memory develops through childhood and declines in older age.",slide text,,,,,,,
+d267,B6,flashcard,"FRONT: What is the central executive in working memory?
+BACK: A component that directs attention and coordinates two slave systems",audio transcript,,,,,,,
+9593,B6,quiz question,"[multiple_choice] What is the name of the model proposed by Badly and Hitch in 1974?
+  - A) Multi-component model
+  - B) Magical number model
+  - C) Working memory model
+  - D) Cognitive psychology model
+ANSWER: A) Multi-component model
+EXPLANATION: A) Multi-component model",audio transcript,,,,,,,
+958d,B6,flashcard,"FRONT: What is working memory?
+BACK: A limited-capacity system that holds information temporarily",text notes,,,,,,,
+627e,B6,quiz question,"[multiple_choice] How is working memory measured?
+  - With complex span tasks
+  - With reading comprehension tasks
+  - With visuospatial tasks
+  - With episodic tasks
+ANSWER: With complex span tasks
+EXPLANATION: Working memory is measured with complex span tasks.",slide text,,,,,,,
+3298,B6,flashcard,"FRONT: What are the components of working memory?
+BACK: Central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",audio transcript,,,,,,,
+bb82,B6,quiz question,"[short_answer] What is the central executive in working memory?
+ANSWER: The central executive
+EXPLANATION: The central executive directs attention and coordinates the other components of working memory.",audio transcript,,,,,,,
+149c,B6,flashcard,"FRONT: What is the capacity of working memory?
+BACK: Limited to 4-7 chunks.",slide text,,,,,,,
+a833,B6,quiz question,"[multiple_choice] What are the components of working memory?
+  - Central executive, phonological loop, visuospatial sketchpad, and episodic buffer
+  - Central executive, phonological loop, and visuospatial sketchpad
+  - Central executive, phonological loop, and episodic buffer
+  - Central executive, visuospatial sketchpad, and episodic buffer
+ANSWER: Central executive, phonological loop, visuospatial sketchpad, and episodic buffer
+EXPLANATION: The components of working memory include the central executive, phonological loop, visuospatial sketchpad, and episodic buffer.",audio transcript,,,,,,,
+1ff2,B6,flashcard,"FRONT: Are there individual differences in working memory?
+BACK: Yes, capacity differs between individuals.",slide text,,,,,,,
+de86,B6,key concept,Capacity declines in older age: Capacity of working memory,slide text,,,,,,,
+6ac3,B6,key concept,Measurement of working memory: Measured with complex span tasks.,slide text,,,,,,,
+dfb9,B6,key concept,Importance of working memory: Linked to reading comprehension and reasoning.,slide text,,,,,,,
+4cc2,B6,key concept,Working memory is a limited-capacity system: A limited-capacity system that holds information temporarily,text notes,,,,,,,
+2157,B6,key concept,Individual differences in working memory: Capacity differs between individuals.,slide text,,,,,,,
+421f,B6,quiz question,"[short_answer] What develops through childhood?
+ANSWER: (Student answer)
+EXPLANATION: (Student answer)",slide text,,,,,,,
+5d14,B6,key concept,"Capacity is limited, with estimates ranging from 4 to 7 chunks: Estimated to be between 4 to 7 chunks",slide text,,,,,,,
+6886,B6,quiz question,"[short_answer] What is the central executive in working memory?
+ANSWER: (Student answer)
+EXPLANATION: (Student answer)",audio transcript,,,,,,,
+2b99,B6,key concept,Development of working memory: Capacity develops through childhood and declines in older age.,slide text,,,,,,,
+2cc8,B6,flashcard,"FRONT: What declines in older age?
+BACK: Capacity of working memory",slide text,,,,,,,
+b3dc,B7,flashcard,"FRONT: What is the term for the tendency to resist changes in motion?
+BACK: Inertia: the tendency to resist changes in motion",text notes,,,,,,,
+da3f,B7,quiz question,"[multiple_choice] What is the unit of force?
+  - The newton (N) = 1 kg m/s2
+  - The newton (N) = 1 kg m/s
+  - The newton (N) = 1 kg m
+  - The newton (N) = 1 kg
+ANSWER: The newton (N) = 1 kg m/s2
+EXPLANATION: The unit of force is the newton (N) = 1 kg m/s2.",slide text,,,,,,,
+fb42,B7,key concept,Acceleration: The rate of change of an object's velocity.,text notes,,,,,,,
+a9a5,B7,key concept,Force and acceleration: the relationship between force and acceleration,slide text,,,,,,,
+e0e2,B7,flashcard,"FRONT: What is the relationship between weight and mass?
+BACK: the relationship between weight and mass",slide text,,,,,,,
+7ef3,B7,quiz question,"[multiple_choice] What is the unit of force?
+  - Newton (N)
+  - Kilogram (kg)
+  - Meter (m)
+  - Second (s)
+ANSWER: Newton (N)
+EXPLANATION: the unit of force",text notes,,,,,,,
+aac6,B7,key concept,Inertia: the tendency to resist changes in motion: the tendency to resist changes in motion,text notes,,,,,,,
+88e8,B7,flashcard,"FRONT: What is the relationship between force and acceleration?
+BACK: F = ma",slide text,,,,,,,
+2517,B7,quiz question,"[short_answer] Explain the relationship between net force and mass.
+ANSWER: the net force on a body equals its mass multiplied by its acceleration
+EXPLANATION: the net force on a body equals its mass multiplied by its acceleration",text notes,,,,,,,
+0df1,B7,quiz question,"[short_answer] What is inertia?
+ANSWER: The tendency of a body to resist changes in motion.
+EXPLANATION: The tendency of a body to resist changes in motion.",text notes,,,,,,,
+0f82,B7,quiz question,"[multiple_choice] What is the relationship between force and acceleration?
+  - F = a
+  - F = ma
+  - F = m
+  - F = a^2
+ANSWER: F = ma
+EXPLANATION: the relationship between force and acceleration",text notes,,,,,,,
+d01f,B7,key concept,Second law of motion: The net force on a body equals its mass multiplied by its acceleration.,text notes,,,,,,,
+fedb,B7,flashcard,"FRONT: What is inertia?
+BACK: The tendency of a body to resist changes in motion.",text notes,,,,,,,
+97c5,B7,key concept,"Third law of motion: When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",text notes,,,,,,,
+9275,B7,flashcard,"FRONT: What is the term for the rate of change of an object's motion?
+BACK: Acceleration: the rate of change of an object's motion",text notes,,,,,,,
+9770,B7,key concept,Inertia: The tendency of a body to resist changes in motion.,text notes,,,,,,,
+2316,B7,quiz question,"[multiple_choice] What is the second law of motion?
+  - The net force on a body equals its mass multiplied by its acceleration.
+  - The net force on a body equals its mass multiplied by its velocity.
+  - The net force on a body equals its mass multiplied by its momentum.
+ANSWER: The net force on a body equals its mass multiplied by its acceleration.
+EXPLANATION: The second law states that the net force on a body equals its mass multiplied by its acceleration.",text notes,,,,,,,
+f82c,B7,quiz question,"[short_answer] What is weight?
+ANSWER: The force exerted on an object by gravity.
+EXPLANATION: The force exerted on an object by gravity.",text notes,,,,,,,
+c022,B7,key concept,Mass: A measure of an object's resistance to changes in its motion.,text notes,,,,,,,
+2970,B7,quiz question,"[short_answer] What is the third law of motion?
+ANSWER: When two bodies exert forces on each other, the forces are equal in size and opposite in direction.
+EXPLANATION: When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",text notes,,,,,,,
+0053,B7,flashcard,"FRONT: What is the relationship between net force and mass?
+BACK: the net force on a body equals its mass multiplied by its acceleration",audio transcript,,,,,,,
+d247,B7,key concept,Force: A push or pull that can cause an object to change its motion.,text notes,,,,,,,
+8e9f,B7,key concept,Mass: a measure of an object's resistance to changes in motion: a measure of an object's resistance to changes in motion,audio transcript,,,,,,,
+c032,B7,flashcard,"FRONT: What is the third law of motion?
+BACK: When two bodies exert forces on each other, the forces are equal in size and opposite in direction.",text notes,,,,,,,
+01a4,B7,flashcard,"FRONT: What is the second law of motion?
+BACK: The net force on a body equals its mass multiplied by its acceleration.",text notes,,,,,,,
+64d8,B7,key concept,Acceleration: the rate of change of an object's motion: the rate of change of an object's motion,text notes,,,,,,,
+fa28,B7,flashcard,"FRONT: What is force?
+BACK: A push or pull that can cause an object to change its motion.",text notes,,,,,,,
+7aed,B7,flashcard,"FRONT: What is the first law of motion?
+BACK: A body stays at rest or keeps moving at a constant speed in a straight line unless a force acts on it.",text notes,,,,,,,
+4edd,B7,flashcard,"FRONT: What is weight?
+BACK: The force exerted on an object by gravity.",text notes,,,,,,,
+eb9c,B7,key concept,Weight and mass: the relationship between weight and mass,slide text,,,,,,,
+2d58,B7,key concept,Weight: The force exerted on an object by gravity.,text notes,,,,,,,
+2bb4,B7,flashcard,"FRONT: What is acceleration?
+BACK: The rate of change of an object's velocity.",text notes,,,,,,,
+88ce,B7,flashcard,"FRONT: What is the third law of motion?
+BACK: when two bodies exert forces on each other, the forces are equal in size and opposite in direction",audio transcript,,,,,,,
+c23f,B7,flashcard,"FRONT: What is mass?
+BACK: A measure of an object's resistance to changes in its motion.",text notes,,,,,,,
+c6e7,B7,flashcard,"FRONT: What is the unit of force?
+BACK: Newton (N)",slide text,,,,,,,
+64e2,B7,key concept,The force acting on an object: the term for the force acting on an object,text notes,,,,,,,
+3716,B7,key concept,Net force: the force acting on an object: the force acting on an object,slide text,,,,,,,
+4842,B7,key concept,Newton's laws of motion: Three laws linking the motion of an object to the forces acting on it.,text notes,,,,,,,
+8ed6,B7,key concept,Newton's second law: F = ma: F = ma,slide text,,,,,,,
+ccf1,B7,quiz question,"[multiple_choice] What is the first law of motion?
+  - A body stays at rest.
+  - A body keeps moving at a constant speed in a straight line.
+  - A body changes direction.
+  - A body is at rest or keeps moving at a constant speed in a straight line unless a force acts on it.
+ANSWER: A body is at rest or keeps moving at a constant speed in a straight line unless a force acts on it.
+EXPLANATION: The first law states that a body stays at rest or keeps moving at a constant speed in a straight line unless a force acts on it.",text notes,,,,,,,
+b639,B7,quiz question,"[short_answer] Describe the third law of motion.
+ANSWER: when two bodies exert forces on each other, the forces are equal in size and opposite in direction
+EXPLANATION: when two bodies exert forces on each other, the forces are equal in size and opposite in direction",text notes,,,,,,,
+1bd5,B7,flashcard,"FRONT: What is the force acting on an object?
+BACK: the term for the force acting on an object",text notes,,,,,,,
+9dc2,B8,quiz question,"[short_answer] What is the load factor?
+ANSWER: The number of entries divided by the number of buckets
+EXPLANATION: The number of entries divided by the number of buckets",audio transcript,,,,,,,
+8a4b,B8,key concept,Separate chaining and open addressing are strategies to handle collisions.: Separate chaining and open addressing are common strategies to handle collisions.,audio transcript,,,,,,,
+fc57,B8,quiz question,"[short_answer] What is hashing by division?
+ANSWER: A type of hash function where h(k) = k mod m.
+EXPLANATION: A type of hash function where h(k) = k mod m.",slide text,,,,,,,
+8de2,B8,key concept,Hash tables map keys to values using a hash function.: Hash tables use a hash function to map keys to values.,text notes,,,,,,,
+8617,B8,flashcard,"FRONT: What is a hash table?
+BACK: A data structure that maps keys to values",text notes,,,,,,,
+c834,B8,flashcard,"FRONT: What is open addressing?
+BACK: A strategy to handle collisions where, if a slot is already taken, we probe through the table looking for the next free slot.",audio transcript,,,,,,,
+827d,B8,key concept,Deterministic hash functions always give the same index for a given key.: Deterministic hash functions always give the same index for a given key.,slide text,,,,,,,
+76eb,B8,flashcard,"FRONT: What is separate chaining?
+BACK: A strategy for handling collisions",audio transcript,,,,,,,
+ca1f,B8,flashcard,"FRONT: What is a hash function?
+BACK: A function that turns a key into an index into an array of buckets",text notes,,,,,,,
+4e46,B8,key concept,Load factor: The number of entries divided by the number of buckets,audio transcript,,,,,,,
+600b,B8,key concept,Hashing by division and hashing by multiplication are two types of hash functions.: Hashing by division and hashing by multiplication are two types of hash functions.,slide text,,,,,,,
+a966,B8,flashcard,"FRONT: What is open addressing?
+BACK: Another strategy for handling collisions",audio transcript,,,,,,,
+bef0,B8,flashcard,"FRONT: What is the load factor?
+BACK: The number of entries divided by the number of buckets.",audio transcript,,,,,,,
+8b34,B8,flashcard,"FRONT: What is hashing by division?
+BACK: A type of hash function where h(k) = k mod m.",slide text,,,,,,,
+8753,B8,quiz question,"[short_answer] What is a hash table?
+ANSWER: A data structure that maps keys to values
+EXPLANATION: A data structure that maps keys to values",text notes,,,,,,,
+d726,B8,flashcard,"FRONT: What is a hash table?
+BACK: A data structure that maps keys to values (an associative array or dictionary).",text notes,,,,,,,
+a38b,B8,quiz question,"[multiple_choice] What is a hash function?
+  - A function that turns a key into an index into an array of buckets
+  - A data structure that maps keys to values
+  - A strategy for handling collisions
+ANSWER: A function that turns a key into an index into an array of buckets
+EXPLANATION: A function that turns a key into an index into an array of buckets",text notes,,,,,,,
+ffd6,B8,quiz question,"[short_answer] What is a collision in a hash table?
+ANSWER: When two different keys end up with the same index
+EXPLANATION: When two different keys end up with the same index",audio transcript,,,,,,,
+ebd1,B8,flashcard,"FRONT: What is a collision in a hash table?
+BACK: When two different keys end up with the same index",audio transcript,,,,,,,
+8e48,B8,flashcard,"FRONT: What is a collision in a hash table?
+BACK: When two different keys end up with the same index.",audio transcript,,,,,,,
+7bbd,B8,key concept,Hash table: A data structure that maps keys to values,text notes,,,,,,,
+b54f,B8,flashcard,"FRONT: What is the load factor?
+BACK: The number of entries divided by the number of buckets",audio transcript,,,,,,,
+83fe,B8,flashcard,"FRONT: What is hashing by multiplication?
+BACK: A type of hash function that uses a constant between 0 and 1.",slide text,,,,,,,
+3a68,B8,key concept,"Hash functions can be imperfect, leading to collisions.: Hash functions can be imperfect, leading to collisions.",audio transcript,,,,,,,
+dd3c,B8,quiz question,"[multiple_choice] What is separate chaining?
+  - A strategy for handling collisions
+  - A data structure that maps keys to values
+  - A function that turns a key into an index into an array of buckets
+ANSWER: A strategy for handling collisions
+EXPLANATION: A strategy for handling collisions",audio transcript,,,,,,,
+7c47,B8,flashcard,"FRONT: What is separate chaining?
+BACK: A strategy to handle collisions where each slot holds a linked list of all the entries that hash to it.",audio transcript,,,,,,,
+7da7,B8,key concept,Collision: When two different keys end up with the same index,audio transcript,,,,,,,
+9add,B8,key concept,Separate chaining: A strategy for handling collisions,audio transcript,,,,,,,
+5305,B8,quiz question,"[multiple_choice] What is open addressing?
+  - Another strategy for handling collisions
+  - A data structure that maps keys to values
+  - A function that turns a key into an index into an array of buckets
+  - A strategy for handling collisions
+ANSWER: Another strategy for handling collisions
+EXPLANATION: Another strategy for handling collisions",audio transcript,,,,,,,
+1671,B8,key concept,Hash function: A function that turns a key into an index into an array of buckets,text notes,,,,,,,
+cb97,B8,quiz question,"[multiple_choice] What is the load factor?
+  - A) The number of entries divided by the number of buckets
+  - B) The number of buckets divided by the number of entries
+  - C) The number of free slots in the table
+  - D) The number of collisions in the table
+ANSWER: A) The number of entries divided by the number of buckets
+EXPLANATION: A) The number of entries divided by the number of buckets",audio transcript,,,,,,,
+2699,B8,key concept,A good hash function spreads keys uniformly.: A good hash function spreads keys uniformly.,slide text,,,,,,,
+8105,B8,quiz question,"[multiple_choice] What is the purpose of a hash function?
+  - A) To store data in a table
+  - B) To map keys to values
+  - C) To sort data in ascending order
+  - D) To calculate the average lookup time
+ANSWER: B) To map keys to values
+EXPLANATION: B) To map keys to values",slide text,,,,,,,
+8727,B8,flashcard,"FRONT: What is a good hash function?
+BACK: A hash function that spreads keys uniformly.",slide text,,,,,,,
+6e22,B8,key concept,Open addressing: Another strategy for handling collisions,audio transcript,,,,,,,
+9372,B8,quiz question,"[short_answer] What is a collision in a hash table?
+ANSWER: When two different keys end up with the same index.
+EXPLANATION: When two different keys end up with the same index.",audio transcript,,,,,,,

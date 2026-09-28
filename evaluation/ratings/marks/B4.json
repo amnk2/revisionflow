@@ -1,0 +1,42 @@
+{
+ "items": {
+  "9e28": ["S", 2, 2, 2, "", "", ""],
+  "e9ff": ["S", 2, 2, 1, "", "", "asr-error: 'Newkerman' for Newcomen carried from the transcript"],
+  "d540": ["S", 2, 2, 1, "", "", ""],
+  "3cd7": ["P", "", "", "", "", "", "'first textile machinery' is not stated; the slide only lists it first"],
+  "bb68": ["S", 2, 2, 1, "", "", ""],
+  "b9ec": ["U", 2, 0, 1, "", "", "contradicts the transcript: early power came mostly from water and wind"],
+  "6528": ["P", "", "", "", "", "", "'1712' distorts 'before 1712'"],
+  "723a": ["S", "", "", "", "", "useful", ""],
+  "fa46": ["S", 2, 2, 2, "", "", "asr-error: 'Newkerman' for Newcomen"],
+  "57be": ["P", "", "", "", "", "", "'crucial role' is an added claim"],
+  "0ee5": ["S", "", "", "", "", "useful", ""],
+  "ca2c": ["S", "", "", "", "", "useful", "asr-error: 'Newkerman'"],
+  "b9e2": ["P", "", "", "", "", "", "transcript says first commercially successful use, not first use"],
+  "30f2": ["U", "", "", "", "", "", "contradicts the transcript: steam was not the major source early on; asr-error 'Savory'"],
+  "d3a9": ["S", "", "", "", "", "useful", ""],
+  "dfa7": ["S", "", "", "", "", "useful", "asr-error: 'Savory' for Savery"],
+  "4009": ["S", "", "", "", "", "useful", "answer (a year) does not match the question (what)"],
+  "058e": ["S", "", "", "", "", "useful", ""],
+  "3689": ["S", 2, 2, 2, "", "", ""],
+  "fe70": ["S", "", "", "", "", "useful", "asr-error: 'Bolton' for Boulton"],
+  "01e2": ["U", "", "", "", "", "useful", "contradicts the transcript (water and wind, not steam)"],
+  "6fc2": ["S", "", "", "", "", "", ""],
+  "2e4f": ["S", 2, 2, 1, "", "", ""],
+  "4cde": ["S", "", "", "", "", "useful", ""],
+  "21e6": ["S", "", "", "", "", "useful", ""],
+  "cdab": ["S", "", "", "", "", "", ""],
+  "6896": ["S", 2, 1, 1, "giveaway", "", "garbled question ('first textile industry') gives away 'textiles'"],
+  "eaf0": ["S", "", "", "", "", "useful", "asr-error: 'Newkerman'"],
+  "a627": ["P", "", "", "", "", "", "'social' change and 'how societies functioned' are not in the sources"],
+  "a70b": ["S", 2, 2, 1, "", "", ""],
+  "fa20": ["S", "", "", "", "", "useful", ""],
+  "2687": ["S", "", "", "", "", "useful", ""],
+  "cbc2": ["S", "", "", "", "", "", ""],
+  "1993": ["S", "", "", "", "", "useful", ""]
+ },
+ "summaries": {
+  "d139": [1, 1, 0, 0, 0],
+  "abde": [1, 1, 0, 0, 0.5]
+ }
+}
